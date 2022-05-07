@@ -1,0 +1,3317 @@
+﻿model;price;transmission;mileage;fuelType;tax;mpg;engineSize;Make
+ 5 Series;42995;Automatic;7500;Hybrid;135;156,9;2;BMW
+ Q5;48990;Semi-Auto;5000;Hybrid;135;117,7;2;audi
+ 2 Series;34975;Semi-Auto;5;Diesel;145;48,7;2;BMW
+ Q5;35500;Semi-Auto;3500;Diesel;145;38,2;2;audi
+ TT;28800;Semi-Auto;241;Petrol;145;40,9;2;audi
+ Golf;22290;Semi-Auto;3521;Petrol;145;43,5;1,5;vw
+ Fiesta;18499;Manual;800;Petrol;145;60,1;1;Ford
+ Golf;20500;Manual;2500;Petrol;145;47,1;1,5;vw
+ Polo;15500;Manual;1500;Petrol;145;52,3;1;vw
+ Q3;39888;Automatic;1500;Petrol;145;30,7;2;audi
+ 3 Series;43880;Automatic;5980;Hybrid;135;8,8;2;BMW
+ 2 Series;20980;Semi-Auto;12;Petrol;145;50,4;1,5;BMW
+ X3;39990;Semi-Auto;4773;Diesel;150;48,7;3;BMW
+ Passat;34000;Automatic;10;Hybrid;135;42,8;1,4;vw
+ A5;33990;Semi-Auto;6000;Petrol;145;39,2;2;audi
+ Golf;25500;Semi-Auto;430;Hybrid;150;44,8;1,5;vw
+ Superb;23290;Semi-Auto;495;Diesel;145;47,9;1,6;skoda
+ A6;47995;Semi-Auto;3000;Petrol;150;34;2;audi
+ I30;26999;Manual;1472;Petrol;145;34;2;Hyundai
+ Mondeo;21000;Manual;52;Diesel;145;62,8;2;Ford
+ M4;59995;Semi-Auto;5;Petrol;145;34;3;BMW
+ Tiguan;34990;Manual;4987;Diesel;145;42,8;2;vw
+ Yaris;18908;Automatic;1133;Petrol;150;47,9;1,5;toyota
+ A3;26990;Semi-Auto;3000;Petrol;145;44,1;1,5;audi
+ I10;12995;Manual;4550;Petrol;145;51,4;1,2;Hyundai
+ A5;29000;Automatic;4000;Petrol;145;39,8;2;audi
+ Q7;53792;Automatic;3182;Diesel;145;33,2;3;audi
+ Ioniq;22995;Automatic;5;Hybrid;135;62,8;1,6;Hyundai
+ A4;43890;Automatic;8115;Diesel;145;39,8;3;audi
+ Hilux;36995;Automatic;150;Diesel;260;2,8;2,4;toyota
+ A1;25491;Semi-Auto;5432;Petrol;150;44,8;1,5;audi
+ Touareg;49999;Semi-Auto;3000;Diesel;145;33,6;3;vw
+ TT;29000;Semi-Auto;2301;Petrol;150;40,9;2;audi
+ Q2;24653;Manual;6000;Petrol;145;43,5;1,5;audi
+ X2;31995;Semi-Auto;1501;Diesel;145;61,4;2;BMW
+ A1;24950;Semi-Auto;2888;Petrol;150;44,8;1,5;audi
+ A5;27890;Semi-Auto;3532;Diesel;145;51,4;2;audi
+ Golf;30999;Semi-Auto;3000;Hybrid;135;141,3;1,4;vw
+ Q5;45000;Semi-Auto;2500;Diesel;145;37,2;2;audi
+ Polo;16999;Semi-Auto;5000;Petrol;145;45,6;1;vw
+ Q3;30900;Manual;924;Diesel;145;40,9;2;audi
+ EcoSport;17499;Manual;15;Petrol;150;53,3;1;Ford
+ Mustang;40495;Semi-Auto;3200;Petrol;145;24,8;5;Ford
+ 3 Series;39995;Semi-Auto;5302;Diesel;145;45,6;3;BMW
+ Focus;22500;Manual;200;Petrol;145;60,1;1;Ford
+ X6;54975;Semi-Auto;1075;Petrol;150;26,4;3;BMW
+ Q3;27000;Manual;1200;Petrol;145;40,9;1,5;audi
+ RS3;42490;Automatic;10;Petrol;145;30,1;2,5;audi
+ Q3;32000;Automatic;1500;Petrol;145;31,4;0;audi
+ 3 Series;37875;Semi-Auto;2000;Diesel;145;47,9;3;BMW
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ Up;11990;Manual;100;Petrol;145;50,4;1;vw
+ X1;30995;Semi-Auto;1501;Diesel;145;50,4;2;BMW
+ Golf;19000;Manual;3084;Petrol;145;49,6;1,5;vw
+ Golf;25000;Manual;1000;Petrol;150;49,6;1,5;vw
+ Tucson;25000;Semi-Auto;7417;Petrol;145;36,2;1,6;Hyundai
+ Q2;24988;Automatic;1500;Petrol;145;42,2;0;audi
+ Land Cruiser;45950;Automatic;27;Diesel;145;30,1;2,8;toyota
+ Karoq;27995;Automatic;6000;Diesel;145;42,8;2;skoda
+ A3;21946;Manual;3000;Diesel;145;51,4;1,6;audi
+ Z4;30990;Semi-Auto;10;Petrol;145;38,7;2;BMW
+ T-Roc;20990;Manual;5000;Other;145;44,1;1;vw
+ 5 Series;36993;Semi-Auto;500;Hybrid;145;49,6;2;BMW
+ A4;43990;Semi-Auto;4250;Diesel;145;40,4;3;audi
+ 3 Series;32995;Manual;2356;Diesel;145;54,3;2;BMW
+ Tiguan;27850;Semi-Auto;2500;Diesel;150;40,4;2;vw
+ Golf;22970;Automatic;4;Diesel;145;52,3;2;vw
+ X5;63295;Semi-Auto;150;Diesel;150;33,6;3;BMW
+ TT;29000;Semi-Auto;1000;Petrol;145;40,9;2;audi
+ Kamiq;20999;Manual;1169;Petrol;145;46,3;1,5;skoda
+ Q5;37981;Semi-Auto;4002;Diesel;145;38,2;2;audi
+ A4;40780;Semi-Auto;6746;Diesel;145;45,6;2;audi
+ Golf;22990;Semi-Auto;727;Petrol;145;45,6;1,5;vw
+ A3;20499;Manual;3000;Diesel;145;56,5;2;audi
+ Q2;24950;Semi-Auto;789;Diesel;145;47,9;1,6;audi
+ Aygo;11360;Manual;560;Petrol;145;57,7;1;toyota
+ Q2;31990;Automatic;157;Diesel;145;44,8;2;audi
+ Polo;14250;Manual;1564;Petrol;145;48,7;1;vw
+ 3 Series;32995;Semi-Auto;1501;Diesel;145;50,4;2;BMW
+ TT;33000;Automatic;2500;Petrol;150;34,9;2;audi
+ Karoq;31990;Semi-Auto;2000;Petrol;145;33,2;2;skoda
+ Yaris;14750;Manual;574;Petrol;150;47,9;1,5;toyota
+ A1;28445;Automatic;244;Petrol;145;40,4;2;audi
+ Polo;15440;Manual;3500;Petrol;145;52,3;1;vw
+ Fabia;11990;Manual;835;Petrol;145;47,1;1;skoda
+ Golf;19990;Manual;2000;Diesel;145;57,7;1,6;vw
+ I10;12795;Manual;822;Petrol;145;53,3;1;Hyundai
+ Q2;29970;Semi-Auto;1015;Petrol;150;34,5;2;audi
+ Z4;35850;Semi-Auto;5;Petrol;145;37,2;2;BMW
+ EcoSport;16990;Manual;10;Petrol;150;53,3;1;Ford
+ Golf;20790;Manual;2500;Petrol;145;50,4;1,5;vw
+ Passat;28151;Semi-Auto;6142;Petrol;145;36,7;2;vw
+ A4;25500;Manual;1000;Petrol;145;42,2;2;audi
+ Golf;24999;Manual;5000;Petrol;150;47,9;1,5;vw
+ Q3;30450;Semi-Auto;4000;Diesel;145;47,1;2;audi
+ 3 Series;41555;Semi-Auto;9;Petrol;145;33,6;3;BMW
+ Polo;17450;Manual;1000;Petrol;150;52,3;1;vw
+ A1;19444;Manual;4000;Petrol;145;49,6;1;audi
+ TT;42444;Automatic;1500;Petrol;145;35,3;2;audi
+ 3 Series;31000;Semi-Auto;986;Diesel;150;50,4;2;BMW
+ 3 Series;33475;Semi-Auto;12;Diesel;145;48,7;2;BMW
+ A5;27900;Semi-Auto;5000;Petrol;145;40,4;2;audi
+ I30;19995;Manual;37;Petrol;145;44,8;1;Hyundai
+ Q5;48895;Automatic;1000;Diesel;145;34,5;3;audi
+ 3 Series;23850;Semi-Auto;15;Petrol;145;42,2;2;BMW
+ TT;30990;Automatic;1000;Petrol;150;40,9;2;audi
+ Ioniq;22995;Automatic;3358;Hybrid;135;62,8;1,6;Hyundai
+ Prius;25990;Automatic;1459;Hybrid;135;62,8;1,8;toyota
+ Up;9641;Manual;3500;Petrol;145;54,3;1;vw
+ Puma;24500;Manual;384;Petrol;145;49,6;1;Ford
+ 5 Series;29000;Semi-Auto;9;Petrol;150;50,4;2;BMW
+ Golf;18495;Manual;99;Diesel;145;57,7;1,6;vw
+ 4 Series;27495;Semi-Auto;10;Petrol;145;48,7;2;BMW
+ T-Cross;23995;Automatic;100;Petrol;150;45,6;1;vw
+ Z4;31980;Semi-Auto;1000;Petrol;145;38,7;2;BMW
+ 4 Series;48155;Semi-Auto;10;Petrol;145;44,8;2;BMW
+ Focus;22750;Manual;550;Petrol;145;51,4;1,5;Ford
+ Q3;36950;Semi-Auto;2888;Petrol;150;39,2;1,5;audi
+ Tucson;20991;Semi-Auto;450;Petrol;145;36,2;1,6;Hyundai
+ A1;23845;Semi-Auto;5000;Petrol;145;44,8;1;audi
+ X5;48490;Semi-Auto;5656;Diesel;145;37,7;3;BMW
+ Tiguan;30000;Semi-Auto;1000;Diesel;145;37,2;1,5;vw
+ 2 Series;20980;Semi-Auto;10;Petrol;145;50,4;1,5;BMW
+ 4 Series;25775;Semi-Auto;12;Diesel;150;65,7;2;BMW
+ 1 Series;24880;Manual;1550;Diesel;145;53,3;2;BMW
+ 4 Series;25980;Semi-Auto;101;Diesel;145;65,7;2;BMW
+ A5;29950;Semi-Auto;2888;Petrol;145;40,4;2;audi
+ 5 Series;40995;Semi-Auto;2712;Hybrid;145;55,4;2;BMW
+ T-Cross;19790;Manual;10;Diesel;145;53,3;1,6;vw
+ X1;28995;Semi-Auto;1600;Petrol;145;37,7;1,5;BMW
+ Golf;22290;Automatic;1654;Petrol;145;45,6;1,5;vw
+ Tiguan;30450;Semi-Auto;10;Petrol;145;30,4;2;vw
+ 1 Series;24995;Semi-Auto;102;Petrol;145;40,4;1,5;BMW
+ Polo;17234;Semi-Auto;3885;Petrol;145;45,6;1;vw
+ Golf;28990;Semi-Auto;6000;Petrol;150;37,7;2;vw
+ Golf;25990;Semi-Auto;1446;Hybrid;145;44,8;1,5;vw
+ A3;24450;Semi-Auto;1183;Petrol;150;43,5;1,5;audi
+ Q3;27990;Manual;5000;Petrol;145;39,8;1,5;audi
+ 4 Series;28995;Semi-Auto;121;Petrol;145;48,7;2;BMW
+ X3;35900;Semi-Auto;4500;Diesel;150;54,3;2;BMW
+ Kodiaq;33495;Automatic;960;Diesel;145;39,2;2;skoda
+ X2;33400;Semi-Auto;1766;Diesel;145;58,9;2;BMW
+ Tiguan;28990;Semi-Auto;2331;Diesel;145;39,8;2;vw
+ Golf;21000;Semi-Auto;2999;Petrol;145;45,6;1,5;vw
+ Arteon;31991;Semi-Auto;4688;Diesel;145;50,4;2;vw
+ Passat;25690;Semi-Auto;4997;Diesel;145;53,3;2;vw
+ Polo;13990;Manual;2887;Petrol;145;48,7;1;vw
+ 2 Series;33065;Semi-Auto;102;Diesel;145;49,6;2;BMW
+ 1 Series;23450;Manual;1524;Petrol;145;44,1;1,5;BMW
+ Passat;27489;Manual;5000;Petrol;145;43,5;1,5;vw
+ 2 Series;25000;Automatic;101;Petrol;145;47,9;2;BMW
+ Golf;23790;Manual;190;Petrol;145;47,1;1,5;vw
+ X2;34990;Semi-Auto;103;Petrol;150;34;2;BMW
+ Golf;34299;Semi-Auto;3201;Petrol;145;32,8;2;vw
+ T-Roc;39495;Semi-Auto;10;Petrol;145;32,5;2;vw
+ A5;28000;Semi-Auto;1500;Diesel;145;51,4;2;audi
+ Tucson;24749;Semi-Auto;6000;Petrol;150;36,2;1,6;Hyundai
+ Focus;20391;Automatic;2738;Diesel;145;74,3;1,5;Ford
+ Q3;31990;Semi-Auto;2166;Diesel;145;47,1;2;audi
+ S-MAX;34498;Semi-Auto;4623;Diesel;145;43,5;2;Ford
+ Q7;56900;Semi-Auto;1500;Diesel;145;33,2;3;audi
+ A4;32850;Semi-Auto;3500;Petrol;145;38,2;2;audi
+ Polo;15490;Manual;5000;Petrol;145;52,3;1;vw
+ A4;40900;Semi-Auto;1964;Diesel;145;40,4;3;audi
+ Tiguan;32501;Semi-Auto;150;Petrol;145;30,4;2;vw
+ Tiguan Allspace;37950;Semi-Auto;2500;Diesel;145;38,7;2;vw
+ Fiesta;15500;Manual;2462;Petrol;150;58,9;1;Ford
+ Passat;24496;Automatic;1005;Diesel;145;53,3;2;vw
+ Scala;16495;Manual;500;Petrol;150;50,4;1;skoda
+ Scala;19995;Semi-Auto;1000;Petrol;145;45,6;1,5;skoda
+ I10;13949;Semi-Auto;6000;Petrol;150;52,3;1,2;Hyundai
+ Polo;15999;Manual;2000;Petrol;150;48,7;1;vw
+ Q3;30990;Semi-Auto;859;Diesel;150;48,7;2;audi
+ 3 Series;29990;Semi-Auto;12;Petrol;150;41,5;2;BMW
+ 4 Series;26990;Semi-Auto;7;Petrol;145;48,7;2;BMW
+ Scala;14995;Manual;1656;Petrol;145;50,4;1;skoda
+ 2 Series;21890;Semi-Auto;12;Petrol;150;50,4;1,5;BMW
+ Superb;26995;Semi-Auto;1000;Diesel;145;47,1;2;skoda
+ Golf;20950;Semi-Auto;1500;Petrol;150;45,6;1,5;vw
+ EcoSport;18499;Manual;7;Petrol;145;52,3;1;Ford
+ Kona;13999;Automatic;25446;Hybrid;135;52,3;1,6;Hyundai
+ Fiesta;14999;Manual;79;Petrol;145;56,5;1;Ford
+ Polo;15500;Manual;1000;Petrol;145;47,9;1;vw
+ 3 Series;30990;Semi-Auto;4506;Diesel;150;52,3;2;BMW
+ Up;9990;Manual;387;Petrol;145;54,3;1;vw
+ A4;35995;Semi-Auto;609;Petrol;145;40,9;2;audi
+ T-Roc;26249;Manual;5000;Other;145;42,2;1,5;vw
+ 2 Series;28000;Semi-Auto;1501;Diesel;145;65,7;2;BMW
+ 2 Series;31820;Manual;1500;Petrol;145;43,5;1,5;BMW
+ 4 Series;35450;Semi-Auto;10;Diesel;145;47,9;3;BMW
+ Q3;37888;Automatic;285;Petrol;145;30,7;0;audi
+ Polo;14965;Manual;100;Petrol;150;47,9;1;vw
+ T-Cross;22990;Manual;6000;Petrol;145;47,9;1;vw
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ A4;43750;Automatic;2000;Diesel;145;40,9;3;audi
+ Focus;22490;Manual;3492;Petrol;145;60,1;1;Ford
+ Up;9700;Manual;999;Petrol;145;54,3;1;vw
+ A3;29000;Semi-Auto;352;Diesel;145;50,4;2;audi
+ 4 Series;31503;Semi-Auto;1418;Diesel;145;50,4;3;BMW
+ 1 Series;32451;Semi-Auto;206;Diesel;145;48,7;2;BMW
+ A1;21000;Manual;5000;Petrol;145;47,9;1;audi
+ Corolla;27995;Automatic;2500;Hybrid;135;53,3;2;toyota
+ Octavia;21490;Semi-Auto;1495;Petrol;150;44,8;1,5;skoda
+ Q7;51995;Semi-Auto;3000;Diesel;145;33,2;3;audi
+ A1;22750;Semi-Auto;2999;Petrol;145;44,8;1,5;audi
+ A5;32880;Automatic;4521;Petrol;145;39,2;2;audi
+ 3 Series;40000;Semi-Auto;2000;Diesel;145;47,9;3;BMW
+ Fabia;14257;Manual;2777;Petrol;150;51,4;1;skoda
+ Scala;18600;Automatic;3059;Petrol;150;47,1;1;skoda
+ Hilux;30500;Automatic;5000;Diesel;260;2,8;2,4;toyota
+ Passat;20998;Semi-Auto;36;Diesel;145;49,6;1,6;vw
+ 7 Series;54995;Semi-Auto;1501;Diesel;145;42,2;3;BMW
+ T-Roc;21690;Manual;2500;Petrol;145;44,1;1;vw
+ X2;39991;Semi-Auto;700;Petrol;145;34;2;BMW
+ 6 Series;36850;Semi-Auto;6;Diesel;145;53,3;3;BMW
+ Fiesta;15000;Manual;424;Petrol;145;58,9;1;Ford
+ T-Cross;18980;Manual;600;Petrol;145;47,9;1;vw
+ Tucson;23980;Semi-Auto;1764;Hybrid;145;50,4;1,6;Hyundai
+ 1 Series;31016;Semi-Auto;101;Diesel;145;48,7;2;BMW
+ 3 Series;37000;Automatic;4691;Hybrid;135;8,8;2;BMW
+ A1;23795;Semi-Auto;1000;Petrol;145;44,8;1,5;audi
+ A1;20990;Manual;3265;Petrol;145;47,9;1;audi
+ A3;27490;Automatic;1350;Diesel;145;51,4;2;audi
+ Q5;33450;Semi-Auto;310;Petrol;150;33,2;2;audi
+ Kuga;25050;Manual;50;Diesel;145;38,2;2;Ford
+ I10;12500;Manual;371;Petrol;150;56,5;1;Hyundai
+ X3;39993;Semi-Auto;500;Diesel;145;54,3;2;BMW
+ X2;25980;Semi-Auto;23;Diesel;145;61,4;2;BMW
+ Z4;35995;Automatic;2500;Petrol;145;38,7;2;BMW
+ T-Roc;29990;Semi-Auto;2503;Petrol;145;34,5;2;vw
+ 3 Series;34993;Semi-Auto;6250;Diesel;145;47,9;3;BMW
+ 3 Series;26490;Semi-Auto;14;Diesel;150;60,1;2;BMW
+ X2;22980;Semi-Auto;10;Petrol;145;43,5;1,5;BMW
+ Q2;26500;Automatic;10;Petrol;145;42,2;1,5;audi
+ Tiguan;29995;Semi-Auto;2000;Diesel;145;39,8;2;vw
+ A4;45000;Semi-Auto;2500;Diesel;145;40,4;3;audi
+ 3 Series;35158;Semi-Auto;101;Diesel;145;48,7;2;BMW
+ Q3;36900;Semi-Auto;2183;Petrol;145;39,8;1,5;audi
+ X4;45990;Semi-Auto;7724;Diesel;145;37,2;3;BMW
+ Up;11099;Manual;500;Petrol;145;51,4;1;vw
+ A5;33990;Semi-Auto;3000;Petrol;145;39,8;2;audi
+ A1;25000;Semi-Auto;3000;Petrol;145;44,8;1,5;audi
+ Up;10950;Manual;1000;Petrol;145;54,3;1;vw
+ Superb;27995;Semi-Auto;4500;Hybrid;140;188,3;1,4;skoda
+ Q3;38000;Semi-Auto;2000;Petrol;145;30,7;2;audi
+ Golf;19990;Manual;100;Petrol;150;51,4;1;vw
+ Tiguan;31990;Semi-Auto;1500;Diesel;150;31,4;2;vw
+ Mondeo;20000;Manual;15;Diesel;145;65,7;2;Ford
+ Scala;16990;Semi-Auto;3569;Petrol;145;47,1;1;skoda
+ Tiguan;26990;Manual;1061;Diesel;145;47,9;2;vw
+ Scala;21450;Semi-Auto;1000;Petrol;145;47,1;1;skoda
+ 4 Series;32583;Automatic;2500;Petrol;145;48,7;2;BMW
+ Z4;29990;Semi-Auto;11;Petrol;145;38,7;2;BMW
+ S4;45888;Automatic;1500;Diesel;145;39,2;3;audi
+ EcoSport;18470;Manual;726;Petrol;150;51,4;1;Ford
+ Scala;18250;Manual;3543;Petrol;145;49,6;1;skoda
+ Tiguan;29790;Manual;5000;Diesel;145;47,9;2;vw
+ Corolla;25490;Automatic;1697;Hybrid;135;56,5;1,8;toyota
+ 2 Series;28995;Semi-Auto;1501;Diesel;145;49,6;2;BMW
+ Q3;37888;Semi-Auto;2553;Petrol;145;30,7;2;audi
+ 4 Series;30995;Semi-Auto;10;Diesel;145;60,1;2;BMW
+ 3 Series;28990;Semi-Auto;5656;Diesel;145;52,3;2;BMW
+ Tiguan;31490;Automatic;896;Petrol;145;31,4;2;vw
+ Tiguan;32990;Manual;2986;Diesel;145;47,9;2;vw
+ Up;9999;Manual;5000;Petrol;145;54,3;1;vw
+ A4;28970;Semi-Auto;3515;Diesel;150;54,3;3;audi
+ X3;34950;Semi-Auto;2500;Diesel;145;54,3;2;BMW
+ S4;44888;Automatic;1500;Diesel;145;39,2;0;audi
+ Polo;16190;Automatic;4150;Petrol;145;45,6;1;vw
+ Aygo;10980;Semi-Auto;4578;Petrol;145;56,5;1;toyota
+ T-Cross;24990;Automatic;3000;Petrol;150;45,6;1;vw
+ Tiguan Allspace;34250;Semi-Auto;5000;Diesel;145;38,7;2;vw
+ T-Cross;22880;Automatic;1000;Petrol;145;45,6;1;vw
+ Tiguan;23741;Manual;4366;Petrol;145;38,2;1,5;vw
+ A5;29000;Semi-Auto;5000;Diesel;145;51,4;2;audi
+ Octavia;17500;Manual;3000;Diesel;150;57,7;1,6;skoda
+ Kodiaq;32999;Automatic;3589;Diesel;145;39,2;2;skoda
+ X2;27890;Manual;10;Diesel;145;48,7;2;BMW
+ A4;43995;Semi-Auto;4000;Diesel;145;40,9;3;audi
+ X4;53630;Semi-Auto;117;Diesel;145;40,9;3;BMW
+ Scala;15995;Manual;1422;Petrol;145;49,6;1;skoda
+ 3 Series;41950;Semi-Auto;8;Petrol;150;33,6;3;BMW
+ 1 Series;32972;Semi-Auto;151;Petrol;150;34,5;2;BMW
+ Golf;28840;Automatic;4000;Petrol;150;37,7;2;vw
+ T-Cross;22999;Manual;489;Diesel;145;52,3;1,6;vw
+ Q2;28490;Automatic;101;Petrol;145;42,2;1,5;audi
+ 3 Series;29875;Semi-Auto;150;Petrol;145;42,2;2;BMW
+ Fabia;13795;Manual;1000;Petrol;150;51,4;1;skoda
+ Q3;37990;Automatic;1500;Petrol;145;30,7;0;audi
+ T-Roc;24250;Manual;2000;Diesel;145;50,4;1,6;vw
+ Q7;60950;Automatic;2402;Diesel;145;33,2;3;audi
+ 3 Series;30990;Semi-Auto;3656;Diesel;150;50,4;2;BMW
+ 3 Series;33995;Semi-Auto;10;Diesel;145;53,3;2;BMW
+ Golf;24000;Semi-Auto;1000;Hybrid;145;44,8;1,5;vw
+ 3 Series;35995;Semi-Auto;11;Diesel;145;47,9;3;BMW
+ Golf;23490;Semi-Auto;2589;Hybrid;145;44,8;1,5;vw
+ Golf;23551;Semi-Auto;3546;Petrol;150;44,1;1,5;vw
+ Fiesta;21000;Manual;10;Petrol;150;40,3;1,5;Ford
+ Touran;25980;Manual;469;Petrol;145;39,8;1,5;vw
+ 4 Series;30750;Semi-Auto;100;Diesel;145;50,4;3;BMW
+ Fiesta;13750;Manual;1200;Petrol;145;56,5;1;Ford
+ T-Roc;34995;Semi-Auto;2000;Petrol;150;32,5;2;vw
+ A4;45000;Semi-Auto;6400;Diesel;145;39,2;3;audi
+ 1 Series;28790;Semi-Auto;953;Diesel;145;51,4;2;BMW
+ EcoSport;16999;Manual;1812;Petrol;145;52,3;1;Ford
+ Octavia;16595;Manual;10;Petrol;150;51,4;1,5;skoda
+ A4;47990;Automatic;5500;Petrol;145;35,3;2;audi
+ T-Cross;18999;Manual;1549;Diesel;145;53,3;1,6;vw
+ Tiguan;28995;Manual;2000;Diesel;145;47,9;2;vw
+ 2 Series;30995;Semi-Auto;1000;Diesel;145;48,7;2;BMW
+ Karoq;24990;Semi-Auto;7321;Diesel;145;42,8;2;skoda
+ 3 Series;23990;Manual;5;Diesel;145;56,5;2;BMW
+ Tiguan;36100;Automatic;50;Diesel;145;39,8;2;vw
+ 3 Series;32000;Semi-Auto;1798;Diesel;145;52,3;2;BMW
+ T-Cross;18990;Automatic;2500;Diesel;145;51,4;1,6;vw
+ Polo;15990;Manual;752;Diesel;145;57,7;1,6;vw
+ A4;47990;Semi-Auto;5000;Diesel;145;39,2;3;audi
+ Golf;31498;Semi-Auto;15;Petrol;150;32,8;2;vw
+ Golf;20995;Manual;5106;Diesel;145;55,4;2;vw
+ Caravelle;50395;Semi-Auto;1000;Diesel;145;34;2;vw
+ Kona;25280;Automatic;2083;Hybrid;135;52,3;1,6;Hyundai
+ T-Cross;20999;Manual;1711;Petrol;145;47,9;1;vw
+ Golf;30498;Semi-Auto;10;Petrol;150;32,8;2;vw
+ Scala;18545;Semi-Auto;100;Petrol;145;45,6;1,5;skoda
+ T-Cross;22999;Manual;5000;Other;145;47,9;1;vw
+ Tiguan;33999;Manual;896;Diesel;145;47,9;2;vw
+ 5 Series;35995;Automatic;2500;Hybrid;145;62,8;2;BMW
+ Golf;24490;Manual;50;Petrol;145;47,1;1,5;vw
+ Passat;36500;Semi-Auto;1026;Hybrid;135;43,5;1,4;vw
+ Scala;15990;Manual;1234;Petrol;150;49,6;1;skoda
+ 3 Series;51000;Semi-Auto;5000;Diesel;150;43,5;3;BMW
+ 4 Series;25453;Semi-Auto;2540;Diesel;145;65,7;2;BMW
+ Z4;33993;Semi-Auto;603;Petrol;145;38,7;2;BMW
+ Scala;17000;Manual;731;Petrol;150;50,4;1;skoda
+ Q3;32444;Semi-Auto;1445;Petrol;145;31,4;2;audi
+ Passat;23000;Manual;2000;Petrol;145;45,6;1,5;vw
+ X4;43995;Semi-Auto;2000;Petrol;145;26,9;3;BMW
+ 3 Series;36990;Semi-Auto;2475;Petrol;145;40,4;2;BMW
+ Z4;33850;Semi-Auto;103;Petrol;145;37,2;2;BMW
+ Golf;31989;Automatic;2419;Petrol;145;32,8;2;vw
+ Santa Fe;43995;Semi-Auto;10;Diesel;145;39,2;2,2;Hyundai
+ Up;11780;Manual;6;Petrol;145;50,4;1;vw
+ Z4;34993;Semi-Auto;3100;Petrol;145;38,7;2;BMW
+ Q3;38888;Automatic;1500;Petrol;145;30,7;0;audi
+ X5;61980;Semi-Auto;3968;Diesel;145;33,6;3;BMW
+ Puma;21500;Manual;3198;Petrol;145;50,4;1;Ford
+ Golf;34495;Semi-Auto;1500;Petrol;145;32,8;2;vw
+ Yaris;14991;Manual;3836;Petrol;150;47,9;1,5;toyota
+ 3 Series;27995;Manual;1000;Diesel;145;54,3;2;BMW
+ Scala;22499;Automatic;2645;Diesel;145;54,3;1,6;skoda
+ Aygo;9480;Manual;10000;Petrol;145;56,5;1;toyota
+ X4;43898;Semi-Auto;2679;Petrol;145;26,9;3;BMW
+ X6;55995;Semi-Auto;5000;Diesel;145;34,9;3;BMW
+ 4 Series;26750;Semi-Auto;2986;Diesel;150;65,7;2;BMW
+ Q5;44990;Semi-Auto;6000;Diesel;145;37,2;2;audi
+ Land Cruiser;50995;Semi-Auto;3390;Diesel;145;30,1;2,8;toyota
+ C-HR;25000;Automatic;3520;Other;135;57,7;1,8;toyota
+ A1;27995;Automatic;94;Petrol;145;40,4;2;audi
+ A3;29490;Manual;500;Diesel;145;52,3;1,6;audi
+ T-Roc;25500;Manual;1690;Petrol;145;44,1;1,5;vw
+ Touareg;49999;Semi-Auto;2000;Diesel;145;33,6;3;vw
+ Golf;33850;Semi-Auto;5000;Petrol;145;32,8;2;vw
+ I30;16995;Manual;4000;Petrol;145;41,5;1,4;Hyundai
+ T-Roc;26995;Semi-Auto;2964;Petrol;150;39,8;1,5;vw
+ 4 Series;47550;Semi-Auto;101;Diesel;145;60,1;2;BMW
+ Q2;27591;Semi-Auto;4455;Diesel;150;44,8;2;audi
+ Kodiaq;32990;Automatic;1007;Diesel;145;39,2;2;skoda
+ Tiguan;23250;Manual;3000;Petrol;145;38,2;1,5;vw
+ Focus;22995;Manual;5817;Petrol;145;60,1;1;Ford
+ Octavia;20950;Semi-Auto;1234;Diesel;145;54,3;2;skoda
+ A3;22777;Manual;1276;Diesel;145;52,3;1,6;audi
+ Kuga;32000;Automatic;10;Hybrid;140;201,8;2,5;Ford
+ I20;11990;Manual;1958;Petrol;150;46,3;1,2;Hyundai
+ Up;10450;Manual;1393;Petrol;145;54,3;1;vw
+ 3 Series;29999;Semi-Auto;9;Diesel;145;50,4;2;BMW
+ X2;33940;Automatic;2182;Petrol;145;34;2;BMW
+ Tiguan;22862;Semi-Auto;4311;Petrol;150;37,7;1,5;vw
+ T-Roc;27207;Semi-Auto;796;Petrol;145;39,8;1,5;vw
+ Golf;22995;Manual;2000;Petrol;145;49,6;1,5;vw
+ Z4;28990;Semi-Auto;5;Petrol;145;38,2;2;BMW
+ Up;10555;Manual;2568;Petrol;145;54,3;1;vw
+ 3 Series;37990;Semi-Auto;5875;Diesel;145;45,6;3;BMW
+ A8;48490;Semi-Auto;1354;Diesel;145;39,2;3;audi
+ Kamiq;23750;Semi-Auto;1000;Petrol;145;43,5;1,5;skoda
+ T-Roc;23495;Manual;1000;Diesel;150;50,4;2;vw
+ Octavia;20880;Semi-Auto;895;Petrol;145;45,6;1,5;skoda
+ 4 Series;26950;Semi-Auto;10;Petrol;145;48,7;2;BMW
+ Q7;49989;Semi-Auto;6000;Diesel;145;33,2;3;audi
+ Q3;33990;Automatic;1500;Diesel;145;47,1;0;audi
+ Polo;11995;Manual;18754;Petrol;145;48,7;1;vw
+ EcoSport;17390;Manual;650;Petrol;145;53,3;1;Ford
+ Fiesta;14500;Manual;7;Petrol;145;56,5;1;Ford
+ T-Cross;22990;Manual;1478;Petrol;145;47,9;1;vw
+ Polo;18295;Semi-Auto;10;Petrol;145;45,6;1;vw
+ Tiguan;32995;Manual;10;Diesel;145;47,9;2;vw
+ 5 Series;26990;Semi-Auto;6;Petrol;145;52,3;2;BMW
+ 3 Series;37950;Semi-Auto;100;Diesel;145;47,9;3;BMW
+ Golf;21000;Manual;2000;Petrol;145;47,1;1,5;vw
+ Golf;21498;Semi-Auto;10;Diesel;150;53,3;2;vw
+ I10;13000;Manual;500;Petrol;145;53,3;1;Hyundai
+ Focus;24799;Manual;641;Petrol;145;50,4;1,5;Ford
+ Golf;23195;Semi-Auto;246;Petrol;145;43,5;1,5;vw
+ Q5;38990;Semi-Auto;2240;Diesel;145;38,2;2;audi
+ Fiesta;17800;Manual;10;Petrol;145;58,9;1;Ford
+ Kodiaq;25995;Semi-Auto;1000;Diesel;145;42,2;2;skoda
+ I10;11990;Manual;3213;Petrol;145;56,5;1;Hyundai
+ 2 Series;25000;Automatic;2980;Petrol;145;40,9;1,5;BMW
+ Golf;34790;Semi-Auto;1000;Petrol;145;36,2;2;vw
+ Tiguan Allspace;29399;Semi-Auto;2334;Petrol;145;35,8;1,5;vw
+ T-Roc;22980;Manual;600;Petrol;145;42,2;1,5;vw
+ Mondeo;24979;Automatic;2213;Hybrid;135;47,9;2;Ford
+ Q5;36000;Semi-Auto;6500;Petrol;145;32,1;2;audi
+ X2;28995;Semi-Auto;10;Diesel;145;58,9;2;BMW
+ Superb;20995;Semi-Auto;1000;Diesel;145;49,6;1,6;skoda
+ Focus;17490;Manual;1550;Petrol;145;49,6;1;Ford
+ A8;54990;Automatic;10;Diesel;145;39,2;3;audi
+ Golf;32442;Automatic;6530;Petrol;150;32,8;2;vw
+ California;61995;Semi-Auto;1000;Diesel;260;32,1;2;vw
+ Passat;27000;Manual;2000;Diesel;150;57,7;2;vw
+ Golf;33695;Semi-Auto;4201;Petrol;145;32,8;2;vw
+ Golf;25491;Semi-Auto;2000;Diesel;145;52,3;2;vw
+ Touran;33489;Semi-Auto;2800;Diesel;150;45,6;2;vw
+ Touareg;51690;Automatic;6500;Petrol;150;26,2;3;vw
+ Z4;39990;Automatic;1784;Petrol;150;33,2;3;BMW
+ Polo;13490;Manual;2500;Petrol;145;48,7;1;vw
+ Fiesta;25999;Manual;12;Petrol;145;40,4;1,5;Ford
+ Tiguan;31799;Semi-Auto;1000;Diesel;145;45,6;2;vw
+ Q3;32444;Automatic;1500;Petrol;145;31,4;0;audi
+ X2;30990;Manual;6;Petrol;145;42,8;1,5;BMW
+ A3;23995;Manual;1560;Diesel;145;55,4;2;audi
+ T-Cross;23500;Manual;2000;Diesel;145;52,3;1,6;vw
+ Karoq;23990;Automatic;4000;Petrol;145;40,9;1,5;skoda
+ Q2;40000;Semi-Auto;5900;Petrol;150;32,5;2;audi
+ Golf;21990;Semi-Auto;3219;Diesel;145;53,3;2;vw
+ X2;24490;Semi-Auto;1;Diesel;145;52,3;2;BMW
+ 3 Series;30995;Semi-Auto;1501;Petrol;145;42,2;2;BMW
+ T-Cross;20995;Manual;227;Petrol;150;47,9;1;vw
+ T-Roc;25999;Manual;3000;Petrol;145;42,2;1,5;vw
+ Focus;20000;Manual;100;Petrol;145;60,1;1;Ford
+ Up;9850;Manual;2000;Petrol;145;54,3;1;vw
+ A4;32000;Semi-Auto;20;Diesel;145;51,4;2;audi
+ TT;30000;Automatic;2500;Petrol;150;40,9;2;audi
+ Corolla;26700;Automatic;3675;Hybrid;135;53,3;2;toyota
+ Tiguan;39750;Semi-Auto;2999;Diesel;150;35,3;2;vw
+ Amarok;37000;Automatic;10;Diesel;260;28,3;3;vw
+ Q5;53990;Automatic;4394;Diesel;145;34,5;3;audi
+ Kodiaq;25790;Manual;8054;Diesel;145;52,3;2;skoda
+ Q3;30990;Semi-Auto;9985;Petrol;145;31,4;2;audi
+ Kodiaq;32995;Automatic;2500;Diesel;150;39,2;2;skoda
+ Fabia;14799;Manual;100;Petrol;145;50,4;1;skoda
+ A1;21746;Semi-Auto;3000;Petrol;145;44,8;1;audi
+ Passat;27490;Manual;972;Diesel;145;57,7;2;vw
+ Q3;33333;Automatic;1500;Diesel;145;47,1;0;audi
+ Q8;58000;Semi-Auto;2000;Diesel;145;33,6;3;audi
+ 3 Series;39995;Semi-Auto;1898;Petrol;145;41,5;2;BMW
+ Up;15991;Manual;1113;Petrol;150;53,3;1;vw
+ Q3;32444;Automatic;1500;Petrol;145;31,4;2;audi
+ T-Cross;18890;Manual;3000;Petrol;145;47,9;1;vw
+ Polo;16450;Manual;1000;Petrol;150;47,9;1;vw
+ A1;22250;Semi-Auto;4500;Petrol;145;44,1;1;audi
+ Polo;17250;Semi-Auto;2000;Petrol;145;45,6;1;vw
+ Q2;26169;Manual;6000;Petrol;145;43,5;1,5;audi
+ Up;11530;Manual;100;Petrol;145;54,3;1;vw
+ 2 Series;28890;Semi-Auto;6000;Petrol;145;39,8;3;BMW
+ X2;37995;Automatic;2500;Petrol;145;34;2;BMW
+ Focus;18495;Manual;5500;Petrol;145;60,1;1;Ford
+ T-Cross;17490;Manual;3882;Diesel;145;53,3;1,6;vw
+ 3 Series;37250;Automatic;101;Diesel;145;47,9;3;BMW
+ Polo;15495;Semi-Auto;5127;Petrol;145;45,6;1;vw
+ A4;43000;Automatic;3000;Diesel;145;40,4;3;audi
+ Q3;26890;Manual;2574;Petrol;145;40,9;1,5;audi
+ R8;133900;Semi-Auto;333;Petrol;145;21,4;5,2;audi
+ X7;64999;Semi-Auto;4000;Diesel;145;33,6;3;BMW
+ A4;44500;Automatic;3911;Diesel;145;40,4;3;audi
+ Fiesta;18000;Manual;25;Petrol;145;54,3;1;Ford
+ T-Roc;23790;Semi-Auto;5000;Petrol;145;39,8;1,5;vw
+ Fiesta;17298;Manual;4563;Petrol;145;54,3;1;Ford
+ A5;28900;Manual;3452;Petrol;145;39,8;2;audi
+ A8;48500;Semi-Auto;2000;Diesel;145;39,2;3;audi
+ Polo;13965;Manual;100;Petrol;150;48,7;1;vw
+ Kamiq;19500;Manual;2000;Petrol;145;47,9;1;skoda
+ Tiguan;33999;Semi-Auto;501;Diesel;145;31,4;2;vw
+ Polo;20941;Semi-Auto;3500;Petrol;145;46,3;1;vw
+ A5;37507;Semi-Auto;7639;Petrol;145;39,8;2;audi
+ T-Roc;31990;Semi-Auto;2214;Petrol;145;34,5;2;vw
+ Fabia;12995;Manual;500;Petrol;145;52,3;1;skoda
+ EcoSport;16690;Manual;151;Petrol;145;53,3;1;Ford
+ 3 Series;28950;Semi-Auto;300;Petrol;145;42,2;2;BMW
+ 2 Series;20980;Semi-Auto;10;Petrol;145;50,4;1,5;BMW
+ A5;29750;Semi-Auto;2000;Diesel;145;51,4;2;audi
+ Puma;21995;Manual;4111;Petrol;145;50,4;1;Ford
+ Q7;57888;Automatic;1500;Diesel;145;33,2;3;audi
+ Focus;20999;Automatic;7;Petrol;145;50,4;1;Ford
+ Polo;22900;Semi-Auto;3000;Petrol;150;39,8;2;vw
+ Polo;19950;Semi-Auto;2000;Petrol;150;46,3;1;vw
+ Up;9999;Manual;5000;Petrol;145;54,3;1;vw
+ M2;46995;Automatic;4500;Petrol;145;29,1;3;BMW
+ 4 Series;25980;Semi-Auto;14;Diesel;145;65,7;2;BMW
+ Golf;31498;Semi-Auto;10;Petrol;150;32,8;2;vw
+ Q2;25990;Manual;1500;Petrol;145;43,5;1,5;audi
+ T-Roc;25310;Manual;3011;Petrol;145;42,2;1,5;vw
+ GT86;24990;Manual;339;Petrol;145;33,2;2;toyota
+ Polo;17940;Manual;3500;Petrol;145;49,6;1;vw
+ A3;27991;Semi-Auto;2500;Petrol;145;43,5;1,5;audi
+ RS3;41990;Automatic;415;Petrol;145;29,7;2,5;audi
+ Polo;13999;Manual;5000;Petrol;145;47,9;1;vw
+ Golf;21999;Manual;248;Petrol;145;47,9;1,5;vw
+ 2 Series;31590;Manual;980;Petrol;145;43,5;1,5;BMW
+ X1;34999;Semi-Auto;5000;Diesel;150;47,9;2;BMW
+ Polo;14451;Manual;1053;Petrol;150;48,7;1;vw
+ Golf;20999;Manual;420;Diesel;145;56,5;1,6;vw
+ Arteon;34500;Semi-Auto;4000;Diesel;145;50,4;2;vw
+ Golf SV;25490;Automatic;1000;Petrol;145;42,8;1,5;vw
+ 3 Series;31980;Semi-Auto;10;Diesel;145;50,4;2;BMW
+ T-Roc;40000;Semi-Auto;3500;Petrol;145;32,5;2;vw
+ 2 Series;28490;Semi-Auto;5;Petrol;145;50,4;2;BMW
+ Camry;26490;Automatic;10000;Hybrid;135;52,3;2,5;toyota
+ Q5;62000;Semi-Auto;5000;Diesel;150;32,5;3;audi
+ Polo;14990;Manual;1920;Petrol;145;48,7;1;vw
+ I10;13495;Manual;3000;Petrol;150;56,5;1;Hyundai
+ Aygo;9995;Manual;500;Petrol;145;56,5;1;toyota
+ 5 Series;29950;Semi-Auto;9;Hybrid;145;49,6;2;BMW
+ Karoq;24980;Automatic;2000;Petrol;150;41,5;1,5;skoda
+ T-Roc;27295;Automatic;2317;Diesel;145;49,6;2;vw
+ Superb;36000;Semi-Auto;6968;Hybrid;135;188,3;1,4;skoda
+ Polo;16992;Manual;4288;Petrol;145;51,4;1;vw
+ A6;28000;Automatic;2511;Diesel;145;47,9;2;audi
+ X1;26950;Manual;18;Petrol;145;49,6;1,5;BMW
+ I10;12495;Manual;1900;Petrol;145;56,5;1;Hyundai
+ 4 Series;27950;Manual;10;Diesel;145;62,8;2;BMW
+ I10;13995;Manual;3000;Petrol;145;56,5;1;Hyundai
+ Superb;29991;Semi-Auto;3565;Hybrid;135;188,3;1,4;skoda
+ Polo;17999;Semi-Auto;1452;Petrol;145;45,6;1;vw
+ Tucson;18480;Manual;1550;Petrol;145;34,9;1,6;Hyundai
+ I10;14485;Manual;100;Petrol;145;51,4;1,2;Hyundai
+ Kodiaq;29999;Automatic;995;Diesel;145;39,2;2;skoda
+ C-HR;28991;Automatic;3798;Hybrid;140;54,3;2;toyota
+ Up;11520;Manual;50;Petrol;150;51,4;1;vw
+ Tiguan;34995;Manual;1000;Diesel;150;42,8;2;vw
+ 8 Series;59995;Semi-Auto;1501;Petrol;145;31,7;3;BMW
+ A3;35995;Semi-Auto;314;Petrol;150;34,9;2;audi
+ Golf;24495;Manual;3000;Petrol;150;47,1;1,5;vw
+ Arteon;34000;Semi-Auto;3000;Petrol;150;32,8;2;vw
+ 4 Series;38000;Semi-Auto;101;Diesel;150;49,6;3;BMW
+ Fiesta;15980;Manual;2489;Petrol;150;55,4;1;Ford
+ 5 Series;29990;Semi-Auto;10;Petrol;145;50,4;2;BMW
+ Tucson;25180;Automatic;978;Petrol;145;35,8;1,6;Hyundai
+ Amarok;34995;Automatic;5000;Diesel;265;33,6;3;vw
+ A4;28995;Semi-Auto;3920;Petrol;145;42,2;2;audi
+ Golf;20990;Manual;1000;Petrol;145;49,6;1,5;vw
+ Q3;28490;Manual;10;Petrol;145;39,8;1,5;audi
+ X2;28999;Semi-Auto;5000;Diesel;145;47,9;2;BMW
+ 3 Series;71990;Semi-Auto;150;Diesel;150;47,1;3;BMW
+ 3 Series;39900;Automatic;13;Diesel;145;44,1;3;BMW
+ 2 Series;26095;Manual;101;Petrol;145;52,3;1,5;BMW
+ Polo;14790;Manual;348;Petrol;145;48,7;1;vw
+ I30;15985;Manual;100;Petrol;145;45,6;1;Hyundai
+ Q2;25888;Semi-Auto;4000;Petrol;145;42,2;1,5;audi
+ A1;21000;Manual;3500;Petrol;145;49,6;1;audi
+ Golf;25999;Semi-Auto;10;Hybrid;150;44,8;1,5;vw
+ Golf;24891;Semi-Auto;5149;Diesel;145;52,3;2;vw
+ A5;35000;Semi-Auto;4500;Diesel;145;45,6;2;audi
+ Q2;27495;Semi-Auto;2000;Petrol;150;43,5;1,5;audi
+ RS4;69995;Semi-Auto;2200;Petrol;145;28,8;2,9;audi
+ 2 Series;24988;Automatic;5000;Diesel;145;48,7;2;BMW
+ 2 Series;20480;Semi-Auto;10;Petrol;150;42,2;1,5;BMW
+ 4 Series;48155;Semi-Auto;10;Petrol;145;44,8;2;BMW
+ Kona;24495;Automatic;76;Hybrid;135;52,3;1,6;Hyundai
+ Up;11000;Manual;2500;Petrol;145;54,3;1;vw
+ Up;10790;Manual;1000;Petrol;150;54,3;1;vw
+ Focus;27500;Automatic;5588;Petrol;150;39,2;1,5;Ford
+ 3 Series;36999;Semi-Auto;5500;Diesel;145;45,6;3;BMW
+ Corolla;28795;Automatic;1544;Hybrid;135;53,3;2;toyota
+ Polo;14437;Manual;1001;Petrol;145;52,3;1;vw
+ X1;26950;Semi-Auto;811;Petrol;145;40,9;1,5;BMW
+ Shuttle;25199;Manual;1000;Diesel;150;37,7;2;vw
+ Kodiaq;33395;Automatic;3364;Diesel;145;39,2;2;skoda
+ EcoSport;16795;Manual;384;Petrol;145;53,3;1;Ford
+ Q3;32990;Manual;2985;Diesel;145;42,8;2;audi
+ 2 Series;25995;Semi-Auto;1000;Petrol;145;40,9;1,5;BMW
+ T-Cross;20990;Automatic;69;Petrol;145;45,6;1;vw
+ A1;20495;Semi-Auto;1500;Petrol;145;44,8;1,5;audi
+ 4 Series;37450;Semi-Auto;11;Diesel;145;47,9;3;BMW
+ RS4;69890;Automatic;3350;Petrol;150;29,1;2,9;audi
+ 5 Series;26990;Semi-Auto;102;Petrol;145;52,3;2;BMW
+ 3 Series;35995;Semi-Auto;1501;Diesel;145;47,9;3;BMW
+ Up;9999;Manual;5000;Petrol;145;54,3;1;vw
+ 2 Series;35250;Semi-Auto;100;Diesel;150;49,6;2;BMW
+ Passat;21998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ Up;9999;Manual;5000;Petrol;145;54,3;1;vw
+ T-Roc;26499;Manual;1000;Petrol;145;42,2;1,5;vw
+ A3;28950;Automatic;5500;Diesel;150;44,1;2;audi
+ Fabia;12995;Manual;1000;Petrol;145;47,1;1;skoda
+ Golf;21490;Manual;5481;Petrol;145;49,6;1,5;vw
+ 3 Series;24850;Semi-Auto;10;Diesel;145;52,3;2;BMW
+ A6;37990;Automatic;3455;Diesel;145;50,4;2;audi
+ 5 Series;31995;Semi-Auto;1501;Hybrid;145;49,6;2;BMW
+ Polo;15500;Manual;399;Petrol;145;47,9;1;vw
+ Hilux;39257;Automatic;1259;Diesel;265;2,8;2,4;toyota
+ I10;13595;Manual;545;Petrol;145;51,4;1,2;Hyundai
+ Polo;13749;Manual;3588;Petrol;145;48,7;1;vw
+ Golf;23999;Manual;3608;Petrol;145;47,9;1,5;vw
+ Q3;28000;Manual;1000;Petrol;145;40,9;1,5;audi
+ Polo;15322;Manual;1795;Petrol;145;52,3;1;vw
+ T-Roc;31895;Manual;10;Petrol;145;42,2;1,5;vw
+ T-Cross;23990;Automatic;1140;Petrol;145;45,6;1;vw
+ 2 Series;31995;Semi-Auto;1000;Diesel;145;62,8;2;BMW
+ A4;34950;Automatic;5500;Diesel;145;49,6;2;audi
+ Kamiq;18499;Manual;2046;Petrol;145;47,1;1,5;skoda
+ Polo;13990;Manual;2500;Petrol;145;48,7;1;vw
+ T-Cross;19450;Manual;2684;Petrol;150;48,7;1;vw
+ Polo;16499;Semi-Auto;2000;Petrol;145;45,6;1;vw
+ Fabia;13299;Manual;100;Petrol;145;51,4;1;skoda
+ A4;34798;Semi-Auto;6998;Petrol;145;38,2;2;audi
+ Q3;30210;Semi-Auto;1401;Diesel;145;48,7;2;audi
+ Q2;24000;Manual;1000;Petrol;145;43,5;1;audi
+ X6;58999;Semi-Auto;3;Petrol;145;26,4;3;BMW
+ TT;30000;Automatic;1500;Petrol;145;40,9;2;audi
+ X1;27493;Manual;3609;Diesel;145;39,2;2;BMW
+ M4;48000;Semi-Auto;30;Petrol;145;34;3;BMW
+ I10;10795;Manual;2255;Petrol;145;49,6;1;Hyundai
+ 4 Series;35995;Semi-Auto;1000;Diesel;145;58,9;2;BMW
+ Puma;22999;Manual;1977;Petrol;150;49,6;1;Ford
+ T-Cross;21980;Automatic;1000;Petrol;150;45,6;1;vw
+ Polo;15989;Manual;2800;Petrol;145;52,3;1;vw
+ X1;29450;Semi-Auto;10;Diesel;145;40,9;2;BMW
+ Q2;26900;Semi-Auto;1545;Petrol;145;42,2;1,5;audi
+ Tiguan;25000;Manual;1644;Diesel;145;47,9;2;vw
+ Golf;29995;Semi-Auto;2000;Hybrid;135;141,3;1,4;vw
+ Up;10000;Manual;2000;Petrol;145;54,3;1;vw
+ Scala;18250;Manual;3543;Petrol;145;49,6;1;skoda
+ Fabia;14731;Manual;785;Petrol;145;52,3;1;skoda
+ Up;10950;Manual;15;Petrol;145;54,3;1;vw
+ Aygo;11500;Manual;472;Petrol;145;56,5;1;toyota
+ A4;34990;Semi-Auto;50;Diesel;145;50,4;2;audi
+ M4;52988;Automatic;10;Petrol;150;34;3;BMW
+ Fiesta;15000;Manual;250;Petrol;145;58,9;1;Ford
+ Up;10750;Manual;100;Petrol;145;54,3;1;vw
+ Golf;18995;Manual;5011;Diesel;145;57,7;1,6;vw
+ 5 Series;26750;Automatic;101;Diesel;145;52,3;2;BMW
+ Golf;21498;Semi-Auto;10;Diesel;150;53,3;2;vw
+ Q2;24444;Manual;4265;Petrol;145;43,5;1,5;audi
+ Polo;15000;Manual;620;Petrol;145;48,7;1;vw
+ Corolla;28990;Automatic;2000;Hybrid;140;53,3;2;toyota
+ Superb;25895;Automatic;3463;Diesel;145;61,4;2;skoda
+ Puma;20991;Manual;5750;Petrol;145;49,6;1;Ford
+ Tiguan;35490;Manual;3412;Diesel;145;42,8;2;vw
+ T-Cross;18690;Manual;2500;Petrol;145;48,7;1;vw
+ Scala;19952;Manual;1652;Petrol;145;47,9;1,5;skoda
+ Golf;36995;Semi-Auto;3452;Petrol;150;36,2;2;vw
+ M2;46000;Semi-Auto;1501;Petrol;145;29,1;3;BMW
+ Golf;33000;Semi-Auto;5;Hybrid;135;141,3;1,4;vw
+ 5 Series;31990;Semi-Auto;10;Petrol;145;50,4;2;BMW
+ 3 Series;29490;Automatic;12;Petrol;145;42,2;2;BMW
+ Golf;24990;Semi-Auto;4898;Diesel;145;52,3;2;vw
+ Up;10990;Manual;1201;Petrol;145;54,3;1;vw
+ Q5;37444;Automatic;3000;Petrol;145;32,1;2;audi
+ Q3;30888;Semi-Auto;525;Petrol;145;40,9;1,5;audi
+ Octavia;16950;Semi-Auto;4318;Diesel;150;72,4;1,6;skoda
+ Santa Fe;35995;Semi-Auto;1801;Diesel;145;39,8;2,2;Hyundai
+ Puma;20991;Manual;910;Petrol;145;50,4;1;Ford
+ Q3;31990;Semi-Auto;2649;Petrol;145;31,4;2;audi
+ Up;10990;Manual;2870;Petrol;145;51,4;1;vw
+ T-Roc;20499;Manual;501;Petrol;145;44,1;1;vw
+ RS4;69950;Semi-Auto;2000;Petrol;145;29,1;2,9;audi
+ Focus;18900;Manual;10;Petrol;150;60,1;1;Ford
+ X3;37999;Automatic;2789;Diesel;145;54,3;2;BMW
+ T-Roc;20990;Manual;5311;Petrol;145;44,1;1;vw
+ T-Roc;25291;Manual;1011;Petrol;150;44,1;1,5;vw
+ Q5;48995;Semi-Auto;2000;Diesel;145;34,5;3;audi
+ Golf;29995;Semi-Auto;1000;Petrol;145;43,5;1,5;vw
+ Q2;26500;Semi-Auto;1500;Petrol;145;42,2;1,5;audi
+ Golf;21998;Manual;10;Petrol;150;47,9;1,5;vw
+ Q3;25995;Manual;7000;Petrol;150;40,9;1,5;audi
+ Kamiq;17495;Manual;1000;Petrol;145;47,9;1;skoda
+ Focus;17000;Manual;4076;Petrol;145;58,9;1;Ford
+ X2;24990;Semi-Auto;10;Diesel;145;47,9;2;BMW
+ I10;12490;Manual;1136;Petrol;150;56,5;1;Hyundai
+ Polo;16489;Manual;3800;Diesel;150;57,7;1,6;vw
+ Q5;38500;Semi-Auto;4000;Petrol;145;32,1;2;audi
+ Fiesta;17000;Manual;10;Petrol;150;58,9;1;Ford
+ I30;25995;Manual;1045;Petrol;145;34;2;Hyundai
+ T-Cross;23990;Manual;10;Diesel;145;52,3;1,6;vw
+ Q3;32444;Semi-Auto;4432;Petrol;145;31,4;2;audi
+ Caravelle;47000;Automatic;1001;Diesel;145;33,6;2;vw
+ 2 Series;22999;Semi-Auto;5000;Petrol;145;50,4;1,5;BMW
+ Polo;15450;Manual;2711;Petrol;145;47,9;1;vw
+ Q3;30990;Semi-Auto;500;Petrol;150;40,4;1,5;audi
+ 2 Series;26475;Semi-Auto;12;Diesel;145;51,4;2;BMW
+ T-Roc;26995;Semi-Auto;6500;Petrol;145;39,8;1,5;vw
+ Polo;16994;Semi-Auto;2104;Petrol;145;45,6;1;vw
+ Up;13500;Manual;2122;Petrol;145;50,4;1;vw
+ Golf;17995;Manual;3700;Petrol;145;50,4;1,5;vw
+ M2;42999;Semi-Auto;15;Petrol;150;29,1;3;BMW
+ Golf;28995;Semi-Auto;1000;Petrol;145;43,5;1,5;vw
+ T-Roc;25495;Manual;1000;Petrol;145;42,2;1,5;vw
+ A1;23250;Semi-Auto;3000;Petrol;145;44,8;1;audi
+ Tiguan;26999;Automatic;4381;Diesel;145;46,3;2;vw
+ Q3;29990;Manual;5000;Diesel;145;40,9;2;audi
+ Focus;20490;Automatic;6041;Diesel;145;67,3;1,5;Ford
+ Golf;29995;Semi-Auto;1874;Petrol;150;32,8;2;vw
+ A6;34746;Semi-Auto;2500;Diesel;150;50,4;2;audi
+ A3;21600;Manual;1222;Diesel;145;56,5;2;audi
+ Z4;32995;Semi-Auto;102;Petrol;145;38,7;2;BMW
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ Scala;17495;Manual;55;Petrol;145;49,6;1;skoda
+ A4;43395;Semi-Auto;8500;Diesel;145;40,4;3;audi
+ Q3;32881;Semi-Auto;4432;Petrol;145;39,2;1,5;audi
+ X1;31498;Semi-Auto;1560;Diesel;145;60,1;2;BMW
+ Scala;19480;Automatic;100;Petrol;145;44,8;1,5;skoda
+ 4 Series;27950;Semi-Auto;10;Petrol;145;45,6;2;BMW
+ Golf;18490;Manual;3062;Diesel;145;55,4;2;vw
+ Golf;30498;Semi-Auto;15;Petrol;150;32,8;2;vw
+ Up;11000;Manual;2000;Petrol;145;54,3;1;vw
+ X1;29000;Semi-Auto;9;Petrol;150;47,9;2;BMW
+ T-Roc;24500;Manual;999;Petrol;145;44,1;1,5;vw
+ Q2;30000;Semi-Auto;4000;Petrol;145;42,2;1,5;audi
+ Up;11250;Manual;1000;Petrol;145;54,3;1;vw
+ Fiesta;15199;Manual;50;Petrol;145;56,5;1;Ford
+ 2 Series;28655;Manual;3297;Petrol;145;52,3;1,5;BMW
+ A3;34991;Semi-Auto;4432;Petrol;150;34,5;2;audi
+ A1;23950;Automatic;5520;Petrol;150;44,8;1,5;audi
+ 7 Series;57980;Semi-Auto;3301;Diesel;145;41,5;3;BMW
+ X1;37320;Semi-Auto;102;Petrol;145;39,8;2;BMW
+ Passat;31790;Semi-Auto;3500;Diesel;145;48,7;2;vw
+ T-Roc;25790;Semi-Auto;1208;Diesel;145;50,4;2;vw
+ Fiesta;15250;Manual;4500;Petrol;150;58,9;1;Ford
+ X7;64995;Semi-Auto;1501;Diesel;145;33,6;3;BMW
+ A4;44000;Semi-Auto;1000;Diesel;145;39,8;3;audi
+ Puma;21769;Manual;169;Petrol;145;50,4;1;Ford
+ A1;21450;Manual;1000;Petrol;145;44,1;1;audi
+ A5;31000;Manual;247;Petrol;145;37,2;2;audi
+ 3 Series;34000;Semi-Auto;1595;Diesel;145;50,4;2;BMW
+ T-Cross;18745;Manual;294;Petrol;150;47,9;1;vw
+ Scala;19999;Semi-Auto;1000;Petrol;145;45,6;1,5;skoda
+ T-Roc;27895;Manual;10;Petrol;145;42,2;1,5;vw
+ Superb;24995;Semi-Auto;42;Petrol;150;39,8;1,5;skoda
+ Caddy Maxi Life;25995;Semi-Auto;5000;Diesel;145;46,3;2;vw
+ Octavia;19999;Semi-Auto;4789;Diesel;150;53,3;2;skoda
+ I20;12980;Manual;1298;Petrol;145;46,3;1,2;Hyundai
+ Kona;15399;Automatic;7000;Hybrid;135;52,3;1,6;Hyundai
+ M4;59999;Semi-Auto;3000;Petrol;150;28,5;3;BMW
+ Fiesta;16000;Automatic;500;Petrol;145;48,7;1;Ford
+ 2 Series;29995;Semi-Auto;1000;Petrol;145;47,9;2;BMW
+ Golf;34480;Semi-Auto;1500;Petrol;145;36,2;2;vw
+ Golf;21960;Manual;1406;Petrol;150;49,6;1,5;vw
+ Tiguan;32890;Manual;501;Diesel;145;47,9;2;vw
+ Q5;46000;Semi-Auto;4000;Hybrid;135;117,7;2;audi
+ Golf;18490;Manual;3098;Diesel;150;57,7;1,6;vw
+ Passat;31790;Manual;1000;Diesel;145;57,7;2;vw
+ Golf;30991;Semi-Auto;1500;Petrol;145;37,7;2;vw
+ Q2;25888;Semi-Auto;4000;Petrol;145;42,2;1,5;audi
+ Q2;26339;Manual;6000;Petrol;145;43,5;1,5;audi
+ Superb;21991;Semi-Auto;499;Petrol;145;41,5;1,5;skoda
+ A1;22490;Manual;1000;Petrol;145;47,9;1;audi
+ Polo;17999;Manual;4030;Petrol;145;49,6;1;vw
+ 5 Series;27990;Semi-Auto;105;Hybrid;145;49,6;2;BMW
+ Q3;36850;Semi-Auto;4500;Diesel;145;47,1;2;audi
+ Golf;22083;Manual;5000;Petrol;145;49,6;1,5;vw
+ X2;28490;Semi-Auto;6565;Diesel;150;58,9;2;BMW
+ Corolla;28495;Automatic;2141;Hybrid;140;56,5;1,8;toyota
+ Polo;14499;Manual;5000;Petrol;145;47,9;1;vw
+ T-Roc;21990;Manual;100;Petrol;145;44,1;1;vw
+ Kodiaq;36750;Automatic;3678;Diesel;150;34,9;2;skoda
+ Aygo;11290;Semi-Auto;4574;Petrol;145;56,5;1;toyota
+ T-Cross;20995;Automatic;500;Petrol;145;45,6;1;vw
+ Fabia;13430;Manual;985;Petrol;145;50,4;1;skoda
+ Fiesta;14000;Manual;10;Petrol;150;55,4;1;Ford
+ Kuga;31991;Semi-Auto;2357;Hybrid;135;201,8;2,5;Ford
+ Tiguan;30480;Semi-Auto;5;Diesel;145;39,8;2;vw
+ Tucson;25495;Semi-Auto;1000;Hybrid;145;50,4;1,6;Hyundai
+ Puma;21000;Manual;1173;Petrol;150;50,4;1;Ford
+ 1 Series;31990;Semi-Auto;3150;Petrol;150;34,5;2;BMW
+ A1;23000;Semi-Auto;5000;Petrol;145;44,8;1,5;audi
+ Q3;35990;Semi-Auto;5000;Petrol;145;31,4;2;audi
+ Golf;18995;Manual;5017;Diesel;145;57,7;1,6;vw
+ A5;38000;Semi-Auto;1000;Diesel;145;50,4;2;audi
+ Tiguan Allspace;32472;Semi-Auto;6000;Diesel;145;38,7;2;vw
+ Golf;20464;Manual;100;Diesel;150;67,3;1,6;vw
+ Up;9999;Manual;5000;Petrol;145;54,3;1;vw
+ T-Roc;25500;Manual;3000;Petrol;145;44,1;1,5;vw
+ Golf;22980;Automatic;1936;Petrol;145;45,6;1,5;vw
+ 3 Series;36650;Automatic;4500;Diesel;145;49,6;2;BMW
+ Z4;30000;Automatic;110;Petrol;145;38,7;2;BMW
+ 5 Series;29450;Semi-Auto;10;Petrol;145;36,2;2;BMW
+ 3 Series;23899;Automatic;1255;Petrol;150;47,9;2;BMW
+ Q3;26945;Manual;3000;Petrol;145;39,8;1,5;audi
+ EcoSport;17799;Manual;1820;Petrol;145;52,3;1;Ford
+ A4;31498;Manual;183;Petrol;145;39,2;2;audi
+ 3 Series;31490;Semi-Auto;105;Diesel;145;51,4;2;BMW
+ 5 Series;38990;Semi-Auto;105;Diesel;145;53,3;3;BMW
+ Aygo;10999;Manual;879;Petrol;150;56,5;1;toyota
+ I30;25999;Manual;6000;Petrol;150;34;2;Hyundai
+ Kodiaq;29400;Automatic;5777;Diesel;145;39,8;2;skoda
+ Fiesta;21499;Manual;58;Petrol;145;55,4;1;Ford
+ Golf;24699;Manual;176;Petrol;150;47,1;1,5;vw
+ Golf;22490;Manual;1888;Petrol;145;49,6;1,5;vw
+ 4 Series;27500;Semi-Auto;130;Petrol;145;45,6;2;BMW
+ Focus;16975;Automatic;293;Diesel;145;54,3;1,5;Ford
+ Q7;71450;Semi-Auto;5000;Diesel;145;30,1;4;audi
+ Karoq;28999;Automatic;2200;Diesel;150;41,5;2;skoda
+ Golf;33000;Semi-Auto;5;Hybrid;135;141,3;1,4;vw
+ 5 Series;41995;Semi-Auto;100;Diesel;145;60,1;2;BMW
+ 5 Series;36850;Semi-Auto;13;Hybrid;145;44,8;2;BMW
+ TT;28490;Automatic;80;Petrol;145;38,7;2;audi
+ X3;34440;Semi-Auto;105;Diesel;145;54,3;2;BMW
+ Puma;21000;Manual;1000;Petrol;145;50,4;1;Ford
+ Focus;21499;Manual;807;Diesel;145;62,8;1,5;Ford
+ Tiguan;23790;Manual;3500;Petrol;145;40,9;1,5;vw
+ 8 Series;74995;Semi-Auto;4500;Diesel;145;26,7;3;BMW
+ Polo;18495;Semi-Auto;5129;Petrol;145;46,3;1;vw
+ X2;29998;Manual;1850;Diesel;150;49,6;2;BMW
+ A1;18500;Manual;2500;Petrol;145;48,7;1;audi
+ X5;48975;Semi-Auto;9998;Diesel;145;37,7;3;BMW
+ Kamiq;23500;Semi-Auto;4730;Petrol;145;43,5;1,5;skoda
+ X2;31990;Semi-Auto;5;Petrol;145;39,8;2;BMW
+ Yaris;14495;Manual;25;Petrol;150;47,9;1,5;toyota
+ Polo;20000;Semi-Auto;10;Petrol;145;46,3;1;vw
+ Focus;20500;Automatic;1868;Petrol;150;40,9;1,5;Ford
+ Kamiq;17495;Manual;1000;Petrol;145;47,9;1;skoda
+ Z4;32495;Semi-Auto;2200;Petrol;145;38,7;2;BMW
+ Q2;24825;Manual;6000;Petrol;145;43,5;1,5;audi
+ Up;9950;Manual;1000;Petrol;145;54,3;1;vw
+ Polo;15219;Manual;6000;Petrol;145;52,3;1;vw
+ Aygo;10980;Semi-Auto;4855;Petrol;145;56,5;1;toyota
+ Fiesta;17500;Manual;25;Petrol;145;58,9;1;Ford
+ Q5;37000;Automatic;3121;Petrol;145;32,1;2;audi
+ S-MAX;33000;Semi-Auto;1500;Diesel;150;43,5;2;Ford
+ Polo;16990;Manual;10;Petrol;145;52,3;1;vw
+ X3;35995;Semi-Auto;102;Diesel;145;54,3;2;BMW
+ 3 Series;31990;Semi-Auto;11;Petrol;145;40,4;2;BMW
+ Z4;33490;Semi-Auto;10;Petrol;145;38,7;2;BMW
+ Q5;35995;Semi-Auto;1117;Diesel;145;38,2;2;audi
+ T-Roc;23590;Manual;2920;Diesel;145;50,4;2;vw
+ 1 Series;23590;Manual;1104;Diesel;145;53,3;2;BMW
+ Corolla;24980;Automatic;5000;Hybrid;135;57,7;1,8;toyota
+ 5 Series;34550;Automatic;110;Diesel;145;44,8;2;BMW
+ Q5;38695;Semi-Auto;6000;Petrol;145;32,1;2;audi
+ T-Roc;38950;Semi-Auto;3544;Petrol;150;32,5;2;vw
+ X2;34999;Automatic;1217;Diesel;145;58,9;2;BMW
+ Q3;33444;Semi-Auto;425;Petrol;145;31,4;2;audi
+ Fabia;12995;Manual;650;Petrol;145;52,3;1;skoda
+ Q2;23481;Manual;1276;Petrol;145;44,8;1,5;audi
+ A5;29490;Semi-Auto;1703;Diesel;145;51,4;2;audi
+ Up;12010;Manual;99;Petrol;145;51,4;1;vw
+ 2 Series;21875;Semi-Auto;7;Petrol;150;50,4;1,5;BMW
+ Scala;17495;Semi-Auto;250;Petrol;145;47,1;1;skoda
+ 2 Series;26000;Semi-Auto;1501;Petrol;145;42,2;1,5;BMW
+ Q3;32995;Semi-Auto;3000;Diesel;145;47,1;2;audi
+ Golf;21498;Semi-Auto;50;Diesel;150;53,3;2;vw
+ A5;27495;Semi-Auto;4951;Diesel;145;51,4;2;audi
+ Golf;23450;Manual;1000;Petrol;145;49,6;1,5;vw
+ A8;49800;Automatic;3452;Diesel;145;39,2;3;audi
+ Tiguan;29498;Semi-Auto;15;Diesel;150;45,6;2;vw
+ A4;47000;Automatic;6760;Diesel;145;39,2;3;audi
+ T-Roc;20999;Manual;1843;Petrol;145;44,1;1;vw
+ Corolla;19790;Manual;3000;Petrol;145;39,2;1,2;toyota
+ 7 Series;53000;Semi-Auto;6555;Diesel;145;42,2;3;BMW
+ T-Cross;22491;Manual;2255;Petrol;145;47,9;1;vw
+ Prius;31995;Automatic;100;Hybrid;135;217,3;1,8;toyota
+ Tiguan;27995;Semi-Auto;936;Petrol;145;30,4;2;vw
+ Q5;39990;Semi-Auto;6000;Petrol;145;32,1;2;audi
+ Polo;13990;Manual;1007;Petrol;145;48,7;1;vw
+ Golf;26499;Semi-Auto;2000;Diesel;150;60,1;2;vw
+ RS6;109495;Semi-Auto;1500;Petrol;150;22,1;4;audi
+ 3 Series;39950;Semi-Auto;1204;Petrol;150;33,6;3;BMW
+ 3 Series;23490;Manual;15;Diesel;145;58,9;2;BMW
+ Octavia;19900;Semi-Auto;5000;Diesel;150;53,3;2;skoda
+ A5;29491;Semi-Auto;34;Diesel;145;50,4;2;audi
+ Polo;16990;Semi-Auto;450;Petrol;145;45,6;1;vw
+ Golf;20500;Manual;1800;Petrol;145;47,1;1,5;vw
+ 4 Series;26990;Semi-Auto;5;Diesel;145;65,7;2;BMW
+ Octavia;19499;Semi-Auto;1091;Petrol;145;46,3;1,5;skoda
+ T-Cross;20000;Manual;2000;Diesel;150;53,3;1,6;vw
+ Q8;63888;Automatic;1500;Diesel;145;32,8;3;audi
+ Polo;16995;Automatic;4000;Petrol;145;45,6;1;vw
+ X2;28993;Semi-Auto;101;Diesel;145;61,4;2;BMW
+ 2 Series;34950;Semi-Auto;1107;Diesel;145;62,8;2;BMW
+ Tiguan;26990;Semi-Auto;413;Diesel;150;46,3;2;vw
+ Superb;31795;Semi-Auto;2000;Hybrid;135;188,3;1,4;skoda
+ Polo;14583;Manual;1770;Petrol;145;48,7;1;vw
+ A3;34990;Semi-Auto;6000;Petrol;145;34,5;2;audi
+ Q7;72995;Semi-Auto;3000;Diesel;145;30,1;4;audi
+ Q3;27690;Manual;3962;Diesel;145;42,8;2;audi
+ A5;30995;Semi-Auto;3820;Diesel;145;45,6;2;audi
+ 5 Series;26990;Semi-Auto;13;Petrol;145;50,4;2;BMW
+ Passat;29990;Semi-Auto;4000;Diesel;145;48,7;2;vw
+ T-Roc;25785;Semi-Auto;10;Petrol;145;39,8;1,5;vw
+ GT86;26995;Semi-Auto;1500;Petrol;145;32,8;2;toyota
+ Ioniq;22000;Automatic;1500;Hybrid;135;62,8;1,6;Hyundai
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ 5 Series;33980;Semi-Auto;1500;Hybrid;135;156,9;2;BMW
+ X2;40195;Semi-Auto;103;Petrol;145;34;2;BMW
+ Z4;32490;Semi-Auto;10;Petrol;145;37,2;2;BMW
+ 4 Series;29995;Semi-Auto;100;Diesel;145;55,4;3;BMW
+ Mondeo;22000;Manual;47;Diesel;145;65,7;2;Ford
+ Q2;23950;Manual;4750;Petrol;145;44,8;1,5;audi
+ A4;42500;Semi-Auto;826;Diesel;145;40,4;3;audi
+ Mustang;42489;Automatic;3500;Petrol;145;22,1;5;Ford
+ Golf;24490;Semi-Auto;2368;Hybrid;150;44,8;1,5;vw
+ T-Roc;21495;Manual;500;Petrol;145;42,2;1,5;vw
+ Z4;34995;Semi-Auto;1000;Petrol;145;38,7;2;BMW
+ Kona;19290;Manual;984;Petrol;145;44,1;1;Hyundai
+ 5 Series;34995;Semi-Auto;10;Hybrid;145;49,6;2;BMW
+ Fiesta;17990;Semi-Auto;2425;Petrol;145;40,9;1;Ford
+ Q5;50000;Automatic;1246;Hybrid;140;117,7;2;audi
+ A3;21970;Manual;5015;Diesel;150;53,3;1,6;audi
+ Golf;27990;Automatic;390;Petrol;150;44,1;1,5;vw
+ A6;37999;Automatic;2234;Petrol;145;34;2;audi
+ Q5;60000;Semi-Auto;3000;Diesel;145;32,5;3;audi
+ Santa Fe;35980;Semi-Auto;2196;Diesel;145;39,2;2,2;Hyundai
+ 3 Series;26480;Semi-Auto;13;Petrol;150;42,2;2;BMW
+ Octavia;27450;Semi-Auto;3000;Petrol;145;38,2;2;skoda
+ Golf;20995;Manual;899;Petrol;145;47,1;1,5;vw
+ 5 Series;34750;Automatic;101;Diesel;145;60,1;3;BMW
+ I20;13966;Manual;3500;Petrol;145;47,9;1;Hyundai
+ Puma;30000;Manual;150;Petrol;150;50,4;1;Ford
+ Q3;30000;Automatic;1500;Petrol;145;40,9;0;audi
+ I20;13749;Manual;6000;Petrol;150;46,3;1,2;Hyundai
+ Q3;34210;Semi-Auto;1766;Petrol;145;31,7;2;audi
+ GT86;29769;Manual;999;Petrol;145;33,2;2;toyota
+ A5;31760;Semi-Auto;3092;Diesel;145;50,4;2;audi
+ RS6;97500;Semi-Auto;3220;Petrol;150;22,1;4;audi
+ Superb;26999;Semi-Auto;2000;Diesel;145;44,1;2;skoda
+ Polo;18490;Semi-Auto;6000;Petrol;145;39,8;2;vw
+ 1 Series;29998;Semi-Auto;934;Diesel;150;48,7;2;BMW
+ Golf;21980;Manual;1000;Petrol;150;49,6;1,5;vw
+ Q3;26500;Manual;1553;Petrol;145;40,9;1,5;audi
+ A3;20481;Manual;3662;Diesel;145;52,3;1,6;audi
+ Up;14965;Manual;2500;Petrol;150;53,3;1;vw
+ Polo;15490;Manual;1348;Petrol;145;47,9;1;vw
+ A3;24880;Automatic;2749;Petrol;145;44,1;1,5;audi
+ Kamiq;23295;Semi-Auto;500;Petrol;145;43,5;1,5;skoda
+ Up;10450;Manual;1000;Petrol;145;54,3;1;vw
+ Focus;24999;Manual;4900;Petrol;145;34,5;2,3;Ford
+ Polo;14990;Manual;2000;Petrol;145;48,7;1;vw
+ Polo;14895;Manual;1674;Petrol;145;47,9;1;vw
+ Touareg;44990;Semi-Auto;6000;Diesel;145;34;3;vw
+ Mondeo;22000;Manual;10;Diesel;145;65,7;2;Ford
+ Superb;23495;Semi-Auto;111;Diesel;150;53,3;2;skoda
+ Q5;53990;Semi-Auto;4433;Diesel;145;34,5;3;audi
+ 1 Series;25988;Automatic;5000;Petrol;145;40,4;1,5;BMW
+ 3 Series;37995;Semi-Auto;102;Petrol;145;40,4;2;BMW
+ Q3;31950;Semi-Auto;5000;Diesel;150;48,7;2;audi
+ Q3;31990;Automatic;1500;Petrol;145;40,4;0;audi
+ Q7;69995;Semi-Auto;3111;Diesel;145;30,1;4;audi
+ 2 Series;32995;Semi-Auto;1501;Petrol;145;36,2;2;BMW
+ T-Roc;26790;Semi-Auto;3500;Diesel;145;49,6;2;vw
+ Polo;14990;Manual;3437;Petrol;145;47,9;1;vw
+ X7;79566;Semi-Auto;1000;Petrol;145;24,8;3;BMW
+ 4 Series;26950;Semi-Auto;10;Diesel;145;65,7;2;BMW
+ Golf;21499;Semi-Auto;2501;Petrol;145;45,6;1,5;vw
+ Golf SV;22480;Manual;910;Petrol;145;43,5;1,5;vw
+ Up;9950;Manual;1880;Petrol;145;54,3;1;vw
+ 4 Series;35100;Semi-Auto;16;Diesel;145;51,4;3;BMW
+ Q5;37888;Semi-Auto;4343;Petrol;145;32,1;2;audi
+ T-Cross;23990;Manual;1652;Diesel;150;52,3;1,6;vw
+ Passat;30990;Semi-Auto;4765;Diesel;145;48,7;2;vw
+ 3 Series;53988;Automatic;5000;Petrol;145;34,9;3;BMW
+ Up;10490;Manual;5000;Petrol;145;54,3;1;vw
+ Mondeo;20499;Manual;12;Diesel;145;49,6;2;Ford
+ Puma;20990;Manual;2459;Petrol;150;50,4;1;Ford
+ Puma;23499;Manual;1850;Petrol;145;49,6;1;Ford
+ T-Cross;24989;Automatic;2800;Petrol;145;45,6;1;vw
+ X7;77990;Semi-Auto;5656;Diesel;150;31,4;3;BMW
+ Yaris;14995;Manual;1985;Petrol;145;47,9;1,5;toyota
+ X2;34360;Semi-Auto;835;Petrol;145;38,7;2;BMW
+ Q3;37000;Semi-Auto;3000;Diesel;145;47,1;2;audi
+ Karoq;29995;Manual;2000;Diesel;145;42,8;2;skoda
+ 3 Series;32995;Semi-Auto;10;Diesel;145;50,4;2;BMW
+ Touareg;48390;Semi-Auto;5100;Diesel;145;33,6;3;vw
+ Tiguan;28900;Semi-Auto;1013;Diesel;145;46,3;2;vw
+ X2;26980;Semi-Auto;2501;Petrol;150;38,7;2;BMW
+ Up;10999;Manual;500;Petrol;145;54,3;1;vw
+ Kamiq;22000;Semi-Auto;2500;Petrol;145;43,5;1,5;skoda
+ A5;28991;Semi-Auto;5432;Diesel;145;51,4;2;audi
+ Touareg;49999;Semi-Auto;501;Diesel;145;33,6;3;vw
+ I10;13495;Manual;1600;Petrol;145;53,3;1;Hyundai
+ TT;31000;Automatic;2500;Petrol;150;40,9;2;audi
+ Kamiq;20499;Semi-Auto;4000;Petrol;145;44,1;1,5;skoda
+ 3 Series;34995;Semi-Auto;100;Petrol;145;42,2;2;BMW
+ T-Roc;40995;Semi-Auto;4000;Petrol;150;32,5;2;vw
+ Caravelle;50995;Semi-Auto;5000;Diesel;145;34;2;vw
+ T-Cross;20499;Manual;2000;Diesel;145;53,3;1,6;vw
+ 2 Series;31150;Manual;101;Petrol;145;40,4;1,5;BMW
+ Sharan;30950;Semi-Auto;1000;Diesel;150;40,9;2;vw
+ X2;32980;Semi-Auto;1500;Diesel;145;61,4;2;BMW
+ T-Cross;22491;Manual;420;Petrol;145;47,9;1;vw
+ 4 Series;29500;Semi-Auto;17;Diesel;145;60,1;2;BMW
+ X2;24850;Semi-Auto;101;Diesel;145;52,3;2;BMW
+ Touareg;49990;Semi-Auto;6000;Diesel;145;33,6;3;vw
+ Fiesta;14500;Manual;1400;Petrol;145;58,9;1;Ford
+ Q5;37985;Semi-Auto;10;Petrol;145;32,1;2;audi
+ Z4;30990;Semi-Auto;105;Petrol;145;38,7;2;BMW
+ Q5;39000;Semi-Auto;1000;Diesel;150;38,2;2;audi
+ 3 Series;38991;Semi-Auto;132;Diesel;145;52,3;2;BMW
+ Passat;28895;Semi-Auto;6;Petrol;145;40,9;1,5;vw
+ Passat;32990;Automatic;300;Petrol;145;33,2;2;vw
+ A3;30990;Semi-Auto;6000;Petrol;145;41,5;1,5;audi
+ 2 Series;26883;Semi-Auto;101;Petrol;145;40,9;1,5;BMW
+ Sharan;30000;Semi-Auto;2000;Diesel;145;40,9;2;vw
+ 1 Series;21940;Manual;514;Petrol;145;44,1;1,5;BMW
+ 3 Series;28990;Semi-Auto;4;Diesel;145;62,8;2;BMW
+ T-Cross;21642;Automatic;2000;Petrol;145;45,6;1;vw
+ Q7;68000;Automatic;4162;Diesel;145;32,1;3;audi
+ Golf;24990;Automatic;100;Petrol;145;44,8;1,5;vw
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ 2 Series;22980;Semi-Auto;1550;Petrol;145;38,7;1,5;BMW
+ A5;31780;Semi-Auto;5137;Diesel;145;46,3;2;audi
+ Up;10990;Manual;25;Petrol;150;54,3;1;vw
+ Polo;14990;Manual;1950;Petrol;145;48,7;1;vw
+ Kamiq;17495;Manual;1000;Petrol;145;47,9;1;skoda
+ 2 Series;22990;Semi-Auto;13;Petrol;145;47,9;2;BMW
+ 5 Series;32850;Semi-Auto;9;Hybrid;145;47,9;2;BMW
+ Golf;22995;Semi-Auto;407;Petrol;145;45,6;1,5;vw
+ A5;31000;Semi-Auto;1000;Diesel;145;47,1;2;audi
+ T-Roc;24980;Manual;25;Petrol;145;44,1;1,5;vw
+ Fiesta;14000;Manual;525;Petrol;145;58,9;1;Ford
+ Aygo;10740;Semi-Auto;4568;Petrol;145;56,5;1;toyota
+ R8;145000;Semi-Auto;2000;Petrol;145;21,1;5,2;audi
+ Up;10990;Manual;10;Petrol;150;51,4;1;vw
+ 1 Series;26995;Automatic;1500;Diesel;145;51,4;2;BMW
+ Octavia;19000;Semi-Auto;10;Petrol;150;46,3;1,5;skoda
+ Q5;37444;Semi-Auto;1500;Diesel;145;38,2;2;audi
+ A1;20999;Manual;6000;Petrol;150;47,9;1;audi
+ Fiesta;12995;Manual;4000;Petrol;145;55,4;1,1;Ford
+ Caravelle;45450;Semi-Auto;15;Diesel;145;32,8;2;vw
+ I10;13290;Manual;1458;Petrol;150;53,3;1;Hyundai
+ Polo;19980;Semi-Auto;500;Petrol;145;46,3;1;vw
+ Polo;18490;Manual;10;Petrol;145;51,4;1;vw
+ I30;19890;Semi-Auto;2083;Petrol;145;44,1;1,4;Hyundai
+ Fiesta;17500;Manual;20;Petrol;145;58,9;1;Ford
+ 3 Series;39950;Semi-Auto;10;Diesel;145;48,7;2;BMW
+ Aygo;10995;Manual;1000;Petrol;145;57,7;1;toyota
+ Aygo;10995;Automatic;500;Other;145;56,5;1;toyota
+ Q2;24444;Manual;4432;Petrol;145;43,5;1,5;audi
+ Touran;26495;Semi-Auto;9999;Diesel;145;47,9;2;vw
+ 8 Series;56990;Semi-Auto;3242;Petrol;150;33,6;3;BMW
+ Fiesta;17499;Manual;34;Petrol;145;58,9;1;Ford
+ Q5;49990;Semi-Auto;5000;Diesel;145;34,5;3;audi
+ 4 Series;30137;Semi-Auto;16;Diesel;150;60,1;2;BMW
+ T-Cross;22000;Automatic;1728;Petrol;145;45,6;1;vw
+ Golf;25999;Manual;5000;Petrol;145;47,9;1,5;vw
+ Golf;21000;Manual;1000;Petrol;150;49,6;1,5;vw
+ 3 Series;41850;Automatic;111;Petrol;145;34,9;3;BMW
+ A5;39454;Semi-Auto;7925;Diesel;145;45,6;2;audi
+ A3;29990;Semi-Auto;6000;Petrol;145;41,5;1,5;audi
+ T-Cross;21995;Manual;2000;Petrol;150;47,9;1;vw
+ Puma;23970;Manual;899;Petrol;150;49,6;1;Ford
+ Fiesta;16000;Manual;100;Petrol;145;58,9;1;Ford
+ 3 Series;26980;Semi-Auto;101;Diesel;145;62,8;2;BMW
+ I10;12394;Manual;2;Petrol;145;56,5;1;Hyundai
+ 3 Series;32890;Semi-Auto;6000;Diesel;145;49,6;2;BMW
+ X4;49481;Semi-Auto;101;Diesel;145;37,2;3;BMW
+ RS4;71990;Semi-Auto;6000;Petrol;145;29,1;2,9;audi
+ Up;10799;Manual;943;Petrol;145;51,4;1;vw
+ Arteon;32495;Semi-Auto;3000;Petrol;145;35,8;2;vw
+ Up;10995;Manual;2000;Petrol;145;51,4;1;vw
+ M4;48950;Semi-Auto;17;Petrol;150;32,5;3;BMW
+ Corolla;25990;Automatic;1112;Other;135;53,3;2;toyota
+ Karoq;22995;Manual;1079;Petrol;150;42,2;1,5;skoda
+ Polo;13685;Manual;1551;Petrol;150;48,7;1;vw
+ A3;26490;Manual;240;Diesel;145;52,3;1,6;audi
+ 3 Series;53260;Semi-Auto;347;Petrol;145;33,6;3;BMW
+ Passat;38000;Semi-Auto;2000;Hybrid;135;43,5;1,4;vw
+ Q2;23888;Semi-Auto;500;Petrol;145;42,2;1,5;audi
+ Tiguan;32989;Manual;6800;Diesel;150;47,9;2;vw
+ A1;18990;Manual;4000;Petrol;150;49,6;1;audi
+ X5;63995;Automatic;5000;Hybrid;135;188,3;3;BMW
+ 3 Series;24990;Manual;101;Diesel;150;56,5;2;BMW
+ Superb;28999;Semi-Auto;12000;Hybrid;135;188,3;1,4;skoda
+ Fiesta;14000;Manual;13;Petrol;150;55,4;1;Ford
+ A4;44000;Automatic;4500;Diesel;145;39,2;3;audi
+ Q5;37000;Semi-Auto;2000;Diesel;145;38,2;2;audi
+ 2 Series;19500;Automatic;5746;Petrol;150;42,2;1,5;BMW
+ T-Roc;21995;Manual;5120;Diesel;145;50,4;1,6;vw
+ Focus;19991;Automatic;4998;Petrol;145;51,4;1;Ford
+ Touareg;49990;Semi-Auto;6000;Diesel;145;33,6;3;vw
+ 3 Series;32980;Semi-Auto;1000;Diesel;145;50,4;2;BMW
+ T-Cross;18995;Manual;2500;Petrol;145;47,9;1;vw
+ T-Roc;24590;Manual;22462;Diesel;145;50,4;2;vw
+ Polo;21490;Semi-Auto;5000;Petrol;145;39,8;2;vw
+ 2 Series;20980;Semi-Auto;13;Petrol;145;50,4;1,5;BMW
+ Scala;17000;Manual;1050;Petrol;145;49,6;1;skoda
+ Q2;28990;Semi-Auto;5445;Petrol;150;42,2;1,5;audi
+ 3 Series;34990;Semi-Auto;4100;Petrol;145;41,5;2;BMW
+ T-Roc;25999;Semi-Auto;2000;Petrol;150;39,8;1,5;vw
+ Passat;22490;Semi-Auto;20;Diesel;150;49,6;1,6;vw
+ Scala;14985;Manual;747;Petrol;145;50,4;1;skoda
+ X1;35040;Semi-Auto;562;Diesel;145;60,1;2;BMW
+ 2 Series;22450;Manual;10;Diesel;145;64,2;2;BMW
+ Q3;37888;Semi-Auto;6000;Petrol;145;30,7;2;audi
+ 2 Series;25450;Semi-Auto;6;Diesel;145;49,6;2;BMW
+ Sharan;31391;Semi-Auto;2930;Diesel;145;40,9;2;vw
+ 2 Series;22990;Semi-Auto;11;Petrol;150;47,9;2;BMW
+ T-Roc;22495;Manual;4;Diesel;145;50,4;1,6;vw
+ Q5;36888;Semi-Auto;4186;Petrol;145;32,1;2;audi
+ A1;22500;Semi-Auto;2000;Petrol;150;44,8;1;audi
+ A6;38990;Automatic;5000;Petrol;145;34;2;audi
+ 1 Series;29980;Semi-Auto;4362;Diesel;145;48,7;2;BMW
+ A3;24250;Manual;4500;Diesel;145;52,3;1,6;audi
+ T-Cross;22500;Manual;2000;Diesel;145;52,3;1,6;vw
+ 5 Series;42990;Semi-Auto;2137;Diesel;145;60,1;3;BMW
+ Yaris;13490;Manual;1034;Petrol;150;47,9;1,5;toyota
+ Z4;30990;Semi-Auto;101;Petrol;145;38,7;2;BMW
+ Superb;33990;Semi-Auto;3500;Hybrid;135;188,3;1,4;skoda
+ Q2;23000;Manual;2999;Petrol;145;45,6;1;audi
+ Up;11989;Manual;2800;Petrol;145;54,3;1;vw
+ Kodiaq;30995;Automatic;6550;Diesel;145;44,8;2;skoda
+ Polo;19750;Automatic;3345;Petrol;145;46,3;1;vw
+ Fiesta;15000;Manual;25;Petrol;145;56,5;1;Ford
+ Q3;29944;Automatic;1500;Petrol;145;32,5;0;audi
+ Q5;48750;Semi-Auto;4564;Diesel;145;34,5;3;audi
+ 3 Series;32837;Semi-Auto;1370;Diesel;150;52,3;2;BMW
+ Kodiaq;32090;Automatic;6637;Diesel;150;39,2;2;skoda
+ Q3;30990;Automatic;1500;Diesel;145;47,1;2;audi
+ Kuga;32995;Automatic;11;Hybrid;135;201,8;2,5;Ford
+ Arteon;32990;Semi-Auto;5000;Diesel;145;50,4;2;vw
+ Superb;31736;Semi-Auto;150;Diesel;145;47,1;2;skoda
+ Touareg;46999;Semi-Auto;3703;Diesel;150;34;3;vw
+ Q5;49000;Automatic;3500;Diesel;145;34,5;3;audi
+ I10;12995;Semi-Auto;510;Petrol;145;52,3;1,2;Hyundai
+ Fiesta;15799;Manual;120;Petrol;150;58,9;1;Ford
+ Golf;32300;Semi-Auto;3000;Petrol;145;37,7;2;vw
+ Tucson;22750;Manual;3500;Petrol;145;34,9;1,6;Hyundai
+ Corolla;27893;Automatic;3390;Hybrid;135;72,4;2;toyota
+ Passat;33490;Semi-Auto;100;Hybrid;135;43,5;1,4;vw
+ Mondeo;20000;Manual;10;Diesel;145;65,7;2;Ford
+ Up;10200;Manual;10;Petrol;145;54,3;1;vw
+ RS6;102544;Semi-Auto;2000;Petrol;145;22,1;4;audi
+ Polo;17490;Manual;100;Petrol;150;50,4;1;vw
+ 1 Series;21450;Manual;1905;Petrol;145;44,1;1,5;BMW
+ Sharan;30790;Semi-Auto;2500;Diesel;145;41,5;2;vw
+ T-Cross;20996;Manual;1006;Petrol;145;47,9;1;vw
+ A1;18330;Manual;1322;Petrol;145;49,6;1;audi
+ Polo;15990;Manual;504;Petrol;150;48,7;1;vw
+ 6 Series;34490;Semi-Auto;5;Petrol;145;42,8;2;BMW
+ Focus;20999;Manual;1501;Diesel;145;80,7;1,5;Ford
+ Focus;20000;Manual;25;Petrol;150;51,4;1,5;Ford
+ Up;11528;Manual;5000;Petrol;145;54,3;1;vw
+ Golf;21750;Manual;4155;Petrol;145;45,6;1,5;vw
+ 2 Series;26400;Semi-Auto;150;Petrol;145;42,2;1,5;BMW
+ Fiesta;18995;Manual;2561;Petrol;145;49,6;1;Ford
+ Passat;20998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ Golf;30999;Automatic;1425;Petrol;145;32,8;2;vw
+ Golf;37500;Semi-Auto;3000;Petrol;150;32,8;2;vw
+ Yaris;19276;Automatic;3113;Petrol;145;47,9;1,5;toyota
+ Scala;17950;Manual;1000;Petrol;145;49,6;1;skoda
+ T-Roc;25990;Manual;10;Petrol;145;44,1;1,5;vw
+ A4;26880;Automatic;4521;Diesel;145;50,4;2;audi
+ Q5;43950;Automatic;7791;Diesel;145;34,5;3;audi
+ Superb;29874;Semi-Auto;150;Petrol;145;38,7;2;skoda
+ 2 Series;26995;Semi-Auto;3500;Petrol;145;50,4;1,5;BMW
+ Touareg;47995;Semi-Auto;8000;Diesel;145;33,6;3;vw
+ Touran;31500;Manual;2500;Diesel;145;61,4;2;vw
+ Puma;22975;Manual;3000;Petrol;145;50,4;1;Ford
+ Golf;21399;Semi-Auto;2000;Diesel;145;53,3;2;vw
+ A4;30995;Semi-Auto;3000;Petrol;145;42,2;2;audi
+ A4;49000;Automatic;38;Diesel;145;39,2;3;audi
+ A4;30995;Semi-Auto;1600;Petrol;145;40,9;2;audi
+ Scala;17450;Semi-Auto;3000;Petrol;145;47,1;1;skoda
+ A1;30950;Semi-Auto;5000;Petrol;145;44,1;1,5;audi
+ A1;26450;Semi-Auto;5000;Petrol;145;44,1;1,5;audi
+ T-Cross;23500;Automatic;1155;Petrol;145;45,6;1;vw
+ Q3;34000;Semi-Auto;4500;Petrol;145;39,2;1,5;audi
+ Puma;20590;Manual;3214;Petrol;145;50,4;1;Ford
+ T-Cross;18999;Manual;3152;Petrol;145;47,9;1;vw
+ 3 Series;33285;Semi-Auto;4323;Diesel;145;50,4;2;BMW
+ T-Roc;23795;Manual;4000;Petrol;150;42,2;1,5;vw
+ X1;28488;Manual;5000;Diesel;145;40,4;2;BMW
+ I10;11491;Manual;101;Petrol;145;56,5;1;Hyundai
+ 2 Series;26988;Automatic;1221;Diesel;145;49,6;2;BMW
+ Tiguan;25290;Semi-Auto;10;Petrol;145;37,7;1,5;vw
+ T-Cross;22465;Manual;100;Diesel;145;52,3;1,6;vw
+ Scala;17995;Semi-Auto;1000;Diesel;145;54,3;1,6;skoda
+ X1;36991;Semi-Auto;800;Diesel;145;60,1;2;BMW
+ T-Roc;21250;Manual;999;Diesel;145;50,4;2;vw
+ Scala;15000;Manual;651;Petrol;150;49,6;1;skoda
+ T-Roc;18004;Manual;2512;Petrol;145;44,8;1;vw
+ A1;25950;Semi-Auto;2888;Petrol;150;44,8;1,5;audi
+ Kodiaq;30000;Automatic;15451;Diesel;150;39,2;2;skoda
+ Q2;30900;Semi-Auto;828;Diesel;145;46,3;2;audi
+ A1;18500;Manual;500;Petrol;150;49,6;1;audi
+ 5 Series;26990;Semi-Auto;11;Petrol;145;52,3;2;BMW
+ Karoq;17995;Manual;1000;Petrol;145;43,5;1;skoda
+ Q3;35995;Automatic;3911;Diesel;145;45,6;2;audi
+ Tucson;27999;Semi-Auto;300;Petrol;145;36,2;1,6;Hyundai
+ Tiguan;31290;Semi-Auto;2500;Diesel;145;31,4;2;vw
+ X4;40995;Automatic;10;Diesel;145;42,8;2;BMW
+ Shuttle;28999;Manual;1578;Diesel;145;37,2;2;vw
+ I10;12995;Manual;921;Petrol;145;55,4;1,2;Hyundai
+ Kamiq;16490;Manual;3942;Petrol;145;49,6;1;skoda
+ Mustang;37990;Automatic;2450;Petrol;145;22,1;5;Ford
+ T-Cross;20490;Automatic;3600;Petrol;145;45,6;1;vw
+ A7;45890;Semi-Auto;2410;Diesel;145;38,7;3;audi
+ Fiesta;15499;Semi-Auto;2056;Petrol;145;48,7;1;Ford
+ Mondeo;26290;Automatic;7;Hybrid;135;47,1;2;Ford
+ Corolla;28815;Automatic;987;Hybrid;140;53,3;2;toyota
+ I30;26995;Manual;1000;Petrol;145;34;2;Hyundai
+ Polo;17995;Automatic;5000;Other;145;45,6;1;vw
+ 5 Series;33850;Semi-Auto;103;Hybrid;150;44,8;2;BMW
+ Q3;33591;Semi-Auto;4455;Petrol;150;39,2;1,5;audi
+ Q3;33444;Semi-Auto;475;Petrol;145;31,4;2;audi
+ Kodiaq;35999;Automatic;1000;Diesel;150;39,2;2;skoda
+ Q5;36995;Semi-Auto;2000;Petrol;145;32,1;2;audi
+ X1;21999;Manual;18;Petrol;145;51,4;1,5;BMW
+ A4;32000;Semi-Auto;3000;Petrol;150;39,2;2;audi
+ Aygo;10295;Manual;1310;Petrol;150;57,7;1;toyota
+ Karoq;21495;Automatic;508;Petrol;150;41,5;1,5;skoda
+ I10;14000;Manual;2458;Petrol;145;53,3;1;Hyundai
+ Golf;23999;Semi-Auto;1000;Petrol;145;45,6;1,5;vw
+ Up;10000;Manual;1000;Petrol;145;54,3;1;vw
+ A1;25895;Automatic;1500;Petrol;145;44,1;1;audi
+ Golf;21998;Manual;15;Petrol;150;47,9;1,5;vw
+ Touareg;42999;Semi-Auto;9737;Diesel;145;34,5;3;vw
+ Kodiaq;31000;Automatic;5790;Diesel;145;39,2;2;skoda
+ Q3;27911;Manual;1912;Petrol;145;40,9;1,5;audi
+ Up;10000;Manual;10;Petrol;145;54,3;1;vw
+ 1 Series;27495;Semi-Auto;1500;Diesel;145;51,4;2;BMW
+ 3 Series;34985;Semi-Auto;1987;Diesel;150;53,3;2;BMW
+ Q7;53900;Semi-Auto;4000;Diesel;145;33,2;3;audi
+ Fiesta;18200;Manual;50;Petrol;145;55,4;1;Ford
+ Golf;21965;Manual;100;Petrol;150;49,6;1,5;vw
+ Fabia;14000;Manual;1500;Petrol;145;52,3;1;skoda
+ A1;23950;Semi-Auto;3000;Petrol;145;44,8;1,5;audi
+ 1 Series;27445;Automatic;2047;Diesel;145;51,4;2;BMW
+ Golf;21950;Manual;2000;Petrol;145;49,6;1,5;vw
+ A1;25250;Semi-Auto;3999;Petrol;145;44,1;1,5;audi
+ 3 Series;41755;Semi-Auto;1881;Petrol;150;34,9;3;BMW
+ 3 Series;31990;Semi-Auto;3450;Petrol;150;40,4;2;BMW
+ 1 Series;32995;Semi-Auto;2797;Petrol;145;34,5;2;BMW
+ T-Roc;25480;Semi-Auto;1024;Petrol;145;39,8;1,5;vw
+ A4;26995;Semi-Auto;1500;Petrol;145;42,2;2;audi
+ Z4;31990;Semi-Auto;4825;Petrol;150;38,7;2;BMW
+ A8;52995;Semi-Auto;1100;Diesel;145;40,4;3;audi
+ A5;29950;Semi-Auto;5000;Diesel;145;50,4;2;audi
+ Kamiq;24904;Semi-Auto;2777;Petrol;150;44,1;1,5;skoda
+ 5 Series;34850;Semi-Auto;16;Hybrid;145;44,8;2;BMW
+ I10;11795;Manual;85;Petrol;145;56,5;1;Hyundai
+ 2 Series;22000;Automatic;5436;Diesel;145;67,3;2;BMW
+ Fiesta;16300;Manual;765;Petrol;145;56,5;1;Ford
+ Passat;39989;Automatic;1986;Diesel;145;37,2;2;vw
+ Amarok;33495;Automatic;3602;Diesel;260;33,6;3;vw
+ A3;23500;Manual;10;Petrol;145;43,5;1,5;audi
+ X1;30495;Semi-Auto;3530;Diesel;145;40,9;2;BMW
+ I10;12495;Manual;500;Petrol;145;56,5;1;Hyundai
+ Scala;17490;Semi-Auto;50;Petrol;150;47,1;1;skoda
+ Corolla;25998;Automatic;5000;Hybrid;140;53,3;2;toyota
+ Passat;27095;Semi-Auto;99;Diesel;145;47,9;2;vw
+ Q2;34251;Semi-Auto;4433;Petrol;150;32,5;2;audi
+ Polo;15995;Semi-Auto;2102;Petrol;145;45,6;1;vw
+ Tucson;25995;Manual;3850;Hybrid;145;48,7;1,6;Hyundai
+ Q2;24653;Manual;6000;Petrol;145;43,5;1,5;audi
+ Puma;20775;Manual;270;Petrol;145;50,4;1;Ford
+ T-Cross;19965;Manual;100;Diesel;145;53,3;1,6;vw
+ T-Roc;26688;Semi-Auto;2364;Diesel;145;49,6;2;vw
+ 3 Series;30995;Semi-Auto;1501;Diesel;145;52,3;2;BMW
+ Q5;39888;Automatic;1500;Petrol;145;32,1;2;audi
+ Mustang;37990;Semi-Auto;151;Petrol;145;22,1;5;Ford
+ Passat;28999;Automatic;1776;Diesel;145;52,3;2;vw
+ X1;28999;Semi-Auto;243;Diesel;145;36,7;2;BMW
+ Caravelle;45990;Semi-Auto;1500;Diesel;150;33,6;2;vw
+ T-Roc;27990;Manual;322;Diesel;145;50,4;2;vw
+ Up;10200;Manual;10;Petrol;145;54,3;1;vw
+ Q2;24990;Manual;1500;Petrol;145;43,5;0;audi
+ Golf;19995;Semi-Auto;99;Diesel;145;54,3;1,6;vw
+ Golf;22490;Manual;500;Petrol;150;49,6;1,5;vw
+ A4;32990;Semi-Auto;1000;Diesel;145;50,4;2;audi
+ Q2;27990;Semi-Auto;5000;Petrol;145;42,2;1,5;audi
+ X2;37480;Semi-Auto;1000;Petrol;145;34;2;BMW
+ Z4;30990;Semi-Auto;100;Petrol;150;38,7;2;BMW
+ Golf;24499;Manual;800;Petrol;150;47,1;1,5;vw
+ T-Roc;40999;Semi-Auto;1500;Petrol;150;32,5;2;vw
+ Fiesta;18290;Manual;1005;Petrol;145;51,4;1;Ford
+ Focus;23995;Manual;6102;Petrol;145;60,1;1;Ford
+ Q2;27995;Semi-Auto;3000;Petrol;145;42,2;1,5;audi
+ Golf;20995;Manual;5102;Diesel;145;57,7;1,6;vw
+ X6;59989;Semi-Auto;3000;Diesel;145;34,9;3;BMW
+ Q8;84496;Automatic;3522;Diesel;145;30,7;4;audi
+ T-Cross;19990;Manual;10;Diesel;145;53,3;1,6;vw
+ Puma;18994;Manual;214;Petrol;145;51,4;1;Ford
+ Arteon;29750;Automatic;3500;Diesel;145;44,1;2;vw
+ Mondeo;20000;Manual;16;Diesel;145;65,7;2;Ford
+ T-Cross;21490;Automatic;100;Petrol;150;45,6;1;vw
+ X1;26895;Semi-Auto;1074;Diesel;145;40,9;2;BMW
+ Touareg;51490;Semi-Auto;4100;Diesel;145;33,6;3;vw
+ A3;35000;Semi-Auto;3000;Petrol;145;34,9;2;audi
+ Up;10580;Manual;100;Petrol;145;54,3;1;vw
+ A6;35780;Semi-Auto;3503;Diesel;145;47,9;2;audi
+ Sharan;34990;Semi-Auto;2000;Diesel;150;40,9;2;vw
+ Up;10191;Manual;3500;Petrol;145;54,3;1;vw
+ A1;22990;Semi-Auto;3311;Petrol;145;44,8;1,5;audi
+ Q3;36995;Semi-Auto;2000;Diesel;150;45,6;2;audi
+ I10;8990;Manual;2000;Petrol;145;60,1;1;Hyundai
+ Q8;73495;Semi-Auto;1500;Diesel;150;32,8;3;audi
+ T-Roc;34999;Automatic;2952;Petrol;150;32,5;2;vw
+ Fiesta;16891;Manual;3862;Petrol;150;49,6;1;Ford
+ Q7;84999;Semi-Auto;2348;Diesel;150;29,4;4;audi
+ Up;9465;Manual;1843;Petrol;145;54,3;1;vw
+ 3 Series;32980;Semi-Auto;1001;Diesel;145;50,4;2;BMW
+ A3;30777;Semi-Auto;3925;Petrol;145;44,1;1,5;audi
+ 4 Series;42495;Semi-Auto;18;Diesel;150;58,9;2;BMW
+ Kodiaq;31500;Automatic;1850;Diesel;150;39,2;2;skoda
+ A1;22290;Semi-Auto;402;Petrol;145;44,8;1,5;audi
+ EcoSport;19000;Manual;25;Petrol;150;51,4;1;Ford
+ T-Roc;20000;Manual;4444;Diesel;145;51,4;1,6;vw
+ Mondeo;22000;Manual;10;Diesel;145;65,7;2;Ford
+ 1 Series;28455;Semi-Auto;102;Petrol;145;42,8;1,5;BMW
+ Golf;26750;Semi-Auto;2999;Hybrid;150;44,8;1,5;vw
+ Fabia;14991;Manual;13;Petrol;145;51,4;1;skoda
+ Scala;19900;Semi-Auto;5000;Petrol;145;47,1;1;skoda
+ 5 Series;32850;Semi-Auto;5;Hybrid;145;62,8;2;BMW
+ Golf;19990;Manual;1340;Petrol;145;50,4;1,5;vw
+ Golf;24995;Manual;2000;Petrol;150;49,6;1,5;vw
+ A1;24000;Automatic;1210;Petrol;150;44,8;1,5;audi
+ RS4;67000;Semi-Auto;3000;Petrol;145;29,1;2,9;audi
+ 3 Series;36995;Semi-Auto;1523;Diesel;145;50,4;2;BMW
+ T-Roc;37990;Semi-Auto;1429;Petrol;145;32,5;2;vw
+ Up;10200;Manual;10;Petrol;145;54,3;1;vw
+ A1;21840;Semi-Auto;4000;Petrol;150;44,8;1,5;audi
+ T-Roc;29989;Automatic;250;Petrol;145;39,8;1,5;vw
+ Fabia;13850;Manual;1474;Petrol;150;50,4;1;skoda
+ X3;53995;Semi-Auto;2000;Hybrid;135;5,5;2;BMW
+ Tiguan;28750;Semi-Auto;4256;Diesel;145;39,8;2;vw
+ 2 Series;20980;Manual;10;Petrol;145;52,3;1,5;BMW
+ Golf;19250;Manual;999;Petrol;145;50,4;1,5;vw
+ Corolla;26950;Automatic;3168;Hybrid;135;53,3;2;toyota
+ Fiesta;16999;Manual;1963;Petrol;145;58,9;1;Ford
+ Superb;28084;Semi-Auto;9500;Hybrid;135;188,3;1,4;skoda
+ Golf;20500;Semi-Auto;3499;Petrol;145;45,6;1,5;vw
+ T-Roc;28990;Semi-Auto;3000;Petrol;145;39,8;1,5;vw
+ T-Roc;25990;Automatic;3853;Petrol;145;39,8;1,5;vw
+ X1;29950;Semi-Auto;35;Diesel;145;40,9;2;BMW
+ 3 Series;45000;Semi-Auto;2500;Petrol;145;33,6;3;BMW
+ Q2;31990;Automatic;4000;Diesel;145;44,8;2;audi
+ A4;31470;Semi-Auto;4915;Petrol;150;40,9;2;audi
+ T-Cross;19990;Manual;3500;Petrol;145;47,9;1;vw
+ Arteon;28990;Semi-Auto;115;Petrol;145;47,1;2;vw
+ 1 Series;23450;Manual;1054;Petrol;145;41,5;1,5;BMW
+ 2 Series;30000;Semi-Auto;914;Petrol;145;42,2;1,5;BMW
+ T-Roc;36990;Semi-Auto;2150;Petrol;145;32,5;2;vw
+ Golf SV;22490;Semi-Auto;941;Petrol;145;42,8;1,5;vw
+ Passat;28500;Semi-Auto;2000;Diesel;145;52,3;2;vw
+ Up;10000;Manual;10;Petrol;145;54,3;1;vw
+ Golf;26989;Automatic;895;Diesel;145;52,3;2;vw
+ Golf;22990;Semi-Auto;1657;Petrol;145;44,1;1,5;vw
+ 3 Series;23850;Semi-Auto;23;Petrol;145;42,2;2;BMW
+ Aygo;10295;Manual;50;Petrol;145;56,5;1;toyota
+ A1;19990;Manual;4000;Petrol;145;47,9;1;audi
+ 6 Series;44950;Semi-Auto;1237;Diesel;145;44,1;2;BMW
+ 2 Series;26988;Automatic;5000;Petrol;145;47,9;2;BMW
+ 2 Series;23990;Semi-Auto;1743;Petrol;150;50,4;1,5;BMW
+ Golf;19990;Semi-Auto;2232;Diesel;150;54,3;1,6;vw
+ Scala;22500;Semi-Auto;3000;Petrol;150;44,8;1,5;skoda
+ A5;27990;Semi-Auto;1432;Petrol;145;39,8;2;audi
+ Fiesta;15299;Manual;68;Petrol;145;58,9;1;Ford
+ Corolla;25990;Automatic;6124;Hybrid;135;53,3;2;toyota
+ Focus;22990;Automatic;185;Diesel;145;54,3;1,5;Ford
+ Fiesta;23890;Manual;3325;Petrol;145;40,3;1,5;Ford
+ 3 Series;34875;Semi-Auto;2000;Diesel;145;52,3;2;BMW
+ X2;33000;Semi-Auto;3986;Petrol;145;34;2;BMW
+ 2 Series;23990;Semi-Auto;18;Diesel;150;49,6;2;BMW
+ A5;32500;Automatic;15;Diesel;145;47,1;2;audi
+ Karoq;26990;Manual;1601;Diesel;145;42,8;2;skoda
+ 3 Series;39950;Semi-Auto;10;Diesel;145;48,7;2;BMW
+ I10;12000;Manual;484;Petrol;150;55,4;1,2;Hyundai
+ Golf;32500;Semi-Auto;6500;Petrol;145;36,2;2;vw
+ Superb;33795;Semi-Auto;1000;Hybrid;140;188,3;1,4;skoda
+ Up;9890;Manual;1441;Petrol;150;54,3;1;vw
+ I30;19995;Manual;2661;Petrol;150;45,6;1,4;Hyundai
+ Focus;29000;Manual;350;Petrol;150;34,5;2,3;Ford
+ A4;31985;Semi-Auto;10;Petrol;145;42,2;2;audi
+ Focus;19490;Manual;877;Petrol;145;58,9;1;Ford
+ Tiguan;26995;Semi-Auto;5056;Diesel;145;46,3;2;vw
+ 3 Series;32940;Semi-Auto;1550;Diesel;145;50,4;2;BMW
+ A5;33750;Semi-Auto;3590;Diesel;145;48,7;2;audi
+ Touareg;53993;Automatic;5711;Diesel;145;33,6;3;vw
+ Tiguan;32000;Semi-Auto;2314;Diesel;145;31,4;2;vw
+ X5;62991;Semi-Auto;123;Diesel;145;37,7;3;BMW
+ Scala;16490;Manual;5234;Petrol;145;49,6;1;skoda
+ Q2;24888;Automatic;1500;Petrol;145;42,2;0;audi
+ Kamiq;17495;Manual;1853;Petrol;145;49,6;1;skoda
+ 3 Series;43970;Semi-Auto;1381;Petrol;145;41,5;2;BMW
+ Tiguan;28757;Semi-Auto;4583;Petrol;150;37,7;1,5;vw
+ C-HR;25450;Automatic;1140;Other;135;57,7;1,8;toyota
+ Tiguan;35480;Semi-Auto;9;Petrol;145;30,1;2;vw
+ C-HR;23550;Automatic;1121;Other;135;58,9;1,8;toyota
+ T-Cross;23955;Manual;99;Diesel;145;52,3;1,6;vw
+ Kamiq;17799;Manual;1927;Petrol;145;47,9;1;skoda
+ Tiguan;32840;Manual;116;Diesel;145;47,9;2;vw
+ Q5;34990;Semi-Auto;6000;Diesel;145;38,2;2;audi
+ M4;53988;Automatic;5000;Petrol;145;34;3;BMW
+ Puma;23155;Manual;1250;Petrol;145;50,4;1;Ford
+ 1 Series;29950;Semi-Auto;3422;Diesel;150;48,7;2;BMW
+ Tiguan;30491;Manual;10136;Diesel;145;47,9;2;vw
+ Ioniq;21495;Semi-Auto;3000;Hybrid;135;62,8;1,6;Hyundai
+ Yaris;15790;Automatic;1910;Hybrid;135;76,3;1,5;toyota
+ Touareg;56499;Semi-Auto;5000;Petrol;150;25,5;3;vw
+ Caddy Life;22000;Manual;1700;Diesel;150;51,4;2;vw
+ 3 Series;32450;Semi-Auto;104;Petrol;150;40,4;2;BMW
+ 5 Series;29990;Semi-Auto;103;Hybrid;145;60,1;2;BMW
+ Fiesta;16500;Manual;1500;Petrol;145;58,9;1;Ford
+ A1;21495;Semi-Auto;1500;Petrol;145;44,8;1;audi
+ A4;38534;Semi-Auto;7521;Diesel;145;49,6;2;audi
+ A1;25888;Semi-Auto;5432;Petrol;150;44,8;1,5;audi
+ A1;22690;Semi-Auto;5000;Petrol;145;44,8;1,5;audi
+ Up;12990;Manual;200;Petrol;145;50,4;1;vw
+ A4;41900;Semi-Auto;4200;Diesel;145;40,9;3;audi
+ Q5;47990;Automatic;1000;Diesel;145;38,2;2;audi
+ Karoq;25529;Automatic;6000;Petrol;145;40,9;1,5;skoda
+ 3 Series;24990;Semi-Auto;16;Diesel;150;54,3;2;BMW
+ Kona;25195;Automatic;1500;Hybrid;135;52,3;1,6;Hyundai
+ 1 Series;31998;Semi-Auto;1560;Diesel;150;48,7;2;BMW
+ A8;78990;Automatic;250;Diesel;145;39,2;3;audi
+ Yaris;14769;Manual;25;Petrol;150;47,9;1,5;toyota
+ Golf;32995;Semi-Auto;2131;Petrol;145;32,8;2;vw
+ Up;10950;Manual;100;Petrol;145;54,3;1;vw
+ 1 Series;23490;Manual;6565;Diesel;150;53,3;2;BMW
+ Polo;14995;Manual;2500;Petrol;145;48,7;1;vw
+ T-Roc;25990;Manual;3500;Petrol;145;42,2;1,5;vw
+ RAV4;33995;Automatic;1500;Hybrid;135;51,1;2,5;toyota
+ Golf;22350;Manual;10;Petrol;150;47,9;1,5;vw
+ X7;71980;Semi-Auto;8695;Diesel;150;31,4;3;BMW
+ Golf;21750;Manual;1000;Petrol;145;50,4;1,5;vw
+ Sharan;29491;Semi-Auto;2053;Diesel;150;41,5;2;vw
+ Q5;36500;Semi-Auto;5000;Diesel;145;38,2;2;audi
+ I30;17999;Manual;6000;Diesel;150;60,1;1,6;Hyundai
+ Land Cruiser;54550;Automatic;4000;Diesel;150;30,1;2,8;toyota
+ Octavia;20000;Semi-Auto;40;Petrol;150;44,8;1,5;skoda
+ Q8;63000;Semi-Auto;3000;Diesel;145;32,8;3;audi
+ Q5;52990;Semi-Auto;6000;Diesel;145;34,5;3;audi
+ A4;31495;Automatic;2500;Diesel;145;50,4;2;audi
+ Tiguan;28612;Semi-Auto;6779;Petrol;145;30,4;2;vw
+ I20;12795;Manual;644;Petrol;145;46,3;1,2;Hyundai
+ 3 Series;34900;Automatic;100;Diesel;145;50,4;2;BMW
+ 3 Series;34875;Semi-Auto;2000;Diesel;145;50,4;2;BMW
+ 3 Series;38555;Semi-Auto;11;Petrol;145;34,9;3;BMW
+ Mustang;38489;Automatic;3500;Petrol;145;30,7;2,3;Ford
+ Z4;33850;Semi-Auto;5;Petrol;150;38,7;2;BMW
+ Up;11750;Manual;5000;Petrol;145;51,4;1;vw
+ Puma;20991;Manual;1381;Petrol;145;50,4;1;Ford
+ Fiesta;17200;Manual;2000;Petrol;145;57,7;1;Ford
+ Caravelle;50388;Automatic;5000;Diesel;145;34;2;vw
+ 3 Series;32790;Semi-Auto;5656;Diesel;145;47,9;3;BMW
+ Q5;43900;Semi-Auto;500;Hybrid;135;117,7;2;audi
+ X7;72000;Semi-Auto;3116;Diesel;145;31,4;3;BMW
+ T-Roc;22990;Manual;10;Petrol;145;42,2;1,5;vw
+ A5;26990;Semi-Auto;3000;Petrol;145;39,8;2;audi
+ Golf SV;21490;Semi-Auto;1177;Petrol;145;42,8;1,5;vw
+ A4;46750;Semi-Auto;2999;Diesel;145;39,2;3;audi
+ Golf SV;20990;Automatic;2459;Petrol;145;42,8;1,5;vw
+ Golf;21950;Manual;500;Petrol;145;49,6;1,5;vw
+ A4;36400;Semi-Auto;3222;Diesel;145;44,1;2;audi
+ Golf;18995;Manual;5023;Diesel;145;57,7;1,6;vw
+ Q3;38990;Automatic;500;Diesel;145;47,1;2;audi
+ A1;22690;Semi-Auto;5000;Petrol;145;44,8;1,5;audi
+ Golf;20990;Manual;5000;Diesel;145;57,7;1,6;vw
+ 1 Series;27000;Semi-Auto;1501;Diesel;145;51,4;2;BMW
+ X1;29991;Semi-Auto;2000;Diesel;145;40,9;2;BMW
+ Prius;23500;Automatic;267;Hybrid;135;61,4;1,8;toyota
+ Z4;50800;Semi-Auto;1142;Petrol;145;33,2;3;BMW
+ 1 Series;30995;Semi-Auto;1000;Diesel;145;48,7;2;BMW
+ Q2;24888;Manual;4000;Petrol;145;43,5;1,5;audi
+ T-Cross;20790;Manual;10;Petrol;145;47,9;1;vw
+ 2 Series;21890;Semi-Auto;10;Petrol;150;50,4;1,5;BMW
+ Up;9490;Manual;6000;Petrol;145;54,3;1;vw
+ 7 Series;53995;Semi-Auto;3500;Diesel;145;42,2;3;BMW
+ Up;10799;Manual;1000;Petrol;145;51,4;1;vw
+ A4;27750;Automatic;6500;Petrol;145;38,2;2;audi
+ Q2;27450;Semi-Auto;2500;Petrol;145;42,2;1,5;audi
+ Q3;26888;Manual;4000;Petrol;145;40,9;1,5;audi
+ Q5;50000;Automatic;12;Diesel;150;34,5;3;audi
+ M4;43000;Semi-Auto;40;Petrol;145;34;3;BMW
+ Polo;15500;Manual;1500;Petrol;145;52,3;1;vw
+ Golf;19990;Manual;100;Petrol;145;49,6;1,5;vw
+ Puma;20491;Manual;4998;Petrol;145;50,4;1;Ford
+ Ioniq;28995;Automatic;5213;Hybrid;135;1,1;1,6;Hyundai
+ Focus;18490;Manual;1421;Petrol;145;49,6;1;Ford
+ 3 Series;23990;Manual;105;Diesel;145;56,5;2;BMW
+ Corolla;24995;Automatic;3989;Hybrid;135;57,7;1,8;toyota
+ Q5;35990;Semi-Auto;3309;Diesel;145;38,2;2;audi
+ 6 Series;33490;Semi-Auto;101;Petrol;145;42,8;2;BMW
+ I10;13495;Manual;697;Petrol;145;55,4;1,2;Hyundai
+ X6;67990;Semi-Auto;5656;Diesel;150;33,2;3;BMW
+ Karoq;20134;Manual;6000;Petrol;145;43,5;1;skoda
+ 2 Series;32450;Semi-Auto;1118;Diesel;145;51,4;2;BMW
+ Q3;35895;Automatic;3000;Diesel;145;47,1;2;audi
+ Q5;38444;Automatic;1500;Petrol;145;32,1;0;audi
+ Tiguan;25000;Automatic;3000;Petrol;150;37,7;1,5;vw
+ T-Roc;25490;Manual;1713;Petrol;145;44,1;1,5;vw
+ X2;29990;Semi-Auto;5;Petrol;145;42,8;1,5;BMW
+ 2 Series;23475;Semi-Auto;12;Petrol;145;50,4;1,5;BMW
+ Fiesta;14995;Manual;50;Petrol;145;56,5;1;Ford
+ 7 Series;55489;Semi-Auto;10300;Diesel;145;41,5;3;BMW
+ T-Roc;24500;Manual;1000;Petrol;145;44,1;1,5;vw
+ Q2;25990;Manual;1500;Petrol;145;43,5;1,5;audi
+ Polo;14990;Manual;1501;Petrol;145;48,7;1;vw
+ Land Cruiser;52990;Automatic;1244;Diesel;145;30,1;2,8;toyota
+ Passat;37522;Semi-Auto;5000;Diesel;145;48,7;2;vw
+ Golf;23999;Manual;2302;Petrol;145;47,9;1,5;vw
+ 5 Series;27990;Semi-Auto;8;Hybrid;145;52,3;2;BMW
+ 4 Series;32748;Semi-Auto;16;Diesel;145;60,1;2;BMW
+ M4;45488;Automatic;10;Petrol;150;34;3;BMW
+ Kamiq;22295;Semi-Auto;1294;Diesel;145;53,3;1,6;skoda
+ Up;12695;Manual;10;Petrol;145;51,4;1;vw
+ Fabia;13495;Manual;500;Petrol;150;51,4;1;skoda
+ A4;26890;Automatic;1555;Petrol;145;38,7;2;audi
+ A5;33995;Semi-Auto;3000;Petrol;145;39,2;2;audi
+ X2;31000;Semi-Auto;1121;Petrol;145;34;2;BMW
+ Karoq;24725;Automatic;6000;Petrol;145;40,9;1,5;skoda
+ T-Roc;35099;Semi-Auto;1376;Petrol;145;32,5;2;vw
+ Q7;54995;Semi-Auto;1364;Diesel;145;33,2;3;audi
+ Mondeo;21000;Manual;17;Diesel;145;65,7;2;Ford
+ T-Roc;25480;Manual;5;Petrol;150;44,1;1,5;vw
+ A5;28888;Semi-Auto;1500;Diesel;145;51,4;2;audi
+ 3 Series;22950;Manual;11;Diesel;145;58,9;2;BMW
+ Octavia;18995;Semi-Auto;1200;Petrol;145;46,3;1,5;skoda
+ I10;12750;Manual;5000;Petrol;145;56,5;1;Hyundai
+ A4;45950;Automatic;3200;Diesel;145;39,2;3;audi
+ 2 Series;22875;Semi-Auto;8;Petrol;150;50,4;1,5;BMW
+ Tiguan Allspace;37490;Semi-Auto;3889;Diesel;145;38,7;2;vw
+ X5;56270;Semi-Auto;117;Diesel;145;36,7;3;BMW
+ 2 Series;25998;Automatic;3160;Hybrid;140;113;1,5;BMW
+ 8 Series;59995;Semi-Auto;700;Petrol;145;31,7;3;BMW
+ Q3;27995;Manual;50;Diesel;145;42,2;2;audi
+ A7;45000;Automatic;1200;Diesel;150;38,2;3;audi
+ Up;11590;Manual;25;Petrol;145;51,4;1;vw
+ Superb;29995;Semi-Auto;15;Hybrid;140;201,8;1,4;skoda
+ Polo;15350;Manual;752;Petrol;145;48,7;1;vw
+ Q3;29888;Manual;4000;Petrol;145;40,9;1,5;audi
+ Superb;28999;Semi-Auto;350;Diesel;145;47,1;2;skoda
+ T-Cross;18790;Manual;1500;Diesel;145;53,3;1,6;vw
+ Tiguan;33860;Manual;145;Diesel;145;42,8;2;vw
+ Tucson;24495;Semi-Auto;2500;Petrol;145;36,2;1,6;Hyundai
+ Tucson;27995;Manual;146;Diesel;150;48,7;1,6;Hyundai
+ Octavia;20950;Semi-Auto;3000;Petrol;145;47,9;2;skoda
+ Q2;26000;Semi-Auto;1000;Diesel;145;46,3;2;audi
+ Polo;17290;Manual;10;Petrol;145;52,3;1;vw
+ Polo;14990;Manual;1295;Petrol;145;52,3;1;vw
+ Santa Fe;36495;Semi-Auto;6073;Diesel;145;39,2;2,2;Hyundai
+ Karoq;25999;Automatic;30;Petrol;145;40,9;1,5;skoda
+ Fiesta;18200;Manual;10;Petrol;145;49,6;1;Ford
+ 3 Series;44320;Semi-Auto;160;Diesel;145;49,6;2;BMW
+ 1 Series;28875;Semi-Auto;150;Petrol;145;42,8;1,5;BMW
+ A4;31995;Semi-Auto;1000;Petrol;145;40,9;2;audi
+ EcoSport;22450;Manual;500;Petrol;145;51,4;1;Ford
+ Fabia;13495;Manual;500;Petrol;145;51,4;1;skoda
+ Up;10790;Manual;1000;Petrol;150;54,3;1;vw
+ Puma;20991;Manual;891;Petrol;150;50,4;1;Ford
+ Fabia;13750;Manual;710;Petrol;145;52,3;1;skoda
+ 2 Series;34988;Automatic;5000;Petrol;145;36,2;2;BMW
+ 2 Series;22875;Semi-Auto;13;Petrol;150;50,4;1,5;BMW
+ 1 Series;27950;Manual;1638;Petrol;145;41,5;1,5;BMW
+ 2 Series;32995;Semi-Auto;10;Petrol;145;36,2;2;BMW
+ EcoSport;16299;Manual;915;Petrol;145;53,3;1;Ford
+ Q5;37000;Semi-Auto;1000;Diesel;145;38,2;2;audi
+ 2 Series;21480;Semi-Auto;10;Diesel;145;53,3;2;BMW
+ I10;12495;Manual;500;Petrol;145;53,3;1;Hyundai
+ 2 Series;25603;Semi-Auto;2880;Petrol;145;50,4;1,5;BMW
+ Superb;29000;Semi-Auto;3623;Diesel;150;47,1;2;skoda
+ Tucson;22995;Manual;1000;Petrol;145;34,9;1,6;Hyundai
+ T-Roc;25980;Manual;5;Petrol;145;42,2;1,5;vw
+ Superb;31495;Semi-Auto;15;Hybrid;135;188,3;1,4;skoda
+ Kodiaq;31490;Automatic;1522;Diesel;145;39,2;2;skoda
+ Golf;31000;Semi-Auto;721;Hybrid;135;141,3;1,4;vw
+ 2 Series;27500;Semi-Auto;1086;Petrol;150;42,2;1,5;BMW
+ Up;10500;Manual;1000;Petrol;145;51,4;1;vw
+ Scala;16490;Semi-Auto;2738;Petrol;150;47,1;1;skoda
+ 2 Series;30980;Semi-Auto;1500;Petrol;145;42,2;1,5;BMW
+ Golf;24750;Semi-Auto;1000;Diesel;145;60,1;2;vw
+ X3;35875;Semi-Auto;2000;Diesel;145;54,3;2;BMW
+ A5;28990;Semi-Auto;2640;Petrol;145;37,7;2;audi
+ Golf;24964;Manual;3100;Diesel;145;62,8;2;vw
+ 3 Series;30995;Semi-Auto;3872;Petrol;150;42,2;2;BMW
+ Polo;17400;Semi-Auto;100;Petrol;145;45,6;1;vw
+ Tucson;26000;Manual;1451;Hybrid;145;47,9;1,6;Hyundai
+ A4;34990;Semi-Auto;3000;Petrol;145;39,2;2;audi
+ X3;42995;Semi-Auto;1501;Petrol;145;34,5;3;BMW
+ I10;14490;Manual;771;Petrol;145;53,3;1;Hyundai
+ Golf;37950;Semi-Auto;4066;Petrol;150;36,2;2;vw
+ Q3;27690;Manual;990;Diesel;145;42,8;2;audi
+ 1 Series;32990;Semi-Auto;6870;Diesel;145;48,7;2;BMW
+ EcoSport;16299;Manual;1500;Petrol;145;53,3;1;Ford
+ 3 Series;33495;Semi-Auto;4500;Diesel;145;48,7;2;BMW
+ Tiguan;36990;Semi-Auto;481;Petrol;145;35,3;2;vw
+ A1;22990;Semi-Auto;1694;Petrol;145;44,8;1;audi
+ Superb;22995;Semi-Auto;42;Petrol;150;36,7;1,5;skoda
+ Z4;38950;Semi-Auto;100;Petrol;145;33,2;3;BMW
+ X3;52910;Semi-Auto;101;Hybrid;135;5,5;2;BMW
+ T-Cross;19490;Manual;1000;Petrol;145;47,9;1;vw
+ Q5;36995;Semi-Auto;50;Diesel;145;38,2;2;audi
+ Q3;33491;Semi-Auto;4444;Petrol;145;39,2;1,5;audi
+ Octavia;27795;Semi-Auto;2000;Petrol;150;37,2;2;skoda
+ 5 Series;30995;Semi-Auto;1000;Diesel;145;65,7;2;BMW
+ Kamiq;20950;Manual;1000;Petrol;145;47,1;1;skoda
+ X2;29995;Semi-Auto;1501;Petrol;145;38,7;2;BMW
+ I20;16998;Manual;400;Petrol;145;46,3;1,2;Hyundai
+ Q7;62985;Semi-Auto;10;Diesel;145;33,2;3;audi
+ A5;30299;Semi-Auto;1959;Diesel;145;51,4;2;audi
+ Q3;34495;Semi-Auto;3000;Petrol;145;40,4;1,5;audi
+ 2 Series;23450;Semi-Auto;8;Diesel;145;67,3;2;BMW
+ 2 Series;22990;Manual;12;Diesel;145;60,1;2;BMW
+ Q5;37682;Semi-Auto;3116;Diesel;150;38,2;2;audi
+ Yaris;15885;Manual;192;Petrol;145;47,9;1,5;toyota
+ Corolla;23550;Automatic;3000;Hybrid;135;58,9;1,8;toyota
+ X2;32495;Semi-Auto;1255;Diesel;145;58,9;2;BMW
+ Golf;21390;Semi-Auto;4250;Petrol;145;45,6;1,5;vw
+ Golf;21498;Semi-Auto;10;Diesel;150;53,3;2;vw
+ Tiguan;29850;Manual;3000;Diesel;145;47,9;2;vw
+ 1 Series;27995;Manual;2500;Diesel;145;53,3;2;BMW
+ 3 Series;33995;Semi-Auto;11;Diesel;145;50,4;2;BMW
+ Karoq;24995;Automatic;1000;Petrol;145;40,9;1,5;skoda
+ A4;28995;Semi-Auto;4000;Diesel;145;54,3;3;audi
+ 3 Series;29990;Semi-Auto;9;Diesel;145;50,4;2;BMW
+ Scala;17000;Manual;1050;Petrol;145;49,6;1;skoda
+ 3 Series;36495;Semi-Auto;789;Diesel;145;49,6;2;BMW
+ T-Roc;27980;Manual;1000;Petrol;145;42,2;1,5;vw
+ TT;29970;Semi-Auto;5515;Petrol;150;35,3;2;audi
+ Scala;17995;Semi-Auto;2800;Petrol;145;45,6;1,5;skoda
+ Q3;35500;Semi-Auto;4309;Diesel;150;45,6;2;audi
+ Karoq;25750;Automatic;2777;Petrol;150;40,9;1,5;skoda
+ 8 Series;61995;Semi-Auto;101;Diesel;145;40,4;3;BMW
+ TT;49000;Semi-Auto;4060;Petrol;145;30,7;2,5;audi
+ Corolla;29450;Automatic;943;Hybrid;135;53,3;2;toyota
+ Polo;15990;Manual;1000;Petrol;150;48,7;1;vw
+ Fabia;13495;Manual;800;Petrol;145;51,4;1;skoda
+ 1 Series;27950;Semi-Auto;100;Diesel;145;51,4;2;BMW
+ Tiguan Allspace;35490;Semi-Auto;2500;Petrol;145;30,7;2;vw
+ Fiesta;21865;Manual;500;Petrol;145;55,4;1;Ford
+ T-Roc;26490;Semi-Auto;12343;Petrol;150;39,8;1,5;vw
+ A3;21450;Manual;6552;Petrol;150;47,9;1;audi
+ Golf;20996;Manual;876;Diesel;145;54,3;1,6;vw
+ 4 Series;27490;Semi-Auto;100;Diesel;145;60,1;2;BMW
+ Superb;31995;Semi-Auto;100;Petrol;145;30,1;2;skoda
+ Q5;60000;Semi-Auto;3000;Diesel;145;32,5;3;audi
+ Kamiq;20950;Semi-Auto;3927;Petrol;150;43,5;1,5;skoda
+ T-Cross;17750;Manual;1500;Diesel;145;53,3;1,6;vw
+ Fabia;13999;Manual;3000;Petrol;145;51,4;1;skoda
+ Ioniq;26995;Automatic;1290;Hybrid;135;1,1;1,6;Hyundai
+ Polo;13999;Manual;5000;Petrol;145;47,9;1;vw
+ A1;19610;Manual;877;Petrol;145;48,7;1;audi
+ 3 Series;30490;Semi-Auto;6565;Diesel;145;50,4;2;BMW
+ Q7;54950;Semi-Auto;1600;Diesel;145;33,2;3;audi
+ 3 Series;27492;Semi-Auto;3500;Petrol;145;42,2;2;BMW
+ PROACE VERSO;47990;Automatic;1255;Diesel;145;38,7;2;toyota
+ Q3;34490;Semi-Auto;5000;Petrol;145;40,4;1,5;audi
+ Q5;38888;Semi-Auto;1986;Diesel;145;38,2;2;audi
+ A4;27900;Manual;4521;Petrol;145;39,2;2;audi
+ Tiguan;29000;Automatic;4444;Diesel;145;39,8;2;vw
+ Octavia;17000;Manual;3000;Petrol;145;52,3;1;skoda
+ Golf;23790;Semi-Auto;1000;Hybrid;150;44,8;1,5;vw
+ Up;11590;Manual;25;Petrol;145;51,4;1;vw
+ 6 Series;44991;Semi-Auto;123;Diesel;145;42,2;2;BMW
+ Yaris;13990;Manual;2114;Petrol;145;47,9;1,5;toyota
+ Z4;33990;Semi-Auto;10;Petrol;145;37,2;2;BMW
+ A1;21840;Semi-Auto;315;Petrol;150;44,8;1,5;audi
+ Q3;33499;Semi-Auto;4000;Petrol;145;40,4;1,5;audi
+ Kona;14990;Manual;3500;Petrol;150;44,1;1;Hyundai
+ Fiesta;19990;Manual;2629;Petrol;145;55,4;1;Ford
+ A5;29930;Automatic;4521;Petrol;145;39,2;2;audi
+ Tucson;19950;Manual;433;Petrol;145;34,9;1,6;Hyundai
+ A1;20000;Manual;5000;Petrol;145;49,6;1;audi
+ T-Roc;27995;Semi-Auto;375;Petrol;145;39,8;1,5;vw
+ Tiguan;30995;Manual;1700;Diesel;145;47,9;2;vw
+ X4;46995;Semi-Auto;999;Diesel;145;37,2;3;BMW
+ Q3;33444;Automatic;1500;Petrol;145;31,4;2;audi
+ 2 Series;21890;Semi-Auto;11;Petrol;150;50,4;1,5;BMW
+ A1;21400;Automatic;7;Petrol;145;44,8;1;audi
+ Q5;37990;Semi-Auto;6000;Diesel;150;38,2;2;audi
+ 2 Series;19500;Automatic;3622;Petrol;145;42,2;1,5;BMW
+ 4 Series;29995;Semi-Auto;1501;Diesel;145;58,9;2;BMW
+ T-Roc;31850;Semi-Auto;3000;Petrol;145;34,5;2;vw
+ T-Roc;25450;Manual;1000;Petrol;150;44,1;1,5;vw
+ 2 Series;25485;Semi-Auto;877;Diesel;145;64,2;2;BMW
+ Kamiq;22800;Semi-Auto;1050;Petrol;145;43,5;1,5;skoda
+ C-HR;26995;Automatic;2500;Hybrid;135;54,3;2;toyota
+ Q5;37000;Semi-Auto;4000;Petrol;145;32,1;2;audi
+ Scala;18245;Manual;1309;Diesel;145;57,7;1,6;skoda
+ 3 Series;36995;Automatic;4500;Diesel;145;50,4;2;BMW
+ I10;13995;Manual;340;Petrol;145;56,5;1;Hyundai
+ Polo;14495;Manual;2483;Petrol;145;47,9;1;vw
+ A4;32481;Semi-Auto;22601;Petrol;145;39,2;2;audi
+ C-HR;27900;Automatic;2050;Other;135;57,7;1,8;toyota
+ 5 Series;34999;Semi-Auto;5000;Hybrid;150;49,6;2;BMW
+ Q7;56894;Semi-Auto;582;Diesel;145;33,2;3;audi
+ I10;12995;Manual;3000;Petrol;150;53,3;1;Hyundai
+ Tucson;26995;Manual;133;Petrol;150;34,9;1,6;Hyundai
+ Polo;14485;Manual;843;Petrol;150;48,7;1;vw
+ Q7;59750;Semi-Auto;4500;Diesel;145;33,2;3;audi
+ Polo;15995;Manual;2000;Petrol;150;47,9;1;vw
+ Golf;21998;Manual;10;Petrol;150;47,9;1,5;vw
+ Polo;14990;Manual;1910;Petrol;145;48,7;1;vw
+ Scala;15991;Manual;1000;Petrol;145;49,6;1;skoda
+ T-Cross;19491;Manual;2000;Petrol;145;48,7;1;vw
+ Golf;23995;Semi-Auto;1000;Petrol;145;43,5;1,5;vw
+ X5;53990;Semi-Auto;6825;Diesel;150;37,7;3;BMW
+ Superb;26990;Automatic;4433;Petrol;145;38,2;2;skoda
+ GT86;25499;Manual;614;Petrol;145;33,2;2;toyota
+ M4;45995;Semi-Auto;1500;Petrol;145;34;3;BMW
+ Tucson;24495;Semi-Auto;5000;Hybrid;145;50,4;1,6;Hyundai
+ T-Roc;25500;Manual;2000;Petrol;145;42,2;1,5;vw
+ Golf;21498;Semi-Auto;10;Diesel;150;53,3;2;vw
+ T-Cross;20490;Automatic;1754;Petrol;150;45,6;1;vw
+ Golf;31989;Automatic;2756;Petrol;145;32,8;2;vw
+ A1;24990;Semi-Auto;5000;Petrol;145;44,8;1,5;audi
+ Fabia;11990;Manual;2642;Petrol;145;51,4;1;skoda
+ GT86;28000;Manual;650;Petrol;145;33,2;2;toyota
+ 1 Series;24852;Manual;1510;Petrol;150;41,5;1,5;BMW
+ Sharan;36999;Semi-Auto;250;Petrol;145;32,5;1,4;vw
+ Fiesta;17760;Manual;5;Petrol;145;58,9;1;Ford
+ Golf;25490;Semi-Auto;5000;Diesel;150;60,1;2;vw
+ A7;38990;Semi-Auto;1200;Diesel;150;38,2;3;audi
+ A3;17199;Manual;609;Petrol;150;49,6;1;audi
+ X2;34990;Semi-Auto;10;Petrol;150;34;2;BMW
+ Golf;21000;Automatic;300;Petrol;150;44,8;1,5;vw
+ 2 Series;23950;Semi-Auto;11;Petrol;145;50,4;1,5;BMW
+ 1 Series;11995;Semi-Auto;10;Petrol;150;34,5;2;BMW
+ Golf;33250;Semi-Auto;590;Petrol;145;36,2;2;vw
+ I10;11795;Manual;23;Petrol;145;56,5;1;Hyundai
+ Fiesta;17500;Semi-Auto;10;Petrol;145;48,7;1;Ford
+ Up;10200;Manual;10;Petrol;145;54,3;1;vw
+ X4;46999;Semi-Auto;4000;Diesel;150;40,9;3;BMW
+ Q7;86990;Semi-Auto;6000;Diesel;145;29,4;4;audi
+ Focus;19489;Manual;5000;Diesel;145;74,3;1,5;Ford
+ A4;26000;Manual;1000;Petrol;145;39,2;2;audi
+ Polo;18241;Manual;3500;Petrol;145;49,6;1;vw
+ Puma;21495;Manual;10;Petrol;145;50,4;1;Ford
+ Q2;30795;Semi-Auto;1840;Petrol;145;34,5;2;audi
+ Tiguan;26980;Manual;2194;Diesel;145;42,2;2;vw
+ Kamiq;18990;Automatic;228;Petrol;145;44,1;1,5;skoda
+ Q3;32881;Semi-Auto;4432;Petrol;145;39,2;1,5;audi
+ Passat;20998;Semi-Auto;11;Diesel;145;49,6;1,6;vw
+ Focus;28998;Manual;2985;Petrol;145;34,5;2,3;Ford
+ A1;23490;Semi-Auto;5000;Petrol;145;44,8;1,5;audi
+ Q3;30000;Manual;1000;Petrol;145;40,9;1,5;audi
+ Q7;46990;Automatic;5000;Diesel;145;33,6;3;audi
+ T-Roc;37145;Semi-Auto;5000;Petrol;145;32,5;2;vw
+ X3;34988;Automatic;5000;Diesel;145;54,3;2;BMW
+ A1;20495;Manual;4062;Petrol;145;47,9;1;audi
+ Golf SV;22000;Semi-Auto;5;Petrol;145;42,8;1,5;vw
+ A4;34990;Semi-Auto;3200;Petrol;145;42,2;2;audi
+ A1;24490;Semi-Auto;3000;Petrol;145;44,8;1,5;audi
+ Golf;21000;Semi-Auto;999;Petrol;145;45,6;1,5;vw
+ Golf;25980;Manual;700;Petrol;150;47,9;1,5;vw
+ M4;51000;Semi-Auto;2000;Petrol;145;32,5;3;BMW
+ Z4;30990;Semi-Auto;12;Petrol;145;38,7;2;BMW
+ Tiguan;26699;Semi-Auto;2000;Diesel;145;46,3;2;vw
+ T-Cross;25990;Automatic;1000;Petrol;150;45,6;1;vw
+ Kodiaq;30850;Manual;2000;Diesel;145;52,3;2;skoda
+ Q7;89990;Semi-Auto;5000;Diesel;145;29,4;4;audi
+ Fiesta;19495;Manual;27;Petrol;145;49,6;1;Ford
+ Aygo;10730;Manual;500;Petrol;145;57,7;1;toyota
+ T-Roc;29995;Semi-Auto;500;Petrol;145;39,8;1,5;vw
+ Up;10250;Manual;1131;Petrol;150;51,4;1;vw
+ Superb;28785;Semi-Auto;1548;Hybrid;135;188,3;1,4;skoda
+ Up;10990;Manual;1891;Petrol;145;51,4;1;vw
+ X1;29970;Semi-Auto;1241;Diesel;145;60,1;2;BMW
+ Golf;21699;Manual;1834;Petrol;145;49,6;1,5;vw
+ Q3;29000;Manual;20;Petrol;145;40,9;1,5;audi
+ Polo;17299;Automatic;1000;Petrol;145;45,6;1;vw
+ 2 Series;26995;Semi-Auto;10;Petrol;145;42,2;1,5;BMW
+ Q5;38000;Automatic;1481;Petrol;145;32,1;2;audi
+ Polo;14995;Manual;320;Petrol;145;52,3;1;vw
+ Octavia;18985;Semi-Auto;2987;Petrol;145;44,8;1,5;skoda
+ Q5;36930;Automatic;5412;Diesel;145;38,2;2;audi
+ Q3;29750;Manual;1501;Diesel;145;42,8;2;audi
+ X7;69995;Semi-Auto;1501;Diesel;145;33,6;3;BMW
+ Caddy Life;16995;Manual;1724;Diesel;145;47,9;2;vw
+ X4;44950;Semi-Auto;100;Petrol;150;26,9;3;BMW
+ Polo;16990;Semi-Auto;5000;Petrol;145;45,6;1;vw
+ EcoSport;20790;Manual;22;Petrol;145;53,3;1;Ford
+ Q7;55750;Automatic;875;Diesel;150;33,2;3;audi
+ Yaris;14990;Automatic;10;Petrol;150;47,9;1,5;toyota
+ Scala;18690;Automatic;4716;Petrol;145;47,1;1;skoda
+ Golf;21998;Manual;50;Petrol;150;47,9;1,5;vw
+ A5;30990;Automatic;10;Diesel;145;47,1;2;audi
+ Puma;20980;Manual;2165;Petrol;145;50,4;1;Ford
+ Kamiq;22500;Semi-Auto;2500;Diesel;145;52,3;1,6;skoda
+ Santa Fe;36795;Semi-Auto;2500;Diesel;145;39,2;2,2;Hyundai
+ Q5;39990;Semi-Auto;1501;Petrol;145;32,1;2;audi
+ Golf SV;22733;Semi-Auto;500;Petrol;145;42,8;1,5;vw
+ A1;18496;Manual;5566;Petrol;145;48,7;1;audi
+ Santa Fe;35500;Semi-Auto;1500;Diesel;145;39,2;2,2;Hyundai
+ Polo;18450;Manual;2000;Petrol;145;49,6;1;vw
+ Touran;26000;Semi-Auto;2000;Petrol;145;38,7;1,5;vw
+ Yaris;15885;Manual;413;Petrol;145;47,9;1,5;toyota
+ Q2;28990;Semi-Auto;5665;Petrol;150;42,2;1,5;audi
+ Up;10290;Manual;1000;Petrol;145;54,3;1;vw
+ X3;32490;Semi-Auto;6565;Diesel;150;54,3;2;BMW
+ 8 Series;59990;Semi-Auto;5490;Petrol;145;31,7;3;BMW
+ 2 Series;35950;Automatic;4597;Petrol;145;36,2;2;BMW
+ X2;34450;Semi-Auto;14;Petrol;145;34;2;BMW
+ Kona;22495;Automatic;2064;Hybrid;135;52,3;1,6;Hyundai
+ 1 Series;23450;Manual;2400;Petrol;145;44,1;1,5;BMW
+ PROACE VERSO;37950;Automatic;1000;Diesel;145;38,7;2;toyota
+ Octavia;18999;Semi-Auto;2293;Petrol;150;46,3;1,5;skoda
+ Fabia;13990;Manual;3560;Petrol;145;52,3;1;skoda
+ Octavia;20990;Semi-Auto;2500;Diesel;145;51,4;1,6;skoda
+ Grand Tourneo Connect;20850;Manual;601;Diesel;145;61,4;1,5;Ford
+ Q3;29990;Automatic;1500;Diesel;145;47,1;0;audi
+ Golf;29995;Semi-Auto;3569;Petrol;145;32,8;2;vw
+ RS4;69691;Semi-Auto;2500;Petrol;145;28,8;2,9;audi
+ 5 Series;35500;Semi-Auto;101;Diesel;145;53,3;3;BMW
+ A5;32910;Semi-Auto;384;Diesel;150;50,4;2;audi
+ X3;40990;Semi-Auto;2294;Diesel;145;36,7;3;BMW
+ A4;33888;Semi-Auto;4235;Petrol;145;36,2;2;audi
+ Q2;27990;Semi-Auto;5000;Petrol;145;42,2;1,5;audi
+ Puma;19900;Manual;60;Petrol;150;51,4;1;Ford
+ Kona;21320;Manual;1;Petrol;145;44,1;1;Hyundai
+ Tucson;18798;Manual;1250;Petrol;145;34,9;1,6;Hyundai
+ Kodiaq;37999;Automatic;5600;Diesel;150;34,9;2;skoda
+ T-Cross;22901;Automatic;10;Petrol;145;45,6;1;vw
+ Aygo;10400;Manual;4578;Petrol;150;56,5;1;toyota
+ 3 Series;42995;Automatic;7500;Petrol;145;33,6;3;BMW
+ Golf;21995;Manual;1500;Petrol;145;45,6;1,5;vw
+ Focus;25500;Automatic;4555;Petrol;145;39,8;1,5;Ford
+ Q8;61795;Semi-Auto;1500;Diesel;145;32,8;3;audi
+ Golf;33990;Semi-Auto;2500;Petrol;145;32,8;2;vw
+ Golf SV;22980;Semi-Auto;4;Petrol;145;42,8;1,5;vw
+ Polo;14990;Manual;50;Petrol;145;48,7;1;vw
+ X7;78490;Semi-Auto;4919;Diesel;145;31,4;3;BMW
+ A5;30990;Semi-Auto;1500;Petrol;145;39,2;2;audi
+ A1;25990;Semi-Auto;2888;Petrol;150;44,8;1,5;audi
+ 4 Series;33999;Semi-Auto;4000;Diesel;150;65,7;2;BMW
+ 1 Series;20490;Manual;6262;Petrol;145;44,1;1,5;BMW
+ 1 Series;28990;Semi-Auto;1129;Diesel;150;51,4;2;BMW
+ A5;26500;Semi-Auto;5000;Diesel;145;47,1;2;audi
+ Focus;22000;Manual;50;Petrol;145;48,7;1;Ford
+ T-Roc;20989;Manual;3800;Diesel;150;50,4;1,6;vw
+ M4;47488;Automatic;10;Petrol;150;34;3;BMW
+ Up;11780;Manual;531;Petrol;145;51,4;1;vw
+ Q3;41888;Automatic;1500;Petrol;145;31;0;audi
+ 3 Series;41485;Semi-Auto;2084;Diesel;145;43,5;3;BMW
+ 3 Series;26999;Semi-Auto;570;Petrol;150;43,5;2;BMW
+ Polo;15210;Manual;1001;Petrol;145;47,9;1;vw
+ Polo;14990;Manual;1065;Petrol;145;52,3;1;vw
+ Aygo;9990;Manual;500;Petrol;145;56,5;1;toyota
+ 2 Series;21890;Semi-Auto;11;Petrol;145;50,4;1,5;BMW
+ Puma;20999;Manual;2000;Petrol;150;51,4;1;Ford
+ Golf;21498;Semi-Auto;15;Diesel;150;53,3;2;vw
+ X2;23990;Manual;15;Diesel;150;55,4;2;BMW
+ 4 Series;28990;Semi-Auto;100;Diesel;145;52,3;3;BMW
+ Golf;23999;Manual;500;Petrol;150;47,1;1,5;vw
+ Octavia;19000;Semi-Auto;16;Petrol;145;46,3;1,5;skoda
+ Mustang;36500;Semi-Auto;672;Petrol;145;30,7;2,3;Ford
+ Q3;32444;Automatic;1500;Petrol;145;31,4;0;audi
+ A4;47950;Automatic;3558;Diesel;145;39,2;3;audi
+ 3 Series;28985;Semi-Auto;2958;Petrol;145;42,2;2;BMW
+ X3;51395;Semi-Auto;171;Diesel;145;48,7;3;BMW
+ Fabia;12985;Manual;495;Petrol;145;51,4;1;skoda
+ A5;30000;Semi-Auto;1000;Diesel;145;47,1;2;audi
+ 5 Series;35793;Semi-Auto;15;Petrol;145;48,7;2;BMW
+ Up;9700;Manual;999;Petrol;145;54,3;1;vw
+ I20;12990;Manual;2500;Petrol;145;46,3;1,2;Hyundai
+ X5;64995;Semi-Auto;102;Diesel;145;37,7;3;BMW
+ A1;23250;Semi-Auto;3000;Petrol;145;44,8;1;audi
+ Focus;20491;Automatic;4841;Diesel;145;74,3;1,5;Ford
+ 2 Series;20980;Semi-Auto;9;Petrol;145;50,4;1,5;BMW
+ Q3;30990;Semi-Auto;700;Petrol;150;39,8;1,5;audi
+ Land Cruiser;52291;Semi-Auto;3104;Diesel;145;30,1;2,8;toyota
+ X2;34990;Automatic;2137;Petrol;145;34;2;BMW
+ I10;13294;Manual;1530;Petrol;145;53,3;1;Hyundai
+ 4 Series;34980;Semi-Auto;1000;Petrol;145;48,7;2;BMW
+ Golf;22995;Manual;2000;Petrol;150;47,9;1,5;vw
+ X2;32403;Semi-Auto;2580;Petrol;145;39,8;2;BMW
+ Q5;40945;Semi-Auto;3000;Diesel;145;38,2;2;audi
+ Fiesta;16499;Manual;8786;Petrol;150;60,1;1;Ford
+ T-Roc;21999;Manual;5000;Petrol;145;42,2;1,5;vw
+ Passat;20998;Semi-Auto;10;Diesel;150;49,6;1,6;vw
+ T-Cross;20450;Automatic;445;Petrol;145;45,6;1;vw
+ Tiguan;29995;Manual;168;Diesel;145;47,9;2;vw
+ Q7;52000;Semi-Auto;1000;Diesel;145;33,2;3;audi
+ Up;10200;Manual;10;Petrol;145;54,3;1;vw
+ 5 Series;54845;Semi-Auto;450;Diesel;145;60,1;3;BMW
+ A1;24500;Semi-Auto;4000;Petrol;145;44,8;1,5;audi
+ Polo;17990;Manual;553;Petrol;145;49,6;1;vw
+ Scala;17980;Automatic;1000;Petrol;150;47,1;1;skoda
+ Golf;21990;Semi-Auto;1742;Petrol;145;45,6;1,5;vw
+ X4;45500;Semi-Auto;1608;Petrol;145;26,9;3;BMW
+ X1;29995;Semi-Auto;1501;Diesel;145;50,4;2;BMW
+ X2;27500;Semi-Auto;10;Petrol;150;39,2;2;BMW
+ Polo;14990;Manual;12201;Petrol;145;47,9;1;vw
+ Q5;37000;Automatic;1436;Petrol;145;32,1;2;audi
+ EcoSport;20000;Manual;558;Petrol;145;53,3;1;Ford
+ T-Roc;24490;Manual;2243;Petrol;145;44,1;1,5;vw
+ Kamiq;20999;Semi-Auto;1000;Diesel;145;52,3;1,6;skoda
+ Tiguan;28891;Semi-Auto;3851;Diesel;150;40,4;2;vw
+ T-Roc;26000;Manual;10;Petrol;145;44,1;1,5;vw
+ Focus;15600;Manual;557;Petrol;145;60,1;1;Ford
+ RAV4;36500;Automatic;1114;Hybrid;135;49,6;2,5;toyota
+ 5 Series;26450;Semi-Auto;25;Diesel;145;65,7;2;BMW
+ A1;20888;Manual;1500;Petrol;145;47,9;1;audi
+ 3 Series;36995;Automatic;3500;Diesel;145;45,6;3;BMW
+ Tiguan;28500;Semi-Auto;6000;Diesel;145;31,4;2;vw
+ Z4;35850;Semi-Auto;5;Petrol;145;37,2;2;BMW
+ Yaris;15885;Manual;261;Petrol;145;47,9;1,5;toyota
+ 4 Series;28300;Semi-Auto;20;Diesel;145;65,7;2;BMW
+ Q3;32950;Automatic;998;Diesel;150;47,1;2;audi
+ 3 Series;34995;Semi-Auto;11;Diesel;145;49,6;2;BMW
+ T-Roc;29750;Semi-Auto;2000;Diesel;150;49,6;2;vw
+ Kodiaq;23490;Automatic;4522;Diesel;145;49,6;2;skoda
+ Kodiaq;30850;Manual;2000;Diesel;145;52,3;2;skoda
+ Kodiaq;33990;Automatic;2250;Diesel;145;39,2;2;skoda
+ Passat;24490;Manual;2500;Diesel;145;55,4;2;vw
+ 2 Series;19950;Manual;100;Petrol;145;52,3;1,5;BMW
+ Focus;20991;Automatic;3767;Diesel;145;74,3;1,5;Ford
+ Octavia;18495;Manual;621;Petrol;150;48,7;1,5;skoda
+ I10;13980;Semi-Auto;1200;Petrol;145;52,3;1,2;Hyundai
+ Mustang;33979;Manual;613;Petrol;145;31,4;2,3;Ford
+ 5 Series;26990;Semi-Auto;104;Petrol;145;50,4;2;BMW
+ Tiguan;33000;Manual;3000;Diesel;145;42,8;2;vw
+ T-Cross;19790;Manual;992;Diesel;145;53,3;1,6;vw
+ Superb;34232;Semi-Auto;15;Hybrid;140;201,8;1,4;skoda
+ Q2;25990;Manual;4432;Petrol;150;43,5;1,5;audi
+ Touareg;53989;Automatic;6000;Diesel;150;34;3;vw
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ Polo;16285;Manual;10;Petrol;145;47,9;1;vw
+ Fiesta;16490;Manual;2873;Petrol;145;58,9;1;Ford
+ Q2;28900;Manual;1201;Diesel;145;46,3;1,6;audi
+ Q5;39950;Automatic;4500;Diesel;150;38,2;2;audi
+ I10;11995;Manual;610;Petrol;145;56,5;1;Hyundai
+ Santa Fe;35995;Semi-Auto;1088;Diesel;145;39,2;2,2;Hyundai
+ A4;34500;Semi-Auto;1000;Diesel;145;45,6;2;audi
+ Golf;22999;Manual;1001;Petrol;150;49,6;1,5;vw
+ A4;32000;Semi-Auto;20;Petrol;145;40,9;2;audi
+ X2;38989;Semi-Auto;6000;Petrol;145;34;2;BMW
+ Fabia;13650;Manual;950;Petrol;145;50,4;1;skoda
+ 1 Series;31495;Semi-Auto;1250;Diesel;145;48,7;2;BMW
+ Golf;18995;Manual;99;Diesel;145;57,7;1,6;vw
+ Q3;30990;Manual;1500;Petrol;145;40,9;0;audi
+ Octavia;19000;Semi-Auto;10;Petrol;150;46,3;1,5;skoda
+ Golf;34790;Semi-Auto;2500;Petrol;145;32,8;2;vw
+ 3 Series;23990;Manual;18;Diesel;145;56,5;2;BMW
+ Tiguan;32990;Manual;4169;Diesel;145;42,8;2;vw
+ Tiguan;29500;Semi-Auto;1000;Diesel;145;39,8;2;vw
+ 4 Series;36990;Semi-Auto;99;Diesel;145;47,9;3;BMW
+ Kodiaq;31995;Automatic;2000;Diesel;150;39,2;2;skoda
+ Up;10899;Manual;5000;Other;145;54,3;1;vw
+ Aygo;10752;Manual;500;Petrol;145;57,7;1;toyota
+ Focus;23500;Manual;50;Petrol;145;58,9;1;Ford
+ A3;23229;Manual;1850;Petrol;145;44,8;1,5;audi
+ RAV4;31790;Automatic;1652;Hybrid;135;49,6;2,5;toyota
+ T-Cross;20999;Manual;584;Petrol;145;47,9;1;vw
+ A1;22970;Semi-Auto;3015;Petrol;150;44,8;1;audi
+ I10;14995;Semi-Auto;516;Petrol;145;49,6;1,2;Hyundai
+ Tucson;22990;Semi-Auto;4250;Petrol;145;36,2;1,6;Hyundai
+ Kona;20970;Manual;1000;Petrol;145;44,1;1;Hyundai
+ A3;35991;Semi-Auto;4433;Petrol;145;34,9;2;audi
+ I20;14400;Manual;1;Petrol;145;46,3;1,2;Hyundai
+ Golf;23995;Manual;5;Petrol;150;47,9;1,5;vw
+ Scala;18250;Manual;2735;Diesel;145;57,7;1,6;skoda
+ Focus;19995;Manual;403;Petrol;150;60,1;1;Ford
+ Q5;62990;Semi-Auto;5000;Diesel;145;32,5;3;audi
+ 2 Series;29995;Semi-Auto;1501;Diesel;145;49,6;2;BMW
+ Tucson;27995;Semi-Auto;3000;Petrol;145;36,2;1,6;Hyundai
+ I10;12190;Manual;1958;Petrol;150;56,5;1;Hyundai
+ Corolla;28000;Automatic;10;Hybrid;140;56,5;1,8;toyota
+ Corolla;26991;Automatic;3636;Hybrid;140;53,3;2;toyota
+ 4 Series;33890;Semi-Auto;9;Diesel;145;51,4;3;BMW
+ Fiesta;15699;Manual;50;Petrol;145;56,5;1;Ford
+ 4 Series;25993;Semi-Auto;1705;Diesel;145;65,7;2;BMW
+ Golf;33477;Semi-Auto;4411;Petrol;145;36,2;2;vw
+ Q3;33888;Manual;1500;Petrol;145;40,4;1,5;audi
+ Up;9699;Manual;500;Petrol;145;54,3;1;vw
+ Kodiaq;38990;Automatic;493;Diesel;145;34,9;2;skoda
+ A5;32990;Semi-Auto;3000;Petrol;145;40,4;2;audi
+ Caravelle;49980;Semi-Auto;17;Diesel;145;33,6;2;vw
+ A1;23000;Semi-Auto;3000;Petrol;145;44,8;1;audi
+ Up;10815;Manual;5000;Petrol;145;54,3;1;vw
+ A4;45990;Semi-Auto;7800;Diesel;145;39,2;3;audi
+ I20;11995;Manual;2310;Petrol;145;46,3;1,2;Hyundai
+ Q3;31990;Semi-Auto;4432;Petrol;150;40,4;1,5;audi
+ Fiesta;15000;Manual;32;Petrol;145;56,5;1;Ford
+ Superb;29995;Semi-Auto;2500;Diesel;145;48,7;2;skoda
+ T-Cross;19250;Manual;1877;Petrol;145;47,9;1;vw
+ Q2;23888;Manual;4000;Petrol;145;43,5;1,5;audi
+ Q5;35000;Semi-Auto;5000;Diesel;145;38,2;2;audi
+ Prius;26000;Automatic;2250;Hybrid;135;64,2;1,8;toyota
+ I20;13999;Manual;6000;Petrol;150;47,9;1;Hyundai
+ Scala;22499;Manual;642;Diesel;145;57,7;1,6;skoda
+ Q5;58495;Semi-Auto;4000;Diesel;145;32,5;3;audi
+ A6;30000;Automatic;893;Diesel;145;47,9;2;audi
+ Touran;28883;Semi-Auto;861;Diesel;145;45,6;2;vw
+ Polo;14391;Manual;1952;Petrol;150;48,7;1;vw
+ Superb;26795;Automatic;3600;Hybrid;135;201,8;1,4;skoda
+ Octavia;19750;Semi-Auto;2548;Diesel;145;53,3;2;skoda
+ A3;16999;Manual;1978;Petrol;150;49,6;1;audi
+ T-Cross;19999;Manual;1306;Diesel;145;52,3;1,6;vw
+ Fiesta;15999;Manual;2012;Petrol;145;60,1;1;Ford
+ A4;31500;Semi-Auto;1000;Diesel;145;53,3;2;audi
+ Fiesta;15299;Manual;895;Petrol;145;58,9;1;Ford
+ T-Roc;25851;Manual;2114;Petrol;145;42,2;1,5;vw
+ Q3;35990;Semi-Auto;6000;Diesel;145;47,1;2;audi
+ Touareg;49996;Automatic;2450;Diesel;145;34;3;vw
+ Q3;34750;Semi-Auto;2500;Petrol;145;31,4;2;audi
+ Golf;21498;Semi-Auto;10;Diesel;150;53,3;2;vw
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ Kodiaq;34990;Automatic;3500;Diesel;145;39,2;2;skoda
+ 3 Series;36402;Semi-Auto;101;Petrol;145;40,4;2;BMW
+ 2 Series;36840;Semi-Auto;2422;Petrol;145;36,2;2;BMW
+ Golf;30950;Semi-Auto;4000;Hybrid;135;141,3;1,4;vw
+ Q3;43990;Semi-Auto;1487;Petrol;150;31;2;audi
+ Polo;15295;Manual;1500;Petrol;145;47,9;1;vw
+ 8 Series;62995;Semi-Auto;11;Petrol;145;31,7;3;BMW
+ Golf SV;23495;Semi-Auto;99;Petrol;150;42,8;1,5;vw
+ Golf;25995;Semi-Auto;489;Diesel;145;52,3;1,6;vw
+ Polo;16490;Semi-Auto;2231;Petrol;145;45,6;1;vw
+ Caddy Maxi Life;23990;Semi-Auto;2000;Diesel;145;46,3;2;vw
+ A1;27990;Automatic;2500;Petrol;145;44,1;1,5;audi
+ C-HR;27990;Automatic;985;Hybrid;135;58,9;1,8;toyota
+ EcoSport;17998;Manual;250;Petrol;145;51,4;1;Ford
+ A3;32400;Semi-Auto;1261;Petrol;145;34,5;2;audi
+ Tiguan;33999;Semi-Auto;750;Petrol;145;31;2;vw
+ Q5;34890;Automatic;4521;Diesel;145;38,2;2;audi
+ Ioniq;20995;Automatic;1669;Hybrid;135;62,8;1,6;Hyundai
+ Aygo;10750;Manual;15;Petrol;150;57,7;1;toyota
+ Mondeo;22000;Manual;10;Diesel;145;65,7;2;Ford
+ 2 Series;30995;Semi-Auto;1501;Diesel;145;48,7;2;BMW
+ Passat;21998;Semi-Auto;30;Diesel;145;49,6;1,6;vw
+ 5 Series;31450;Semi-Auto;8;Hybrid;145;60,1;2;BMW
+ Caddy Maxi Life;21995;Semi-Auto;2134;Diesel;150;46,3;2;vw
+ Aygo;10980;Manual;4578;Petrol;150;56,5;1;toyota
+ Q5;42500;Semi-Auto;4000;Diesel;145;37,2;2;audi
+ 3 Series;34995;Semi-Auto;10;Diesel;145;49,6;2;BMW
+ A4;31985;Manual;7456;Petrol;145;40,9;2;audi
+ Tiguan;32400;Manual;3000;Diesel;145;47,9;2;vw
+ T-Roc;26480;Semi-Auto;4;Petrol;145;39,8;1,5;vw
+ T-Cross;21995;Manual;10;Petrol;150;47,9;1;vw
+ A3;26500;Manual;1500;Diesel;145;55,4;2;audi
+ GT86;27998;Manual;516;Petrol;150;33,2;2;toyota
+ 2 Series;26495;Semi-Auto;10;Petrol;145;40,9;1,5;BMW
+ X1;27995;Semi-Auto;2364;Diesel;145;65,7;2;BMW
+ A5;27900;Semi-Auto;5000;Petrol;145;40,4;2;audi
+ Golf SV;24950;Automatic;1000;Petrol;150;42,8;1,5;vw
+ Golf;24990;Automatic;844;Petrol;150;44,8;1,5;vw
+ Q3;29995;Manual;1014;Petrol;145;40,9;1,5;audi
+ X2;30990;Semi-Auto;10;Petrol;145;42,8;1,5;BMW
+ Focus;20990;Manual;1853;Petrol;145;49,6;1;Ford
+ Golf;26990;Semi-Auto;5000;Petrol;145;44,1;1,5;vw
+ Scala;17650;Semi-Auto;4112;Petrol;145;45,6;1,5;skoda
+ I30;15495;Manual;3363;Petrol;145;44,8;1;Hyundai
+ Kamiq;20995;Semi-Auto;1000;Petrol;145;43,5;1,5;skoda
+ 3 Series;32475;Semi-Auto;12;Diesel;145;48,7;2;BMW
+ A3;16999;Manual;2718;Petrol;150;49,6;1;audi
+ Q5;42991;Semi-Auto;2648;Diesel;145;38,2;2;audi
+ A1;19490;Manual;1500;Petrol;145;48,7;1;audi
+ A3;29000;Automatic;3153;Petrol;145;34,5;2;audi
+ 3 Series;43900;Automatic;11;Petrol;145;34,9;3;BMW
+ Golf;21450;Automatic;3000;Diesel;145;62,8;2;vw
+ Golf;21206;Manual;925;Petrol;145;49,6;1,5;vw
+ Mondeo;22999;Semi-Auto;6897;Diesel;145;58,9;2;Ford
+ T-Roc;36995;Semi-Auto;1000;Petrol;145;32,5;2;vw
+ Up;12250;Manual;100;Petrol;145;54,3;1;vw
+ Q3;33990;Automatic;1500;Diesel;145;47,1;2;audi
+ Kamiq;17495;Manual;1000;Petrol;145;49,6;1;skoda
+ X6;57990;Semi-Auto;3955;Diesel;145;34,9;3;BMW
+ Polo;15780;Manual;3547;Petrol;145;52,3;1;vw
+ I10;14995;Manual;1000;Petrol;145;53,3;1;Hyundai
+ Z4;31350;Automatic;111;Petrol;145;38,7;2;BMW
+ A6;43990;Semi-Auto;2500;Diesel;145;37,7;3;audi
+ 2 Series;20980;Semi-Auto;10;Petrol;145;50,4;1,5;BMW
+ A4;25000;Manual;1000;Petrol;145;42,2;2;audi
+ T-Roc;19541;Manual;4822;Diesel;145;51,4;1,6;vw
+ TT;32990;Automatic;150;Petrol;145;38,7;2;audi
+ Focus;19990;Manual;2525;Petrol;145;58,9;1;Ford
+ Scala;17990;Manual;100;Petrol;150;49,6;1;skoda
+ A5;59995;Semi-Auto;2000;Diesel;150;40,9;3;audi
+ 3 Series;28990;Semi-Auto;14;Diesel;145;50,4;2;BMW
+ Q2;35495;Semi-Auto;1934;Petrol;145;32,5;2;audi
+ Aygo;10790;Semi-Auto;525;Petrol;145;56,5;1;toyota
+ Kamiq;18299;Manual;2500;Petrol;145;47,9;1;skoda
+ Ioniq;20999;Automatic;8000;Hybrid;140;62,8;1,6;Hyundai
+ A5;32995;Semi-Auto;2000;Diesel;145;48,7;2;audi
+ Ioniq;20950;Semi-Auto;400;Hybrid;140;62,8;1,6;Hyundai
+ 2 Series;23990;Semi-Auto;105;Diesel;145;47,1;2;BMW
+ T-Roc;23950;Semi-Auto;3000;Petrol;145;39,8;1,5;vw
+ Z4;29980;Semi-Auto;10;Petrol;145;38,7;2;BMW
+ 1 Series;34999;Automatic;197;Diesel;145;48,7;2;BMW
+ A1;21000;Manual;3999;Petrol;145;47,9;1;audi
+ Amarok;39999;Automatic;2451;Diesel;260;33,6;3;vw
+ Kamiq;19990;Semi-Auto;1587;Petrol;150;45,6;1;skoda
+ Q2;25990;Semi-Auto;6000;Diesel;145;46,3;1,6;audi
+ T-Roc;24999;Semi-Auto;1165;Diesel;145;50,4;2;vw
+ Golf;28000;Semi-Auto;100;Hybrid;145;44,8;1,5;vw
+ GT86;25995;Manual;3250;Petrol;145;33,2;2;toyota
+ 2 Series;20980;Semi-Auto;9;Petrol;150;50,4;1,5;BMW
+ Mondeo;21000;Manual;25;Diesel;145;65,7;2;Ford
+ Golf;21990;Semi-Auto;4669;Petrol;145;45,6;1,5;vw
+ TT;34995;Semi-Auto;2000;Petrol;150;40,9;2;audi
+ 5 Series;32475;Semi-Auto;12;Hybrid;145;49,6;2;BMW
+ T-Cross;20990;Manual;2500;Diesel;145;52,3;1,6;vw
+ Passat;35999;Automatic;2030;Hybrid;135;41,5;1,4;vw
+ Golf;20769;Manual;1116;Petrol;145;49,6;1,5;vw
+ I10;11670;Manual;101;Petrol;145;56,5;1;Hyundai
+ Kamiq;18990;Manual;1908;Petrol;150;47,9;1;skoda
+ Golf;31498;Semi-Auto;10;Petrol;150;32,8;2;vw
+ A4;36950;Automatic;3200;Diesel;145;45,6;2;audi
+ 4 Series;39250;Semi-Auto;151;Diesel;150;47,9;3;BMW
+ Fiesta;15000;Manual;250;Petrol;150;56,5;1;Ford
+ I30;15795;Manual;4000;Petrol;145;45,6;1;Hyundai
+ 3 Series;41995;Automatic;4300;Petrol;145;33,6;3;BMW
+ A4;25500;Manual;1000;Petrol;145;42,2;2;audi
+ Q3;29930;Automatic;4563;Diesel;145;48,7;2;audi
+ Up;11000;Manual;2500;Petrol;145;54,3;1;vw
+ Q3;31990;Manual;2100;Petrol;145;39,8;1,5;audi
+ Sharan;21998;Manual;741;Diesel;150;43,5;2;vw
+ Tiguan;28250;Semi-Auto;669;Petrol;145;30,4;2;vw
+ Passat;20998;Semi-Auto;50;Diesel;145;49,6;1,6;vw
+ X2;38970;Semi-Auto;600;Diesel;145;58,9;2;BMW
+ Q3;33990;Manual;24;Petrol;145;39,8;1,5;audi
+ Fiesta;15495;Automatic;3000;Petrol;145;48,7;1;Ford
+ I10;13495;Manual;1000;Petrol;145;51,4;1,2;Hyundai
+ Golf;23999;Automatic;5000;Other;145;44,8;1,5;vw
+ Q3;33491;Semi-Auto;4432;Petrol;150;39,2;1,5;audi
+ T-Cross;19000;Manual;3000;Petrol;145;47,9;1;vw
+ Focus;18500;Manual;100;Petrol;145;60,1;1;Ford
+ Q5;60000;Semi-Auto;7499;Diesel;145;32,5;3;audi
+ Q3;32444;Automatic;2700;Petrol;145;31,4;2;audi
+ Golf;24450;Automatic;1000;Petrol;150;44,8;1,5;vw
+ X7;66988;Automatic;5000;Diesel;145;33,6;3;BMW
+ I10;11990;Manual;2000;Petrol;145;56,5;1;Hyundai
+ Superb;29799;Automatic;897;Hybrid;135;201,8;1,4;skoda
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ Q7;59990;Semi-Auto;799;Diesel;145;33,2;3;audi
+ Q5;48850;Semi-Auto;705;Diesel;145;34,5;3;audi
+ 2 Series;24995;Semi-Auto;2200;Petrol;145;50,4;2;BMW
+ A3;21450;Manual;4541;Diesel;150;51,4;1,6;audi
+ A4;37995;Automatic;203;Diesel;145;45,6;2;audi
+ Q5;58990;Semi-Auto;2396;Diesel;145;32,5;3;audi
+ Yaris;12495;Manual;4895;Petrol;150;49,6;1;toyota
+ Kodiaq;36900;Automatic;3000;Diesel;150;38,7;2;skoda
+ Up;10000;Manual;10;Petrol;150;54,3;1;vw
+ Superb;23999;Semi-Auto;3500;Petrol;145;38,2;2;skoda
+ T-Roc;24490;Manual;381;Petrol;150;42,2;1,5;vw
+ Polo;14850;Manual;976;Petrol;145;52,3;1;vw
+ Golf;21856;Automatic;1243;Diesel;145;53,3;2;vw
+ Q3;33990;Automatic;4000;Diesel;145;47,1;0;audi
+ Up;9989;Manual;2563;Petrol;145;54,3;1;vw
+ Kamiq;21000;Manual;11;Petrol;150;46,3;1,5;skoda
+ T-Cross;23950;Manual;7000;Diesel;145;52,3;1,6;vw
+ 2 Series;28993;Semi-Auto;500;Diesel;145;67,3;2;BMW
+ Golf;22000;Semi-Auto;2000;Petrol;145;45,6;1,5;vw
+ A4;29995;Semi-Auto;100;Petrol;150;39,2;2;audi
+ Focus;20390;Automatic;5750;Diesel;145;74,3;1,5;Ford
+ 6 Series;36550;Automatic;101;Petrol;145;42,8;2;BMW
+ Polo;14999;Manual;5000;Petrol;145;47,9;1;vw
+ 3 Series;23990;Manual;13;Diesel;145;56,5;2;BMW
+ 1 Series;26495;Semi-Auto;10;Petrol;145;42,8;1,5;BMW
+ 3 Series;43995;Semi-Auto;2252;Petrol;145;34,9;3;BMW
+ Tiguan Allspace;36999;Semi-Auto;6000;Diesel;145;38,7;2;vw
+ T-Roc;27444;Automatic;2256;Diesel;145;49,6;2;vw
+ Tiguan;32450;Manual;4500;Diesel;145;42,8;2;vw
+ Puma;21999;Manual;2500;Petrol;150;50,4;1;Ford
+ Kamiq;23490;Automatic;10;Petrol;145;52,3;1,6;skoda
+ Golf;26852;Semi-Auto;5000;Hybrid;145;44,8;1,5;vw
+ 4 Series;27500;Semi-Auto;25;Diesel;145;60,1;2;BMW
+ X3;37990;Semi-Auto;6992;Diesel;150;54,3;2;BMW
+ Corolla;19495;Manual;4568;Petrol;150;39,2;1,2;toyota
+ X1;25980;Semi-Auto;19;Diesel;145;60,1;2;BMW
+ Fiesta;18000;Manual;5;Petrol;145;55,4;1;Ford
+ Tiguan;34200;Manual;2000;Diesel;145;42,8;2;vw
+ T-Cross;24490;Semi-Auto;5000;Petrol;145;45,6;1;vw
+ Golf;20500;Manual;2500;Petrol;145;47,1;1,5;vw
+ X3;37495;Automatic;4500;Diesel;145;54,3;2;BMW
+ Up;13290;Manual;1000;Petrol;145;50,4;1;vw
+ 1 Series;32495;Automatic;10;Diesel;145;48,7;2;BMW
+ T-Roc;20995;Manual;4000;Petrol;145;42,2;1,5;vw
+ Q5;38750;Semi-Auto;2000;Diesel;145;38,2;2;audi
+ Octavia;21690;Automatic;1908;Petrol;150;37,7;2;skoda
+ Yaris;15885;Manual;211;Petrol;145;47,9;1,5;toyota
+ T-Roc;24495;Manual;1955;Diesel;150;50,4;2;vw
+ Yaris;13999;Manual;20;Petrol;145;47,9;1,5;toyota
+ Focus;19480;Automatic;2;Diesel;145;67,3;1,5;Ford
+ Q5;34500;Automatic;5362;Diesel;145;38,2;2;audi
+ 5 Series;34840;Semi-Auto;105;Hybrid;145;44,8;2;BMW
+ Q3;29488;Manual;1500;Petrol;145;40,9;0;audi
+ C-HR;27999;Automatic;3545;Hybrid;140;54,3;2;toyota
+ X3;54990;Semi-Auto;2137;Hybrid;135;5,5;2;BMW
+ Touareg;44999;Semi-Auto;8000;Diesel;145;34,5;3;vw
+ Up;10750;Manual;100;Petrol;145;54,3;1;vw
+ A5;30850;Semi-Auto;4000;Diesel;145;47,1;2;audi
+ Corolla;20692;Manual;7345;Petrol;145;39,2;1,2;toyota
+ M4;48630;Semi-Auto;99;Petrol;145;34;3;BMW
+ Scala;16957;Manual;1652;Diesel;145;57,7;1,6;skoda
+ Polo;17490;Semi-Auto;1650;Petrol;145;45,6;1;vw
+ A4;29000;Semi-Auto;20;Petrol;145;42,2;2;audi
+ Caddy Maxi Life;22490;Automatic;89;Diesel;145;46,3;2;vw
+ Passat;32491;Automatic;2000;Diesel;145;48,7;2;vw
+ 8 Series;66991;Semi-Auto;123;Petrol;145;33,2;3;BMW
+ Golf;19995;Manual;500;Petrol;145;46,3;1,5;vw
+ Q3;37888;Automatic;1500;Petrol;145;30,7;0;audi
+ X5;65000;Semi-Auto;1435;Petrol;145;23,2;4,4;BMW
+ 2 Series;32995;Semi-Auto;1501;Petrol;145;36,2;2;BMW
+ X6;55890;Semi-Auto;9710;Diesel;145;34,9;3;BMW
+ Q7;82995;Semi-Auto;826;Diesel;145;29,4;4;audi
+ X6;55890;Semi-Auto;3340;Diesel;145;34,9;3;BMW
+ X4;41904;Semi-Auto;101;Diesel;145;42,8;2;BMW
+ Up;9499;Manual;722;Petrol;145;54,3;1;vw
+ T-Roc;19990;Manual;1897;Petrol;145;44,1;1;vw
+ Puma;19970;Manual;2075;Petrol;145;50,4;1;Ford
+ Kodiaq;31499;Automatic;3539;Diesel;145;39,2;2;skoda
+ Tiguan;32285;Manual;10;Diesel;145;47,9;2;vw
+ Scala;18250;Manual;1284;Diesel;145;57,7;1,6;skoda
+ X1;25480;Semi-Auto;24;Diesel;145;60,1;2;BMW
+ Golf SV;21500;Semi-Auto;3000;Petrol;150;42,8;1,5;vw
+ Mustang;39990;Semi-Auto;691;Petrol;145;22,1;5;Ford
+ M4;49488;Automatic;10;Petrol;150;34;3;BMW
+ Polo;15081;Manual;1379;Petrol;150;52,3;1;vw
+ T-Roc;31990;Automatic;5500;Petrol;150;32,5;2;vw
+ Q7;62990;Semi-Auto;6000;Diesel;145;33,2;3;audi
+ T-Roc;28995;Semi-Auto;2000;Petrol;145;34,5;2;vw
+ X3;33995;Semi-Auto;1501;Diesel;145;54,3;2;BMW
+ Scala;18750;Manual;10;Petrol;145;49,6;1;skoda
+ Up;10490;Manual;1300;Petrol;145;54,3;1;vw
+ T-Roc;24490;Manual;799;Petrol;145;44,1;1,5;vw
+ Golf;22500;Manual;2000;Diesel;145;62,8;2;vw
+ I10;12495;Manual;4000;Petrol;145;51,4;1,2;Hyundai
+ 3 Series;41850;Automatic;101;Diesel;145;44,1;3;BMW
+ Up;10200;Manual;10;Petrol;150;54,3;1;vw
+ Golf;23270;Manual;5000;Petrol;145;49,6;1,5;vw
+ Tiguan;31499;Semi-Auto;1000;Diesel;145;45,6;2;vw
+ Q3;36000;Semi-Auto;3000;Petrol;145;31,4;2;audi
+ Passat;21998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ X7;64995;Semi-Auto;3452;Diesel;150;33,6;3;BMW
+ Kuga;25490;Manual;1128;Diesel;145;39,2;2;Ford
+ Golf;18695;Manual;1500;Petrol;145;50,4;1,5;vw
+ 4 Series;26500;Semi-Auto;37;Petrol;145;48,7;2;BMW
+ EcoSport;16698;Manual;866;Petrol;145;53,3;1;Ford
+ A4;32995;Semi-Auto;2000;Petrol;145;38,2;2;audi
+ I30;26990;Manual;1300;Petrol;150;34;2;Hyundai
+ Polo;18231;Semi-Auto;3375;Petrol;145;46,3;1;vw
+ Up;9690;Manual;2277;Petrol;145;54,3;1;vw
+ I20;12770;Manual;101;Petrol;145;46,3;1,2;Hyundai
+ 5 Series;28990;Semi-Auto;103;Hybrid;145;62,8;2;BMW
+ Q2;25950;Manual;2330;Petrol;145;43,5;1,5;audi
+ 3 Series;32400;Automatic;2121;Diesel;145;52,3;2;BMW
+ Puma;22975;Manual;3000;Petrol;145;50,4;1;Ford
+ Q5;35000;Semi-Auto;5000;Diesel;145;38,2;2;audi
+ T-Roc;19644;Manual;13952;Petrol;150;44,1;1;vw
+ X6;49975;Semi-Auto;2950;Diesel;150;34,9;3;BMW
+ T-Cross;23990;Automatic;4616;Petrol;145;45,6;1;vw
+ Q3;41500;Semi-Auto;4000;Petrol;145;31;2;audi
+ Tiguan;30995;Manual;500;Diesel;145;42,2;2;vw
+ Superb;33995;Semi-Auto;6063;Hybrid;135;176,6;1,4;skoda
+ Golf;26495;Semi-Auto;2000;Hybrid;145;44,8;1,5;vw
+ A1;25790;Automatic;3222;Petrol;145;44,1;1,5;audi
+ GT86;27995;Manual;1055;Petrol;145;33,2;2;toyota
+ Z4;31000;Semi-Auto;1595;Petrol;145;38,7;2;BMW
+ T-Roc;30991;Semi-Auto;1343;Petrol;145;34,5;2;vw
+ Q3;37495;Semi-Auto;2000;Petrol;145;39,8;1,5;audi
+ Polo;20950;Semi-Auto;3538;Petrol;145;39,8;2;vw
+ Tiguan;38990;Semi-Auto;1483;Diesel;145;39,2;2;vw
+ Up;10000;Manual;4000;Petrol;145;54,3;1;vw
+ A5;40990;Semi-Auto;2900;Diesel;145;44,8;2;audi
+ Aygo;11390;Semi-Auto;4574;Petrol;145;56,5;1;toyota
+ Polo;13995;Manual;3168;Petrol;150;47,9;1;vw
+ 3 Series;34989;Semi-Auto;100;Diesel;145;50,4;2;BMW
+ Polo;14999;Manual;1309;Petrol;145;47,9;1;vw
+ Passat;24990;Manual;1108;Petrol;145;45,6;1,5;vw
+ Passat;20998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ 4 Series;24490;Semi-Auto;105;Diesel;145;65,7;2;BMW
+ Passat;25490;Automatic;478;Petrol;145;42,8;1,5;vw
+ T-Roc;27490;Manual;3001;Petrol;145;42,2;1,5;vw
+ Fiesta;19718;Manual;10;Petrol;145;55,4;1;Ford
+ T-Roc;25480;Manual;5;Petrol;145;42,2;1,5;vw
+ Sharan;28990;Semi-Auto;746;Petrol;145;32,5;1,4;vw
+ Puma;25000;Manual;2396;Petrol;145;49,6;1;Ford
+ A5;32495;Semi-Auto;2000;Petrol;145;39,2;2;audi
+ A1;18500;Manual;641;Petrol;145;48,7;1;audi
+ Golf;22989;Automatic;3921;Diesel;150;52,3;2;vw
+ Polo;16750;Semi-Auto;10;Petrol;145;45,6;1;vw
+ Touareg;54990;Semi-Auto;6000;Diesel;150;33,6;3;vw
+ Passat;20998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ Passat;28000;Manual;709;Diesel;145;55,4;2;vw
+ T-Cross;19999;Manual;2001;Petrol;145;47,9;1;vw
+ A1;22000;Semi-Auto;2999;Petrol;145;44,8;1;audi
+ Focus;21000;Manual;52;Petrol;145;60,1;1;Ford
+ Polo;13900;Manual;1600;Petrol;150;48,7;1;vw
+ A5;29990;Automatic;10;Petrol;145;40,4;2;audi
+ Tucson;26995;Manual;3000;Hybrid;145;47,9;1,6;Hyundai
+ Fabia;13795;Manual;1000;Petrol;145;51,4;1;skoda
+ T-Cross;19290;Manual;10;Diesel;145;53,3;1,6;vw
+ 2 Series;23990;Semi-Auto;10;Petrol;150;39,2;1,5;BMW
+ 4 Series;42520;Semi-Auto;102;Diesel;145;65,7;2;BMW
+ Scala;15895;Semi-Auto;3263;Petrol;145;47,1;1;skoda
+ Q3;29944;Manual;1500;Petrol;145;40,9;0;audi
+ T-Roc;21411;Manual;2461;Petrol;150;42,2;1,5;vw
+ 3 Series;27990;Semi-Auto;6565;Petrol;150;42,2;2;BMW
+ Q7;70950;Automatic;5000;Diesel;145;30,1;4;audi
+ TT;32490;Semi-Auto;2950;Petrol;145;34,9;2;audi
+ Sharan;27990;Semi-Auto;1000;Diesel;145;40,9;2;vw
+ Polo;18957;Semi-Auto;549;Petrol;145;46,3;1;vw
+ Polo;14999;Manual;2000;Petrol;145;47,9;1;vw
+ Fabia;12000;Manual;1500;Petrol;145;51,4;1;skoda
+ Q3;35490;Automatic;500;Diesel;145;47,1;2;audi
+ X2;26780;Semi-Auto;1500;Diesel;145;61,4;2;BMW
+ Q3;40000;Semi-Auto;3500;Petrol;145;31,7;2;audi
+ I30;25280;Manual;2148;Petrol;145;34;2;Hyundai
+ Q2;33000;Semi-Auto;820;Petrol;145;32,5;2;audi
+ 3 Series;27999;Semi-Auto;6;Petrol;145;42,2;2;BMW
+ 2 Series;27989;Manual;3890;Petrol;145;43,5;1,5;BMW
+ Santa Fe;37995;Semi-Auto;9;Diesel;145;39,2;2,2;Hyundai
+ 1 Series;32995;Semi-Auto;5;Diesel;145;48,7;2;BMW
+ Octavia;19819;Semi-Auto;1652;Diesel;145;54,3;2;skoda
+ 4 Series;42194;Semi-Auto;101;Petrol;145;39,2;3;BMW
+ 3 Series;23990;Manual;16;Diesel;145;56,5;2;BMW
+ Q5;39495;Semi-Auto;5000;Petrol;145;32,1;2;audi
+ Q2;26950;Semi-Auto;5000;Petrol;145;42,2;1,5;audi
+ Puma;19990;Manual;2477;Petrol;145;50,4;1;Ford
+ A1;27880;Semi-Auto;3273;Petrol;145;44,1;1,5;audi
+ X3;36853;Semi-Auto;2479;Diesel;145;54,3;2;BMW
+ X6;52990;Semi-Auto;3200;Diesel;145;34,9;3;BMW
+ Golf;23000;Manual;5282;Diesel;145;62,8;2;vw
+ T-Cross;19990;Manual;1610;Petrol;145;47,9;1;vw
+ Golf;21990;Semi-Auto;1862;Diesel;150;52,3;2;vw
+ Mustang;42999;Manual;10;Petrol;145;23,7;5;Ford
+ Kuga;31000;Semi-Auto;10;Hybrid;135;201,8;2,5;Ford
+ A1;19490;Manual;4000;Petrol;150;47,9;1;audi
+ Polo;13490;Manual;4578;Petrol;145;48,7;1;vw
+ Golf;35789;Automatic;5000;Other;145;36,2;2;vw
+ Up;10125;Manual;15;Petrol;145;54,3;1;vw
+ Passat;21465;Semi-Auto;100;Diesel;150;49,6;1,6;vw
+ Tiguan;29500;Semi-Auto;1230;Diesel;145;40,4;2;vw
+ X2;30000;Automatic;101;Petrol;145;42,2;1,5;BMW
+ Golf;25999;Semi-Auto;3000;Hybrid;150;44,8;1,5;vw
+ 5 Series;27980;Semi-Auto;105;Hybrid;145;52,3;2;BMW
+ A4;42840;Semi-Auto;5233;Diesel;145;39,2;3;audi
+ A5;27450;Semi-Auto;78;Diesel;145;47,1;2;audi
+ Up;12135;Manual;100;Petrol;145;51,4;1;vw
+ Golf SV;22995;Semi-Auto;1734;Diesel;150;50,4;1,6;vw
+ 4 Series;32995;Semi-Auto;10;Diesel;145;50,4;3;BMW
+ T-Roc;29991;Semi-Auto;1805;Diesel;150;49,6;2;vw
+ Mondeo;22499;Manual;2813;Diesel;145;51,4;2;Ford
+ Touareg;48465;Semi-Auto;7000;Diesel;145;33,6;3;vw
+ Polo;16391;Manual;1000;Diesel;145;57,7;1,6;vw
+ A5;28945;Semi-Auto;5000;Diesel;145;50,4;2;audi
+ Golf;21982;Manual;5000;Petrol;145;46,3;1,5;vw
+ Tucson;22495;Manual;50;Petrol;145;34,9;1,6;Hyundai
+ Tiguan;23990;Manual;2734;Petrol;145;38,2;1,5;vw
+ A1;19290;Manual;2216;Petrol;145;47,9;1;audi
+ A5;35220;Semi-Auto;4709;Diesel;145;48,7;2;audi
+ Kamiq;19995;Manual;1562;Petrol;150;47,9;1;skoda
+ Z4;29990;Semi-Auto;4646;Petrol;145;38,7;2;BMW
+ 2 Series;23990;Semi-Auto;9;Petrol;145;47,9;2;BMW
+ Golf;21499;Manual;5000;Petrol;145;47,1;1,5;vw
+ Up;9990;Manual;63;Petrol;145;54,3;1;vw
+ Golf;19990;Manual;2500;Diesel;145;57,7;1,6;vw
+ Q3;32490;Manual;750;Petrol;145;40,9;1,5;audi
+ Golf;30498;Semi-Auto;15;Petrol;150;32,8;2;vw
+ EcoSport;17500;Manual;500;Petrol;145;53,3;1;Ford
+ Golf;29999;Automatic;1000;Hybrid;135;141,3;1,4;vw
+ Kodiaq;36999;Semi-Auto;1000;Diesel;145;39,2;2;skoda
+ Focus;28939;Manual;601;Petrol;145;34,5;2,3;Ford
+ Fabia;13990;Manual;8;Petrol;150;51,4;1;skoda
+ Tucson;22995;Manual;1334;Petrol;145;34,9;1,6;Hyundai
+ Puma;23999;Manual;1137;Petrol;145;50,4;1;Ford
+ Up;9990;Manual;500;Petrol;145;54,3;1;vw
+ Tiguan;32999;Automatic;1000;Diesel;145;42,8;2;vw
+ 5 Series;43990;Semi-Auto;10;Petrol;145;39,2;3;BMW
+ Tiguan;33990;Semi-Auto;2214;Diesel;145;45,6;2;vw
+ 5 Series;33995;Semi-Auto;1501;Hybrid;145;49,6;2;BMW
+ A3;24480;Automatic;2415;Petrol;145;40,9;2;audi
+ Puma;23000;Manual;363;Petrol;145;50,4;1;Ford
+ 4 Series;25980;Manual;14;Petrol;145;46,3;2;BMW
+ X1;34999;Semi-Auto;3000;Diesel;150;52,3;2;BMW
+ Golf;21999;Manual;1118;Petrol;145;49,6;1,5;vw
+ T-Cross;23989;Automatic;2800;Diesel;150;51,4;1,6;vw
+ Caravelle;45995;Semi-Auto;3000;Diesel;150;33,6;2;vw
+ Octavia;21000;Manual;108;Diesel;145;54,3;2;skoda
+ 4 Series;25995;Semi-Auto;100;Petrol;145;45,6;2;BMW
+ T-Roc;26450;Semi-Auto;2000;Petrol;145;39,8;1,5;vw
+ I20;14485;Manual;100;Petrol;145;46,3;1,2;Hyundai
+ A1;24000;Semi-Auto;4500;Petrol;145;44,8;1,5;audi
+ Touareg;51950;Semi-Auto;2000;Diesel;145;33,6;3;vw
+ T-Roc;27507;Semi-Auto;2051;Petrol;145;39,8;1,5;vw
+ Golf;20891;Semi-Auto;3200;Petrol;145;47,1;1,5;vw
+ Touran;29999;Semi-Auto;3500;Petrol;150;38,7;1,5;vw
+ Q3;38990;Semi-Auto;5000;Petrol;145;39,8;1,5;audi
+ Q3;29950;Semi-Auto;4750;Diesel;145;48,7;2;audi
+ Fiesta;15999;Manual;2100;Petrol;150;58,9;1;Ford
+ Amarok;44980;Automatic;10000;Diesel;265;27,7;3;vw
+ X1;28940;Semi-Auto;1550;Diesel;145;53,3;2;BMW
+ 5 Series;27990;Semi-Auto;9;Hybrid;150;49,6;2;BMW
+ Mondeo;22000;Manual;10;Diesel;145;65,7;2;Ford
+ Polo;17994;Manual;2000;Petrol;150;52,3;1;vw
+ Q3;34000;Semi-Auto;4500;Petrol;145;31,4;2;audi
+ T-Roc;35000;Semi-Auto;2000;Petrol;150;32,5;2;vw
+ Up;10980;Manual;100;Petrol;145;54,3;1;vw
+ A4;30990;Semi-Auto;4454;Petrol;145;38,2;2;audi
+ M4;47950;Semi-Auto;105;Petrol;145;32,5;3;BMW
+ 2 Series;32895;Semi-Auto;1548;Petrol;150;36,2;2;BMW
+ X5;54998;Semi-Auto;1500;Diesel;150;37,7;3;BMW
+ 8 Series;63000;Semi-Auto;3000;Diesel;145;40,4;3;BMW
+ 3 Series;33995;Semi-Auto;4000;Petrol;145;41,5;2;BMW
+ Mondeo;20000;Manual;7;Diesel;145;65,7;2;Ford
+ 3 Series;33995;Automatic;10;Diesel;145;50,4;2;BMW
+ T-Roc;33990;Semi-Auto;1247;Petrol;145;32,5;2;vw
+ Up;10950;Manual;2038;Petrol;145;54,3;1;vw
+ T-Roc;25490;Manual;2500;Petrol;145;44,1;1,5;vw
+ Kodiaq;29995;Automatic;3982;Diesel;145;39,2;2;skoda
+ Golf;21500;Semi-Auto;6000;Petrol;145;45,6;1,5;vw
+ I20;13995;Manual;1974;Petrol;145;47,9;1;Hyundai
+ Tiguan;33357;Manual;1896;Diesel;145;47,9;2;vw
+ 2 Series;32993;Semi-Auto;500;Diesel;145;47,1;2;BMW
+ Polo;19625;Automatic;3388;Petrol;145;46,3;1;vw
+ Up;10500;Manual;1000;Petrol;145;54,3;1;vw
+ Golf;24500;Automatic;1000;Petrol;145;44,8;1,5;vw
+ Q3;32444;Semi-Auto;4432;Petrol;145;31,4;2;audi
+ Golf SV;18990;Manual;1000;Petrol;145;45,6;1,5;vw
+ Yaris;14990;Automatic;2;Petrol;150;47,9;1,5;toyota
+ 6 Series;34490;Semi-Auto;6;Petrol;145;42,8;2;BMW
+ 3 Series;42430;Semi-Auto;102;Diesel;145;50,4;2;BMW
+ Puma;21999;Manual;1879;Petrol;145;50,4;1;Ford
+ 5 Series;29990;Semi-Auto;12;Hybrid;150;62,8;2;BMW
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ TT;53500;Semi-Auto;4000;Petrol;145;30,7;2,5;audi
+ Up;11295;Manual;499;Petrol;145;54,3;1;vw
+ EcoSport;18000;Manual;100;Petrol;150;53,3;1;Ford
+ X5;59993;Semi-Auto;500;Diesel;145;37,7;3;BMW
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ T-Cross;19250;Manual;2636;Petrol;145;47,9;1;vw
+ Scala;19990;Semi-Auto;1000;Petrol;145;47,1;1;skoda
+ Kamiq;21495;Semi-Auto;2000;Diesel;145;52,3;1,6;skoda
+ Q5;41000;Semi-Auto;3500;Petrol;145;32,1;2;audi
+ X1;33400;Manual;321;Diesel;145;50,4;2;BMW
+ A4;29990;Semi-Auto;500;Petrol;145;40,9;2;audi
+ 3 Series;32995;Automatic;4000;Diesel;145;50,4;2;BMW
+ I10;13366;Manual;3600;Petrol;150;53,3;1;Hyundai
+ Ioniq;20995;Automatic;5395;Hybrid;135;62,8;1,6;Hyundai
+ Golf;25495;Manual;3000;Petrol;150;47,1;1,5;vw
+ T-Cross;20990;Manual;100;Diesel;145;53,3;1,6;vw
+ T-Cross;22000;Automatic;4212;Petrol;145;45,6;1;vw
+ Passat;31000;Semi-Auto;5000;Diesel;145;48,7;2;vw
+ Puma;20890;Manual;2548;Petrol;150;50,4;1;Ford
+ 5 Series;29950;Semi-Auto;6;Hybrid;145;49,6;2;BMW
+ X6;55985;Semi-Auto;1365;Diesel;145;34,9;3;BMW
+ Scala;15490;Manual;503;Petrol;145;50,4;1;skoda
+ X1;28990;Semi-Auto;1981;Petrol;145;46,3;1,5;BMW
+ Touareg;42990;Semi-Auto;3981;Diesel;145;34,9;3;vw
+ Q3;33444;Automatic;1500;Petrol;145;31,4;0;audi
+ Golf;26490;Semi-Auto;1000;Petrol;145;44,1;1,5;vw
+ Q2;27490;Semi-Auto;4554;Petrol;150;42,2;1,5;audi
+ Golf;21489;Semi-Auto;6800;Petrol;145;47,1;1,5;vw
+ Q5;36500;Semi-Auto;6500;Diesel;145;38,2;2;audi
+ A5;37490;Automatic;500;Petrol;145;39,2;2;audi
+ Golf;33000;Semi-Auto;2500;Petrol;145;37,7;2;vw
+ Q3;28500;Semi-Auto;1000;Diesel;145;47,1;2;audi
+ Golf;22950;Manual;1000;Petrol;145;49,6;1,5;vw
+ A5;31690;Semi-Auto;3390;Diesel;145;50,4;2;audi
+ Fiesta;15750;Manual;52;Petrol;145;54,3;1;Ford
+ A5;26900;Semi-Auto;5000;Petrol;145;39,8;2;audi
+ 2 Series;24290;Manual;103;Petrol;145;52,3;1,5;BMW
+ Polo;16000;Manual;5;Petrol;145;47,9;1;vw
+ I10;13995;Manual;1500;Petrol;145;53,3;1;Hyundai
+ Tiguan;32427;Semi-Auto;678;Diesel;150;31,4;2;vw
+ Superb;28332;Semi-Auto;5000;Hybrid;135;201,8;1,4;skoda
+ Arteon;25590;Automatic;7256;Petrol;145;47,1;2;vw
+ EcoSport;19000;Manual;10;Petrol;145;52,3;1;Ford
+ Golf;30498;Semi-Auto;50;Petrol;150;32,8;2;vw
+ Karoq;25499;Automatic;96;Petrol;150;40,9;1,5;skoda
+ X2;25990;Semi-Auto;101;Petrol;145;40,4;2;BMW
+ T-Cross;19990;Manual;10;Diesel;145;53,3;1,6;vw
+ Tiguan;25000;Manual;1350;Petrol;145;38,2;1,5;vw
+ T-Roc;22490;Manual;4926;Diesel;145;50,4;2;vw
+ 5 Series;36985;Semi-Auto;12;Diesel;145;56,5;3;BMW
+ A1;21000;Manual;4500;Petrol;145;47,9;1;audi
+ A1;23845;Semi-Auto;5000;Petrol;150;44,8;1;audi
+ Superb;28495;Semi-Auto;1000;Diesel;145;47,1;2;skoda
+ Superb;30991;Semi-Auto;10;Petrol;145;38,7;2;skoda
+ T-Roc;29999;Manual;2000;Petrol;150;42,2;1,5;vw
+ Tiguan;25990;Semi-Auto;250;Petrol;150;37,7;1,5;vw
+ Golf;28990;Semi-Auto;6000;Petrol;145;37,7;2;vw
+ Kodiaq;26419;Automatic;335;Diesel;145;45,6;2;skoda
+ T-Cross;18790;Manual;1500;Petrol;145;48,7;1;vw
+ A4;28500;Manual;1000;Petrol;145;39,2;2;audi
+ Tucson;23495;Manual;2256;Petrol;145;34,9;1,6;Hyundai
+ Q5;36890;Semi-Auto;3895;Diesel;145;38,2;2;audi
+ Kodiaq;30995;Automatic;9750;Diesel;145;39,2;2;skoda
+ X2;23990;Semi-Auto;1576;Petrol;150;38,7;2;BMW
+ Q2;25888;Semi-Auto;1551;Petrol;145;42,2;1,5;audi
+ Q3;28995;Manual;1817;Diesel;145;42,8;2;audi
+ A1;25491;Semi-Auto;5432;Petrol;145;44,8;1,5;audi
+ Corolla;25988;Automatic;10000;Hybrid;135;53,3;2;toyota
+ Q7;55500;Semi-Auto;4000;Diesel;145;33,2;3;audi
+ 3 Series;29950;Semi-Auto;20;Petrol;145;41,5;2;BMW
+ Kamiq;19300;Manual;1421;Petrol;145;47,9;1;skoda
+ Q3;33881;Semi-Auto;4432;Petrol;145;31,4;2;audi
+ Passat;20998;Semi-Auto;10;Diesel;145;49,6;1,6;vw
+ Fabia;14500;Manual;1050;Petrol;145;51,4;1;skoda
+ Mondeo;21500;Manual;23;Diesel;145;62,8;2;Ford
+ Polo;15390;Manual;1000;Petrol;145;47,9;1;vw
+ I20;12991;Manual;2637;Petrol;145;46,3;1,2;Hyundai
+ Tucson;24999;Semi-Auto;1475;Petrol;145;36,2;1,6;Hyundai
+ Q5;53990;Semi-Auto;5480;Diesel;145;34,5;3;audi
+ Golf SV;21491;Semi-Auto;2133;Petrol;150;42,8;1,5;vw
+ Tiguan;28990;Semi-Auto;3149;Diesel;145;46,3;2;vw
+ Polo;14491;Manual;2885;Petrol;145;48,7;1;vw
+ Tucson;22495;Manual;2000;Diesel;145;48,7;1,6;Hyundai
+ Puma;21991;Manual;1211;Petrol;145;49,6;1;Ford
+ A6;48990;Semi-Auto;6000;Petrol;150;30,7;3;audi
+ Corolla;25995;Automatic;100;Hybrid;135;53,3;2;toyota
+ Corolla;22995;Automatic;636;Hybrid;135;62,8;1,8;toyota
+ A7;42995;Semi-Auto;6150;Diesel;145;38,7;3;audi
+ Caddy Maxi Life;23995;Semi-Auto;5000;Diesel;145;46,3;2;vw
+ Puma;21795;Manual;680;Petrol;145;50,4;1;Ford
+ Fiesta;14500;Manual;100;Petrol;150;56,5;1;Ford
+ RAV4;34995;Automatic;8500;Hybrid;135;49,6;2,5;toyota
+ Q5;37444;Semi-Auto;4000;Petrol;145;32,1;2;audi
+ Polo;14980;Manual;899;Petrol;145;48,7;1;vw
+ Fiesta;18495;Manual;65;Petrol;145;58,9;1;Ford
+ Tiguan;24998;Manual;50;Diesel;150;47,9;2;vw
+ Golf;22495;Semi-Auto;2000;Hybrid;150;44,8;1,5;vw
+ Focus;19990;Automatic;5588;Diesel;145;74,3;1,5;Ford
+ 4 Series;29485;Semi-Auto;45;Diesel;150;52,3;3;BMW
+ Puma;19991;Manual;2475;Petrol;145;50,4;1;Ford
+ Puma;20999;Manual;3952;Petrol;150;50,4;1;Ford
+ Octavia;17990;Manual;609;Petrol;145;51,4;1,5;skoda
+ 3 Series;33995;Semi-Auto;4500;Diesel;145;50,4;2;BMW
+ Tiguan Allspace;25950;Manual;407;Diesel;145;46,3;2;vw
+ Golf SV;19999;Manual;2000;Petrol;145;45,6;1,5;vw
+ Q5;46450;Semi-Auto;3500;Hybrid;135;117,7;2;audi
+ T-Roc;28290;Semi-Auto;2500;Petrol;145;39,8;1,5;vw
+ Z4;33450;Semi-Auto;5;Petrol;145;38,7;2;BMW
+ Octavia;18990;Automatic;1941;Diesel;145;54,3;2;skoda
+ Q5;42500;Semi-Auto;2000;Diesel;145;38,2;2;audi
+ Kamiq;17999;Manual;2394;Petrol;145;47,9;1;skoda
+ Z4;31990;Semi-Auto;9;Petrol;145;38,7;2;BMW
+ Q3;39995;Semi-Auto;3000;Petrol;145;30,7;2;audi
+ A1;19250;Manual;2004;Petrol;145;48,7;1;audi
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ T-Cross;20675;Automatic;895;Petrol;150;45,6;1;vw
+ A5;30990;Automatic;10;Petrol;145;39,8;2;audi
+ 5 Series;28990;Semi-Auto;103;Petrol;145;50,4;2;BMW
+ Z4;44300;Semi-Auto;1801;Petrol;150;33,2;3;BMW
+ Focus;19995;Automatic;500;Petrol;150;50,4;1;Ford
+ Kodiaq;29995;Automatic;10;Diesel;150;44,8;2;skoda
+ A1;22250;Semi-Auto;2999;Petrol;145;44,1;1;audi
+ Karoq;24190;Manual;1784;Petrol;145;42,8;1,5;skoda
+ 1 Series;30440;Semi-Auto;1500;Petrol;145;34,5;2;BMW
+ I10;11490;Manual;101;Petrol;145;56,5;1;Hyundai
+ Q3;38330;Semi-Auto;3815;Petrol;145;30,7;2;audi
+ T-Roc;24233;Manual;5433;Petrol;150;44,1;1,5;vw
+ 5 Series;35995;Semi-Auto;1000;Petrol;145;46,3;2;BMW
+ Q2;24888;Manual;1500;Petrol;145;45,6;1;audi
+ Arteon;30490;Semi-Auto;1209;Diesel;145;50,4;2;vw
+ 2 Series;29991;Semi-Auto;1500;Petrol;145;47,9;2;BMW
+ Q8;86995;Semi-Auto;4174;Diesel;145;30,7;4;audi
+ Q3;28000;Automatic;1772;Diesel;145;48,7;2;audi
+ A4;43970;Semi-Auto;3700;Diesel;145;39,2;3;audi
+ Octavia;16495;Manual;29;Diesel;145;67,3;1,6;skoda
+ X5;60990;Semi-Auto;3500;Diesel;145;33,6;3;BMW
+ Mustang;48000;Manual;50;Petrol;145;23,9;5;Ford
+ 5 Series;31995;Semi-Auto;6000;Hybrid;145;60,1;2;BMW
+ 3 Series;29990;Semi-Auto;9;Diesel;145;51,4;2;BMW
+ 2 Series;26490;Semi-Auto;10;Diesel;150;47,1;2;BMW
+ 3 Series;38995;Semi-Auto;1000;Diesel;145;49,6;2;BMW
+ Q3;33444;Automatic;1500;Petrol;145;31,4;2;audi
+ Passat;37000;Semi-Auto;4000;Hybrid;135;41,5;1,4;vw
+ Scala;15980;Manual;100;Petrol;150;50,4;1;skoda
+ Q3;27000;Manual;42;Petrol;145;39,8;1,5;audi
+ A1;20990;Manual;556;Petrol;145;47,9;1;audi
+ Polo;13999;Manual;2000;Petrol;145;48,7;1;vw
+ 4 Series;31450;Semi-Auto;10;Diesel;145;60,1;2;BMW
+ 3 Series;34000;Semi-Auto;4986;Diesel;145;47,9;3;BMW
+ A5;29945;Semi-Auto;5000;Diesel;145;47,1;2;audi
+ S-MAX;22991;Manual;51;Diesel;150;47,1;2;Ford
+ Focus;26723;Manual;2102;Petrol;145;34,5;2,3;Ford
+ Q3;37990;Semi-Auto;5000;Petrol;145;39,8;1,5;audi
+ X2;26450;Semi-Auto;2095;Petrol;145;40,4;2;BMW
+ A3;29990;Semi-Auto;8215;Petrol;145;34,5;2;audi
+ Tucson;25980;Automatic;1298;Hybrid;145;50,4;1,6;Hyundai
+ A1;21000;Manual;4500;Petrol;145;47,9;1;audi
+ Fiesta;17250;Manual;1000;Petrol;145;60,1;1;Ford
+ Scala;19295;Semi-Auto;55;Petrol;145;47,1;1;skoda
+ X4;60995;Semi-Auto;100;Petrol;145;24,8;3;BMW
+ A6;35000;Semi-Auto;3999;Diesel;145;47,1;2;audi
+ C-HR;28990;Automatic;1265;Hybrid;135;54,3;2;toyota
+ Golf;21495;Manual;99;Diesel;145;56,5;1,6;vw
+ Fiesta;17300;Manual;6000;Petrol;145;55,4;1;Ford
+ Polo;13490;Manual;3402;Petrol;145;48,7;1;vw
+ Passat;32965;Semi-Auto;7082;Diesel;145;37,2;2;vw
+ Golf;32999;Automatic;1000;Hybrid;135;141,3;1,4;vw
+ Golf;21000;Manual;1526;Diesel;145;57,7;1,6;vw
+ Q3;32970;Semi-Auto;2015;Petrol;150;31,4;2;audi
+ Scala;16995;Semi-Auto;1700;Petrol;145;47,1;1;skoda
+ Superb;28991;Semi-Auto;3487;Diesel;150;47,1;2;skoda
+ 1 Series;26991;Semi-Auto;2000;Diesel;145;57,7;1,5;BMW
+ Hilux;18495;Manual;50;Diesel;260;2,8;2,4;toyota
+ 2 Series;34000;Semi-Auto;2986;Petrol;145;36,2;2;BMW
+ Golf;23990;Manual;1118;Petrol;150;49,6;1,5;vw
+ EcoSport;18995;Manual;24;Petrol;145;51,4;1;Ford
+ T-Cross;19590;Manual;3500;Diesel;145;53,3;1,6;vw
+ A3;26500;Manual;100;Diesel;145;52,3;1,6;audi
+ Arteon;31995;Semi-Auto;1558;Diesel;145;50,4;2;vw
+ Land Cruiser;44995;Semi-Auto;200;Diesel;150;30,1;2,8;toyota
+ A6;52500;Semi-Auto;2000;Diesel;145;50,4;2;audi
+ 2 Series;28950;Semi-Auto;10;Petrol;145;40,9;1,5;BMW
+ Kodiaq;32995;Automatic;3000;Diesel;150;39,2;2;skoda
+ X1;34995;Semi-Auto;1501;Diesel;145;50,4;2;BMW
+ Q3;29970;Manual;1015;Petrol;150;40,9;1,5;audi
+ Octavia;29999;Semi-Auto;1000;Petrol;145;37,2;2;skoda
+ C-HR;25295;Automatic;219;Petrol;145;34,5;1,2;toyota
+ I20;12995;Manual;3000;Petrol;145;46,3;1,2;Hyundai
+ A5;31000;Semi-Auto;2000;Diesel;150;51,4;2;audi
+ 4 Series;27000;Semi-Auto;25;Petrol;145;48,7;2;BMW
+ Tiguan;32390;Semi-Auto;2631;Diesel;145;45,6;2;vw
+ Polo;16000;Manual;2000;Petrol;150;52,3;1;vw
+ Arteon;39989;Automatic;256;Petrol;145;47,1;2;vw
+ Aygo;10785;Semi-Auto;4589;Petrol;150;56,5;1;toyota
+ Polo;16990;Manual;1;Petrol;150;50,4;1;vw
+ Santa Fe;36990;Semi-Auto;985;Diesel;150;39,2;2,2;Hyundai
+ Polo;19000;Semi-Auto;2000;Petrol;145;46,3;1;vw
+ X3;45991;Semi-Auto;120;Diesel;150;48,7;3;BMW
+ Golf;26995;Semi-Auto;810;Hybrid;150;44,8;1,5;vw
+ I10;11795;Manual;295;Petrol;145;56,5;1;Hyundai
+ Q3;32000;Automatic;4000;Petrol;145;32,5;2;audi
+ Up;9990;Manual;581;Petrol;145;54,3;1;vw
+ X1;26750;Automatic;1000;Diesel;145;47,9;2;BMW
+ 5 Series;32995;Semi-Auto;11;Hybrid;145;49,6;2;BMW
+ EcoSport;17499;Manual;1938;Petrol;145;51,4;1;Ford
+ 3 Series;25999;Manual;4;Diesel;145;54,3;2;BMW
+ Q3;33444;Semi-Auto;1904;Petrol;145;31,4;2;audi
+ 5 Series;27090;Semi-Auto;3168;Hybrid;145;49,6;2;BMW
+ Passat;21998;Semi-Auto;10;Diesel;150;49,6;1,6;vw
+ I20;12299;Manual;1420;Petrol;145;46,3;1,2;Hyundai
+ Golf;20500;Manual;1000;Petrol;145;47,1;1,5;vw
+ Passat;20998;Semi-Auto;15;Diesel;145;49,6;1,6;vw
+ A4;26995;Manual;2000;Petrol;145;41,5;2;audi
+ 3 Series;30850;Semi-Auto;5656;Diesel;150;48,7;2;BMW
+ Golf SV;22990;Semi-Auto;1348;Petrol;145;42,2;1,5;vw
+ 1 Series;30990;Semi-Auto;5656;Petrol;145;34,5;2;BMW
+ A6;38500;Automatic;3000;Petrol;145;34;2;audi
+ A1;24450;Semi-Auto;1870;Petrol;145;44,8;1;audi
+ I30;22895;Manual;3811;Petrol;145;34;2;Hyundai
+ Scala;17980;Manual;100;Petrol;150;50,4;1;skoda
+ Golf;23995;Manual;1000;Petrol;150;47,1;1,5;vw
+ Aygo;9995;Manual;649;Petrol;145;56,5;1;toyota
+ 3 Series;34900;Automatic;10;Petrol;145;40,4;2;BMW
+ Q5;36000;Semi-Auto;4500;Diesel;145;38,2;2;audi
+ Polo;14990;Manual;1530;Petrol;145;48,7;1;vw
+ Kodiaq;33450;Automatic;6000;Diesel;145;39,2;2;skoda
+ Superb;32000;Semi-Auto;575;Hybrid;135;188,3;1,4;skoda
+ A1;20995;Semi-Auto;2420;Petrol;145;44,8;1,5;audi
+ Polo;17999;Semi-Auto;2000;Petrol;145;46,3;1;vw
+ A5;29950;Semi-Auto;480;Petrol;145;39,8;2;audi
+ Focus;18991;Manual;905;Petrol;150;60,1;1;Ford
+ Q5;38500;Automatic;2500;Petrol;145;32,1;2;audi
+ 5 Series;27990;Semi-Auto;9;Petrol;150;36,2;2;BMW
+ Golf;22490;Semi-Auto;100;Petrol;145;45,6;1,5;vw
+ Scala;17990;Manual;4500;Petrol;145;50,4;1;skoda
+ X4;44995;Semi-Auto;11;Diesel;145;37,2;3;BMW
+ Golf;20990;Manual;1958;Petrol;145;49,6;1,5;vw
+ A4;35990;Automatic;500;Diesel;145;54,3;2;audi
+ A4;31490;Semi-Auto;500;Diesel;150;49,6;2;audi
+ X1;32995;Automatic;1593;Diesel;145;50,4;2;BMW
+ Kodiaq;35990;Automatic;3500;Diesel;150;39,2;2;skoda
+ Octavia;17980;Automatic;400;Petrol;150;44,8;1,5;skoda
+ Q7;59990;Semi-Auto;6000;Diesel;145;33,2;3;audi
+ Ioniq;20990;Automatic;3140;Hybrid;140;62,8;1,6;Hyundai
+ SQ5;56450;Automatic;1500;Diesel;145;34,5;0;audi
+ Kamiq;21495;Semi-Auto;2000;Diesel;145;52,3;1,6;skoda
+ A3;20995;Manual;5000;Diesel;145;54,3;1,6;audi
+ Puma;20890;Manual;2986;Petrol;145;50,4;1;Ford
+ Sharan;29950;Automatic;1000;Diesel;145;41,5;2;vw
+ Aygo;13495;Semi-Auto;999;Petrol;145;55,4;1;toyota
+ T-Roc;26750;Automatic;2420;Diesel;145;49,6;2;vw
+ Golf;19850;Manual;5000;Diesel;145;57,7;1,6;vw
+ Kodiaq;32995;Automatic;50;Diesel;145;37,2;2;skoda
+ Golf;23950;Semi-Auto;2300;Hybrid;150;44,8;1,5;vw
+ T-Cross;20990;Manual;5000;Diesel;145;52,3;1,6;vw
+ Golf;27999;Semi-Auto;750;Diesel;145;49,6;2;vw
+ Golf;25499;Manual;287;Petrol;150;47,1;1,5;vw
+ Fiesta;17990;Manual;494;Petrol;145;53,3;1;Ford
+ Q2;24888;Manual;4000;Petrol;145;43,5;1,5;audi
+ X3;69991;Semi-Auto;10;Petrol;145;24,8;3;BMW
+ X6;65352;Semi-Auto;3158;Petrol;145;26,4;3;BMW
+ Fabia;14999;Manual;1800;Petrol;145;50,4;1;skoda
+ EcoSport;19499;Manual;1083;Petrol;145;52,3;1;Ford
+ Polo;16990;Semi-Auto;1000;Petrol;150;45,6;1;vw
+ Q3;34450;Semi-Auto;4500;Diesel;145;47,1;2;audi
+ Polo;15425;Manual;1085;Petrol;150;52,3;1;vw
+ T-Roc;20490;Manual;3000;Petrol;150;44,1;1;vw
+ Puma;20891;Manual;3073;Petrol;145;50,4;1;Ford
+ 2 Series;26989;Semi-Auto;3000;Petrol;145;47,9;2;BMW
+ Tiguan;34752;Semi-Auto;10;Petrol;145;30,1;2;vw
+ Up;11890;Manual;25;Petrol;145;51,4;1;vw
+ Tiguan;29995;Manual;10;Diesel;145;47,9;2;vw
+ 5 Series;35493;Semi-Auto;5658;Petrol;145;50,4;2;BMW
+ 2 Series;22950;Manual;500;Petrol;145;42,8;1,5;BMW
+ Q5;53990;Semi-Auto;6000;Diesel;145;34,5;3;audi
+ 4 Series;37995;Semi-Auto;1501;Diesel;145;58,9;2;BMW
+ Q5;36500;Automatic;26;Diesel;145;38,2;2;audi
+ I10;12980;Manual;539;Petrol;145;55,4;1,2;Hyundai
+ Up;10490;Manual;386;Petrol;145;54,3;1;vw
+ 2 Series;20980;Semi-Auto;11;Petrol;145;50,4;1,5;BMW
+ 3 Series;22990;Manual;101;Diesel;145;58,9;2;BMW
+ X7;78000;Semi-Auto;5000;Diesel;150;31,4;3;BMW
+ 1 Series;23995;Manual;1501;Diesel;145;57,7;1,5;BMW
+ 1 Series;23980;Semi-Auto;1500;Petrol;145;40,4;1,5;BMW
+ T-Cross;21995;Manual;500;Petrol;145;47,9;1;vw
+ Polo;16500;Manual;2500;Petrol;145;49,6;1;vw
+ Tiguan;29999;Semi-Auto;5000;Diesel;145;39,8;2;vw
+ Q2;24444;Manual;4432;Petrol;145;43,5;1,5;audi
+ Polo;14950;Manual;1000;Petrol;145;48,7;1;vw
+ Scala;20600;Semi-Auto;1569;Petrol;145;44,8;1,5;skoda
+ Touran;24480;Semi-Auto;341;Diesel;145;47,9;2;vw
+ Tiguan;39999;Semi-Auto;566;Diesel;150;39,2;2;vw
+ Up;9490;Manual;6000;Petrol;145;54,3;1;vw
+ Santa Fe;36999;Semi-Auto;6000;Diesel;150;39,2;2,2;Hyundai
+ Fiesta;14500;Manual;10;Petrol;145;56,5;1;Ford
+ Golf;21990;Semi-Auto;229;Petrol;150;45,6;1,5;vw
+ 3 Series;42990;Semi-Auto;3698;Diesel;145;43,5;3;BMW
+ A4;43950;Automatic;6685;Diesel;145;39,2;3;audi
+ A5;25000;Automatic;751;Petrol;145;40,4;2;audi
+ Golf;18490;Manual;100;Diesel;145;57,7;1,6;vw
+ Fiesta;15000;Manual;35;Petrol;145;56,5;1;Ford
+ T-Roc;25495;Manual;1500;Petrol;145;44,1;1,5;vw
+ Golf;21899;Manual;5000;Petrol;145;47,1;1,5;vw
+ Santa Fe;36895;Semi-Auto;50;Diesel;145;39,2;2,2;Hyundai
+ Caravelle;45450;Semi-Auto;15;Diesel;145;32,8;2;vw
+ Golf;26499;Semi-Auto;3561;Diesel;150;60,1;2;vw
+ A1;21888;Semi-Auto;3500;Petrol;145;44,8;1,5;audi
+ A1;24990;Semi-Auto;883;Petrol;145;44,1;1;audi
+ Kona;16991;Manual;2622;Petrol;145;44,1;1;Hyundai
+ 4 Series;39225;Semi-Auto;10;Petrol;145;48,7;2;BMW
+ I10;11495;Manual;4000;Petrol;145;56,5;1;Hyundai
+ Z4;31895;Semi-Auto;10;Petrol;150;38,7;2;BMW
+ A3;31990;Semi-Auto;2165;Hybrid;135;141,3;1,4;audi
+ Fiesta;17481;Semi-Auto;1352;Petrol;145;41,5;1;Ford
+ A5;32981;Semi-Auto;2998;Diesel;145;47,1;2;audi
+ A4;32995;Semi-Auto;2000;Diesel;145;49,6;2;audi
+ 1 Series;36995;Semi-Auto;3000;Petrol;150;34,5;2;BMW
+ Kuga;33500;Automatic;5534;Hybrid;140;201,8;2,5;Ford
+ T-Roc;20480;Manual;800;Petrol;145;44,1;1;vw
+ Q3;28970;Semi-Auto;2015;Diesel;150;40,9;2;audi
+ S-MAX;30000;Automatic;1000;Diesel;145;43,5;2;Ford
+ X7;63990;Semi-Auto;6137;Diesel;145;33,6;3;BMW
+ A6;42500;Semi-Auto;3000;Diesel;145;37,7;3;audi
+ Golf;22995;Manual;3000;Petrol;145;45,6;1,5;vw
+ A1;28950;Automatic;1406;Petrol;145;44,1;1,5;audi
+ 2 Series;23985;Automatic;1968;Petrol;145;50,4;2;BMW
+ Up;10990;Manual;100;Petrol;145;54,3;1;vw
+ 1 Series;33995;Semi-Auto;102;Petrol;145;34,5;2;BMW
+ Up;10980;Manual;100;Petrol;145;54,3;1;vw
+ 3 Series;41990;Semi-Auto;9;Petrol;145;34,9;3;BMW
+ Tiguan;26000;Manual;2000;Diesel;145;47,9;2;vw
+ Q7;61950;Automatic;8500;Diesel;150;33,2;3;audi
+ X3;42990;Semi-Auto;3245;Hybrid;140;5,5;2;BMW
+ Yaris;15490;Manual;1124;Petrol;145;47,9;1,5;toyota
+ Polo;14690;Manual;979;Petrol;145;48,7;1;vw
+ Golf;30498;Semi-Auto;10;Petrol;150;32,8;2;vw
+ 5 Series;36990;Semi-Auto;10;Diesel;145;60,1;3;BMW
+ Aygo;9995;Manual;50;Petrol;145;56,5;1;toyota
+ Tiguan;31490;Semi-Auto;5000;Diesel;145;40,4;2;vw
+ 4 Series;38990;Semi-Auto;9;Diesel;145;47,9;3;BMW
+ Polo;14750;Manual;4000;Petrol;145;48,7;1;vw
+ Kodiaq;21490;Automatic;14050;Petrol;150;34;1,5;skoda
+ 5 Series;42124;Semi-Auto;101;Petrol;145;39,2;3;BMW
+ Up;12222;Manual;25;Petrol;145;50,4;1;vw
+ X3;52991;Semi-Auto;4360;Hybrid;135;5,5;2;BMW
+ A3;16999;Manual;4018;Petrol;145;49,6;1;audi
+ T-Roc;28990;Automatic;1000;Petrol;150;39,8;1,5;vw
+ Octavia;19990;Manual;3964;Diesel;145;54,3;1,6;skoda
+ 2 Series;22980;Manual;10;Petrol;145;47,1;1,5;BMW
+ 6 Series;33999;Semi-Auto;11;Petrol;145;42,8;2;BMW
+ 2 Series;19500;Automatic;4330;Petrol;145;42,2;1,5;BMW
+ A1;19790;Manual;5080;Petrol;145;47,9;1;audi
+ Polo;18795;Semi-Auto;1000;Petrol;145;46,3;1;vw
+ 4 Series;26950;Semi-Auto;2755;Diesel;145;65,7;2;BMW
+ M4;50000;Semi-Auto;700;Petrol;145;34;3;BMW
+ Up;10750;Manual;100;Petrol;145;54,3;1;vw
+ TT;29850;Semi-Auto;4500;Petrol;145;40,9;2;audi
+ Kodiaq;31995;Automatic;200;Diesel;145;42,2;2;skoda
+ Q3;39000;Semi-Auto;3500;Diesel;145;46,3;2;audi
+ Fiesta;18995;Manual;1012;Petrol;145;58,9;1;Ford
+ Golf SV;24995;Semi-Auto;2000;Petrol;150;42,2;1,5;vw
+ Corolla;26490;Automatic;1879;Hybrid;135;53,3;2;toyota
+ I30;15495;Manual;2936;Petrol;145;45,6;1;Hyundai
+ 2 Series;36000;Semi-Auto;5550;Petrol;145;36,2;2;BMW
+ Tiguan;29990;Semi-Auto;8000;Diesel;145;31,4;2;vw
+ Passat;25950;Automatic;1000;Diesel;145;52,3;2;vw
+ Passat;33000;Semi-Auto;2500;Diesel;145;45,6;2;vw
+ A4;30450;Semi-Auto;4500;Petrol;145;38,2;2;audi
+ Golf;23995;Manual;982;Petrol;150;49,6;1,5;vw
+ 3 Series;40150;Semi-Auto;319;Petrol;145;42,2;2;BMW
+ I10;11895;Manual;1000;Petrol;145;56,5;1;Hyundai
+ Octavia;22990;Semi-Auto;50;Petrol;145;44,8;1,5;skoda
+ 1 Series;25993;Semi-Auto;906;Petrol;145;40,4;1,5;BMW
+ Golf;26999;Semi-Auto;3000;Hybrid;150;44,8;1,5;vw
+ Arteon;30000;Semi-Auto;2000;Diesel;145;53,3;2;vw
+ Tiguan;29999;Automatic;2728;Diesel;145;47,9;2;vw
+ Passat;20998;Semi-Auto;10;Diesel;150;49,6;1,6;vw
+ X2;36950;Semi-Auto;10;Diesel;145;50,4;2;BMW
+ Z4;37975;Semi-Auto;101;Petrol;145;38,7;2;BMW
+ Q2;34990;Automatic;10;Petrol;145;32,5;2;audi
+ Q8;72500;Automatic;10;Diesel;150;32,8;3;audi
+ A5;31990;Semi-Auto;5000;Petrol;145;39,8;2;audi
+ Tiguan Allspace;26950;Manual;752;Diesel;145;46,3;2;vw
+ Q5;49790;Automatic;1500;Petrol;135;117,7;0;audi
+ Golf;25176;Manual;1244;Petrol;150;47,1;1,5;vw
+ 3 Series;35000;Semi-Auto;1986;Petrol;145;40,4;2;BMW
+ Q5;56990;Semi-Auto;6000;Diesel;145;34,5;3;audi
+ Corolla;27495;Automatic;998;Hybrid;135;53,3;2;toyota
+ Up;14500;Manual;2500;Petrol;145;50,4;1;vw
+ T-Roc;25999;Manual;5000;Petrol;145;44,1;1,5;vw
+ Focus;21490;Manual;295;Petrol;145;60,1;1;Ford
+ Superb;28995;Semi-Auto;781;Diesel;145;47,1;2;skoda
+ Z4;28500;Automatic;101;Petrol;145;38,7;2;BMW
+ A1;22970;Semi-Auto;3515;Petrol;150;44,8;1,5;audi
+ Q5;47895;Semi-Auto;10;Petrol;145;30,7;2;audi
+ Golf;23890;Automatic;50;Petrol;145;44,1;1,5;vw
+ Q2;26139;Semi-Auto;6000;Petrol;145;42,2;1,5;audi
+ Octavia;17299;Manual;200;Petrol;145;51,4;1,5;skoda
+ Golf;26989;Automatic;3998;Diesel;145;52,3;2;vw
+ Polo;15231;Manual;1822;Petrol;145;47,9;1;vw
+ X4;44899;Automatic;100;Petrol;145;26,9;3;BMW
+ A3;21995;Manual;5000;Diesel;145;56,5;2;audi
+ Polo;14885;Manual;442;Petrol;145;47,9;1;vw
+ TT;35000;Semi-Auto;4000;Petrol;145;40,4;2;audi
+ Polo;16790;Semi-Auto;3500;Petrol;145;45,6;1;vw
+ T-Cross;25989;Automatic;2800;Diesel;145;50,4;1,6;vw
+ Puma;23780;Manual;999;Petrol;145;49,6;1;Ford
+ T-Roc;24825;Automatic;975;Petrol;145;39,8;1,5;vw
+ A1;22990;Semi-Auto;1192;Petrol;145;44,8;1,5;audi
+ Polo;18480;Manual;4;Petrol;145;49,6;1;vw
+ 4 Series;32950;Semi-Auto;10;Petrol;145;41,5;3;BMW
+ Q3;32799;Semi-Auto;3500;Petrol;145;32,5;2;audi
+ Q5;36500;Automatic;1552;Diesel;150;38,2;2;audi
+ Tiguan;28490;Semi-Auto;3000;Diesel;145;39,8;2;vw
+ Kona;15499;Manual;6000;Petrol;150;44,1;1;Hyundai
+ Golf;32995;Semi-Auto;2131;Petrol;145;32,8;2;vw
+ 3 Series;36693;Semi-Auto;2725;Petrol;145;40,4;2;BMW
+ 4 Series;29500;Semi-Auto;10;Petrol;145;48,7;2;BMW
+ X5;51880;Semi-Auto;1501;Diesel;145;37,7;3;BMW
+ Kamiq;18490;Manual;1500;Petrol;145;49,6;1;skoda
+ Golf;31498;Semi-Auto;20;Petrol;150;32,8;2;vw
+ Polo;16997;Semi-Auto;848;Petrol;145;45,6;1;vw
+ Q3;30990;Manual;1500;Petrol;145;40,9;0;audi
+ Golf;21498;Semi-Auto;20;Diesel;150;53,3;2;vw
+ 5 Series;30485;Semi-Auto;6;Petrol;145;50,4;2;BMW
+ 3 Series;22850;Semi-Auto;12;Petrol;145;43,5;2;BMW
+ Focus;18999;Manual;1900;Petrol;145;60,1;1;Ford
+ Fiesta;15999;Manual;183;Petrol;150;55,4;1;Ford
+ A5;31246;Semi-Auto;3000;Petrol;145;40,4;2;audi
+ Golf;21690;Manual;10;Petrol;145;49,6;1,5;vw
+ Scala;16750;Manual;2217;Petrol;145;49,6;1;skoda
+ Fiesta;14000;Manual;9;Petrol;150;55,4;1;Ford
+ Yaris;14769;Manual;25;Petrol;150;47,9;1,5;toyota
+ A5;26970;Semi-Auto;7015;Petrol;145;39,8;2;audi
+ 1 Series;25450;Semi-Auto;6565;Diesel;150;51,4;2;BMW
+ Z4;34990;Semi-Auto;101;Petrol;150;37,2;2;BMW
+ Golf;20605;Manual;1910;Diesel;145;57,7;1,6;vw
+ Yaris;17995;Automatic;1127;Petrol;145;47,9;1,5;toyota
+ Tiguan;33990;Semi-Auto;3605;Petrol;145;35,3;2;vw
+ Tiguan;26480;Semi-Auto;780;Petrol;145;37,7;1,5;vw
+ Passat;21998;Semi-Auto;12;Diesel;145;49,6;1,6;vw
+ A5;32990;Semi-Auto;1884;Diesel;145;50,4;2;audi
+ T-Cross;24995;Automatic;2000;Petrol;145;45,6;1;vw
+ A5;26990;Semi-Auto;3000;Petrol;145;39,8;2;audi
+ TT;29970;Semi-Auto;1015;Petrol;145;37,7;2;audi
+ Tiguan;29990;Semi-Auto;282;Petrol;145;31,4;2;vw
+ 3 Series;29990;Semi-Auto;12;Diesel;145;49,6;2;BMW
+ A5;37331;Semi-Auto;7532;Petrol;145;39,2;2;audi
+ Q2;25888;Semi-Auto;4000;Petrol;145;42,2;1,5;audi
+ Tucson;28499;Semi-Auto;8000;Hybrid;150;50,4;1,6;Hyundai
+ Fiesta;18999;Manual;1323;Petrol;145;40,3;1,5;Ford
+ Golf;33980;Automatic;9918;Petrol;145;36,2;2;vw
+ Q2;26880;Manual;3524;Petrol;145;43,5;1,5;audi
+ Focus;30999;Automatic;10;Petrol;145;39,8;1,5;Ford
+ 2 Series;29950;Semi-Auto;10;Diesel;145;48,7;2;BMW
+ EcoSport;16999;Manual;836;Petrol;145;51,4;1;Ford
+ A5;36312;Semi-Auto;7423;Diesel;145;51,4;2;audi
+ Polo;14991;Manual;3611;Petrol;145;47,9;1;vw
+ Q3;32990;Manual;500;Petrol;145;40,9;1,5;audi
+ Karoq;28999;Automatic;1400;Diesel;150;41,5;2;skoda
+ 5 Series;26990;Semi-Auto;14;Petrol;150;50,4;2;BMW
+ 1 Series;25890;Manual;1182;Diesel;145;53,3;2;BMW
+ 3 Series;34995;Semi-Auto;11;Diesel;145;49,6;2;BMW
+ 2 Series;29500;Semi-Auto;10;Petrol;145;39,8;3;BMW
+ TT;36991;Semi-Auto;4433;Petrol;150;35,3;2;audi
+ Fabia;13704;Manual;114;Petrol;145;50,4;1;skoda
+ X3;47000;Semi-Auto;1385;Hybrid;135;5,5;2;BMW
+ I10;11980;Manual;793;Petrol;145;56,5;1;Hyundai
+ Touareg;56989;Automatic;3895;Diesel;150;33,6;3;vw
+ 4 Series;36902;Semi-Auto;101;Diesel;145;58,9;2;BMW
+ Yaris;12995;Manual;976;Petrol;145;47,9;1,5;toyota
+ A4;32000;Automatic;3000;Petrol;145;39,2;2;audi
+ Q2;30995;Semi-Auto;2142;Diesel;145;44,8;2;audi
+ Q2;25490;Manual;5000;Petrol;145;43,5;1,5;audi
+ RS6;104948;Automatic;3000;Petrol;145;22,1;4;audi
+ Up;10791;Manual;4242;Petrol;145;54,3;1;vw
+ A4;32500;Semi-Auto;3999;Diesel;145;49,6;2;audi
+ 2 Series;28950;Manual;1688;Petrol;145;43,5;1,5;BMW
+ T-Cross;23190;Automatic;1691;Petrol;150;45,6;1;vw
+ Golf;27500;Semi-Auto;5;Hybrid;150;44,8;1,5;vw
+ 1 Series;27840;Semi-Auto;150;Diesel;145;51,4;2;BMW
+ Fiesta;14995;Manual;1798;Petrol;145;56,5;1;Ford
+ Octavia;19000;Semi-Auto;17;Petrol;150;46,3;1,5;skoda
+ Tiguan;29995;Semi-Auto;3000;Petrol;150;30,4;2;vw
+ 1 Series;23990;Manual;3399;Diesel;150;53,3;2;BMW
+ Golf;27989;Automatic;8256;Petrol;145;37,7;2;vw
+ Up;11750;Manual;5000;Petrol;145;51,4;1;vw
+ Q8;64995;Semi-Auto;2000;Diesel;145;32,8;3;audi
+ EcoSport;16999;Manual;775;Petrol;145;51,4;1;Ford
+ X6;55995;Semi-Auto;3291;Diesel;145;33,2;3;BMW
+ R8;137995;Semi-Auto;70;Petrol;145;21,1;5,2;audi
+ Karoq;22990;Automatic;3587;Petrol;150;41,5;1,5;skoda
+ Q3;36790;Automatic;1330;Petrol;145;30,7;0;audi
+ Polo;13990;Manual;3000;Petrol;145;48,7;1;vw
+ Q3;32444;Automatic;1500;Petrol;145;31,4;0;audi
+ 2 Series;37989;Automatic;3890;Petrol;145;36,2;2;BMW
+ Prius;25990;Automatic;3;Hybrid;135;64,2;1,8;toyota
+ M4;45488;Automatic;10;Petrol;150;34;3;BMW
+ Q2;26089;Semi-Auto;6000;Petrol;145;42,2;1,5;audi
+ 1 Series;24551;Semi-Auto;11512;Petrol;150;40,4;1,5;BMW
+ Scala;17980;Manual;600;Petrol;150;49,6;1;skoda
+ A1;26011;Semi-Auto;6000;Petrol;145;44,1;1,5;audi
+ A5;38990;Semi-Auto;5000;Diesel;145;44,8;2;audi
+ Tiguan;32995;Manual;5124;Diesel;145;42,8;2;vw
+ T-Cross;18990;Manual;691;Petrol;145;47,9;1;vw
+ Polo;13995;Manual;3168;Petrol;150;47,9;1;vw
+ 8 Series;69991;Semi-Auto;419;Petrol;145;33,2;3;BMW
+ Golf;20396;Manual;1555;Diesel;145;57,7;1,6;vw
+ Focus;19998;Manual;4000;Diesel;145;74,3;1,5;Ford
+ 4 Series;30000;Semi-Auto;10;Diesel;145;60,1;2;BMW
+ T-Roc;21000;Manual;999;Diesel;145;50,4;1,6;vw
+ Golf;27790;Automatic;2013;Diesel;145;52,3;2;vw
+ Land Cruiser;47885;Automatic;4;Diesel;145;30,1;2,8;toyota
+ Q3;34995;Semi-Auto;5000;Diesel;145;47,1;2;audi
+ Golf;32998;Semi-Auto;5000;Hybrid;135;141,3;1,4;vw
+ Passat;27999;Semi-Auto;489;Diesel;145;52,3;2;vw
+ Kodiaq;34995;Automatic;6000;Diesel;150;39,2;2;skoda
+ Q2;22669;Manual;6000;Petrol;145;45,6;1;audi
+ X4;43000;Semi-Auto;857;Diesel;145;40,9;3;BMW
+ Santa Fe;36999;Automatic;2885;Diesel;145;39,2;2,2;Hyundai
+ T-Roc;23750;Semi-Auto;2999;Diesel;145;50,4;2;vw
+ Santa Fe;34995;Automatic;2500;Diesel;145;39,2;2,2;Hyundai
+ Q7;59500;Automatic;4000;Diesel;145;33,2;3;audi
+ 1 Series;26991;Semi-Auto;5;Petrol;145;40,4;1,5;BMW
+ T-Roc;21450;Manual;3972;Petrol;145;42,2;1,5;vw
+ Q2;27500;Semi-Auto;4500;Petrol;145;42,2;1,5;audi
+ Polo;15950;Automatic;1000;Petrol;145;45,6;1;vw
+ A4;31265;Semi-Auto;7963;Petrol;145;41,5;2;audi
+ T-Cross;18990;Manual;5250;Petrol;145;48,7;1;vw
+ Q3;32500;Semi-Auto;3999;Petrol;145;31,4;2;audi
+ 2 Series;29995;Semi-Auto;1000;Petrol;145;47,9;2;BMW
+ Tucson;23500;Manual;4092;Diesel;145;48,7;1,6;Hyundai
+ Focus;18511;Manual;771;Diesel;150;74,3;1,5;Ford
+ Golf;27500;Semi-Auto;100;Hybrid;145;44,8;1,5;vw
+ X2;30413;Semi-Auto;101;Petrol;145;39,2;2;BMW
+ Q3;37888;Semi-Auto;2500;Petrol;145;30,7;2;audi
+ Q2;23888;Manual;4000;Petrol;145;43,5;1,5;audi
+ Q3;28990;Manual;1500;Petrol;145;40,9;1,5;audi
+ Golf;24499;Manual;5000;Petrol;150;49,6;1,5;vw
+ Kodiaq;31000;Automatic;7034;Diesel;150;39,2;2;skoda
+ Q7;59990;Semi-Auto;6000;Diesel;145;33,2;3;audi
+ Fiesta;14500;Manual;40;Petrol;145;56,5;1;Ford
+ Up;10995;Manual;100;Petrol;145;54,3;1;vw
+ 5 Series;33990;Semi-Auto;3704;Hybrid;145;49,6;2;BMW
+ 2 Series;29000;Manual;5550;Petrol;145;43,5;1,5;BMW
+ Golf;27898;Semi-Auto;10;Hybrid;145;44,8;1,5;vw
+ Fiesta;15000;Manual;35;Petrol;145;56,5;1;Ford
+ A5;29888;Automatic;1500;Diesel;145;51,4;2;audi
+ Fiesta;16199;Manual;264;Petrol;145;58,9;1;Ford
+ Kamiq;17495;Manual;1000;Petrol;145;49,6;1;skoda
+ X5;53988;Automatic;5000;Diesel;145;37,7;3;BMW
+ Q3;33462;Semi-Auto;7914;Diesel;145;48,7;2;audi
+ M4;49623;Semi-Auto;2024;Petrol;145;34;3;BMW
+ Tiguan;34999;Manual;5000;Diesel;145;47,9;2;vw
+ 4 Series;30990;Semi-Auto;110;Petrol;145;41,5;3;BMW
+ Golf;24637;Semi-Auto;1607;Petrol;145;45,6;1,5;vw
+ Karoq;19541;Manual;652;Petrol;145;43,5;1;skoda
+ 2 Series;21950;Semi-Auto;15;Petrol;150;50,4;2;BMW
+ A4;26430;Automatic;4526;Petrol;145;42,8;2;audi
+ 3 Series;28450;Semi-Auto;101;Diesel;145;50,4;2;BMW
+ Golf;19995;Manual;10018;Other;150;50,4;1,5;vw
+ T-Cross;20490;Automatic;1598;Petrol;145;45,6;1;vw
+ Touareg;41950;Semi-Auto;1589;Diesel;145;34,5;3;vw
+ M4;45990;Semi-Auto;6;Petrol;145;34;3;BMW
+ Z4;35000;Semi-Auto;5;Petrol;150;37,2;2;BMW
+ 4 Series;31003;Semi-Auto;2400;Diesel;145;50,4;3;BMW
+ Tiguan;28942;Semi-Auto;4992;Diesel;145;37,2;1,5;vw
+ Arteon;37500;Semi-Auto;2500;Diesel;145;37,7;2;vw
+ Ioniq;24995;Automatic;2501;Hybrid;135;62,8;1,6;Hyundai
+ Q5;36990;Semi-Auto;6000;Diesel;145;38,2;2;audi
+ Caravelle;43495;Semi-Auto;2000;Diesel;150;33,6;2;vw
+ Corolla;18990;Manual;3000;Petrol;145;39,2;1,2;toyota
+ Santa Fe;36995;Semi-Auto;5000;Diesel;145;39,2;2,2;Hyundai
+ 1 Series;22000;Manual;2000;Petrol;145;44,1;1,5;BMW
+ Tiguan;27790;Semi-Auto;10;Diesel;145;46,3;2;vw
+ X5;44875;Semi-Auto;2000;Diesel;145;36,7;3;BMW
+ A4;52000;Automatic;1000;Diesel;145;40,9;3;audi
+ Fiesta;14500;Manual;5;Petrol;145;56,5;1;Ford
+ Polo;14950;Manual;1968;Petrol;145;47,9;1;vw
+ Focus;21990;Automatic;1955;Diesel;150;64,2;2;Ford
+ M4;56995;Semi-Auto;1200;Petrol;145;32,5;3;BMW
+ Golf;28990;Semi-Auto;6000;Petrol;145;37,7;2;vw
+ Golf;21999;Manual;2000;Petrol;150;49,6;1,5;vw
+ Q3;32444;Automatic;1500;Petrol;145;31,4;0;audi
+ 2 Series;27998;Manual;1580;Petrol;150;43,5;1,5;BMW
+ Polo;15490;Manual;10;Petrol;150;48,7;1;vw
+ T-Roc;25680;Manual;295;Petrol;145;42,2;1,5;vw
+ Fabia;17415;Manual;2777;Petrol;150;49,6;1;skoda
+ Q5;37495;Automatic;7511;Petrol;145;32,1;2;audi
+ 2 Series;36771;Semi-Auto;485;Petrol;145;36,2;2;BMW
+ Touran;28950;Semi-Auto;2000;Diesel;150;45,6;2;vw
+ Karoq;22990;Automatic;3587;Petrol;150;41,5;1,5;skoda
+ Octavia;18995;Manual;500;Diesel;145;67,3;1,6;skoda
+ Kamiq;23000;Semi-Auto;10;Petrol;150;43,5;1,5;skoda
+ 6 Series;37980;Semi-Auto;11;Diesel;145;53,3;3;BMW
+ Passat;33889;Automatic;25;Petrol;145;33,2;2;vw
+ A5;33990;Semi-Auto;6000;Diesel;145;48,7;2;audi
+ X6;69995;Semi-Auto;999;Diesel;145;34,9;3;BMW
+ 1 Series;30440;Semi-Auto;1500;Petrol;145;34,5;2;BMW
+ Tucson;25995;Semi-Auto;985;Petrol;145;35,8;1,6;Hyundai
+ Passat;22480;Manual;2576;Petrol;145;45,6;1,5;vw
+ Q3;34000;Automatic;1000;Petrol;145;31,4;2;audi
+ Corolla;26980;Automatic;5000;Hybrid;135;72,4;2;toyota
+ 2 Series;28995;Semi-Auto;5;Diesel;145;67,3;2;BMW
+ Polo;14999;Manual;2000;Petrol;145;47,9;1;vw
+ Yaris;16691;Manual;1000;Petrol;145;47,9;1,5;toyota
+ Fiesta;16999;Manual;12;Petrol;145;56,5;1;Ford
+ 2 Series;35440;Semi-Auto;600;Petrol;145;36,2;2;BMW
+ Fiesta;14995;Manual;100;Petrol;145;56,5;1;Ford
+ Q5;49495;Semi-Auto;4000;Hybrid;135;117,7;2;audi
+ 4 Series;32148;Semi-Auto;16;Diesel;145;60,1;2;BMW
+ Fiesta;14500;Manual;18;Petrol;145;56,5;1;Ford
+ Golf;41990;Semi-Auto;3000;Petrol;145;32,8;2;vw
+ X1;31825;Semi-Auto;99;Diesel;145;47,9;2;BMW
+ Q3;34490;Automatic;500;Diesel;145;48,7;2;audi
+ Golf;28640;Automatic;100;Petrol;145;47,1;1,5;vw
+ A1;21000;Manual;4500;Petrol;145;47,9;1;audi
+ A5;30850;Semi-Auto;4500;Diesel;145;47,1;2;audi
+ Passat;29990;Semi-Auto;1055;Diesel;145;52,3;2;vw
+ Q5;51970;Semi-Auto;215;Diesel;145;34,5;3;audi
+ Polo;16990;Manual;5000;Petrol;145;52,3;1;vw
+ Q5;48000;Automatic;5000;Diesel;145;34,5;3;audi
+ Passat;25990;Manual;1016;Diesel;145;57,7;2;vw
+ Tiguan;32990;Manual;3500;Diesel;150;47,9;2;vw
+ Arteon;29990;Semi-Auto;2555;Diesel;145;53,3;2;vw
+ Passat;27999;Automatic;1000;Diesel;145;52,3;2;vw
+ Karoq;30490;Automatic;6560;Diesel;145;41,5;2;skoda
+ Tiguan;32790;Semi-Auto;2500;Petrol;145;31;2;vw
+ A1;22990;Semi-Auto;5432;Petrol;145;44,8;1,5;audi
+ T-Roc;21230;Manual;1897;Petrol;145;44,1;1;vw
+ Tiguan;24998;Manual;10;Diesel;150;47,9;2;vw
+ X1;25490;Semi-Auto;5656;Diesel;150;47,9;2;BMW
+ Octavia;20995;Semi-Auto;1000;Diesel;145;70,6;1,6;skoda
+ X1;29991;Semi-Auto;2000;Diesel;145;47,9;2;BMW
+ M4;49980;Semi-Auto;1000;Petrol;145;34;3;BMW
+ Golf;32990;Semi-Auto;6000;Petrol;145;32,8;2;vw
+ A4;29995;Manual;4000;Petrol;145;38,2;2;audi
+ Q3;30990;Semi-Auto;476;Petrol;150;40,4;1,5;audi
+ Fiesta;14950;Manual;100;Petrol;145;56,5;1;Ford
+ Tiguan;26950;Manual;5000;Diesel;145;47,9;2;vw
+ Arteon;31450;Automatic;1786;Petrol;145;47,1;2;vw
+ Ioniq;23895;Automatic;4152;Hybrid;135;1,1;1,6;Hyundai
+ 4 Series;27003;Semi-Auto;1816;Petrol;145;48,7;2;BMW
+ Golf;21498;Semi-Auto;15;Diesel;150;53,3;2;vw
+ X3;35995;Semi-Auto;4373;Diesel;145;54,3;2;BMW
+ Polo;15985;Semi-Auto;362;Petrol;145;45,6;1;vw
+ A3;20481;Manual;2661;Diesel;145;54,3;1,6;audi
+ T-Roc;22490;Manual;3555;Diesel;145;50,4;2;vw
+ T-Roc;38990;Semi-Auto;2000;Petrol;145;32,5;2;vw
+ T-Cross;19500;Manual;2000;Petrol;145;47,9;1;vw
+ A3;32500;Semi-Auto;3007;Petrol;145;34,5;2;audi
+ Aygo;10795;Semi-Auto;4569;Petrol;150;56,5;1;toyota
+ 3 Series;34495;Semi-Auto;1501;Diesel;145;50,4;2;BMW
+ Z4;34995;Semi-Auto;1501;Petrol;145;38,7;2;BMW
+ Tourneo Connect;20950;Automatic;409;Diesel;145;44,1;1,5;Ford
+ Corolla;22990;Automatic;2797;Hybrid;135;62,8;1,8;toyota
+ T-Cross;21495;Automatic;500;Petrol;145;45,6;1;vw
+ TT;43990;Semi-Auto;5000;Petrol;145;35,3;2;audi
+ Golf;23990;Manual;10;Petrol;145;49,6;1,5;vw
+ I10;12495;Manual;2100;Petrol;145;56,5;1;Hyundai
+ Golf;31498;Semi-Auto;15;Petrol;150;32,8;2;vw
+ Fiesta;14995;Manual;8;Petrol;145;56,5;1;Ford
+ Up;9700;Manual;100;Petrol;145;54,3;1;vw
+ X7;77995;Semi-Auto;7500;Diesel;150;31,4;3;BMW
+ Ioniq;21695;Automatic;3000;Hybrid;135;62,8;1,6;Hyundai
+ Golf;23990;Semi-Auto;5000;Petrol;145;45,6;1,5;vw
+ Q5;40990;Semi-Auto;5000;Petrol;145;32,1;2;audi
+ A4;44000;Automatic;7500;Diesel;145;39,2;3;audi
+ Karoq;20000;Manual;3150;Diesel;150;62,8;1,6;skoda
+ A1;22888;Semi-Auto;4000;Petrol;145;44,8;1,5;audi
+ Up;10500;Manual;100;Petrol;145;54,3;1;vw
+ 3 Series;33990;Semi-Auto;5665;Petrol;145;40,4;2;BMW
+ Golf;29250;Semi-Auto;2000;Diesel;145;49,6;2;vw
+ Q2;24990;Manual;1500;Petrol;145;43,5;0;audi
+ Golf;24999;Automatic;776;Diesel;145;60,1;2;vw
+ T-Roc;27499;Semi-Auto;3000;Petrol;145;39,8;1,5;vw
+ M4;49490;Semi-Auto;7;Petrol;145;32,5;3;BMW
+ Polo;18990;Semi-Auto;100;Petrol;145;46,3;1;vw
+ Touran;25990;Semi-Auto;15;Diesel;145;45,6;2;vw
+ Tiguan;31490;Automatic;4444;Petrol;145;31,4;2;vw
+ Fabia;13990;Manual;10;Petrol;145;50,4;1;skoda
+ Passat;20998;Semi-Auto;20;Diesel;145;49,6;1,6;vw
+ Caravelle;49995;Semi-Auto;1500;Diesel;145;34;2;vw
+ X1;29476;Semi-Auto;100;Diesel;145;36,7;2;BMW
+ Passat;20998;Semi-Auto;12;Diesel;145;49,6;1,6;vw
+ T-Roc;29950;Manual;1000;Petrol;150;42,2;1,5;vw
+ Passat;29780;Semi-Auto;826;Diesel;145;52,3;2;vw
+ A4;35000;Semi-Auto;3000;Petrol;145;39,2;2;audi
+ A5;30000;Semi-Auto;1000;Diesel;145;50,4;2;audi
+ Focus;19995;Manual;130;Petrol;145;58,9;1;Ford
+ Up;10500;Manual;1000;Petrol;145;54,3;1;vw
+ GT86;31000;Manual;3000;Petrol;145;33,2;2;toyota
+ Superb;25995;Semi-Auto;2500;Petrol;150;36,7;1,5;skoda
+ A5;31690;Semi-Auto;3360;Diesel;145;50,4;2;audi
+ T-Roc;32500;Semi-Auto;2500;Diesel;145;49,6;2;vw
+ Passat;26995;Semi-Auto;1000;Diesel;150;49,6;2;vw
+ 4 Series;27495;Semi-Auto;10;Diesel;145;65,7;2;BMW
+ Golf;20995;Manual;899;Petrol;145;47,1;1,5;vw
+ A5;31500;Automatic;10;Diesel;145;47,1;2;audi
+ Tucson;23480;Semi-Auto;3100;Petrol;145;36,2;1,6;Hyundai
+ A4;32995;Semi-Auto;3000;Petrol;145;42,2;2;audi
+ T-Cross;23980;Automatic;450;Petrol;145;45,6;1;vw
+ Puma;21990;Manual;1255;Petrol;145;50,4;1;Ford
+ Puma;19979;Manual;1440;Petrol;145;51,4;1;Ford
+ A5;33000;Semi-Auto;6000;Petrol;145;39,8;2;audi
+ M2;44995;Semi-Auto;101;Petrol;150;29,1;3;BMW
+ T-Roc;24990;Manual;2000;Petrol;145;44,1;1,5;vw
+ Caddy Maxi Life;19995;Semi-Auto;2000;Diesel;145;46,3;2;vw
+ Tiguan;28490;Semi-Auto;611;Diesel;145;46,3;2;vw
+ T-Roc;19995;Manual;4645;Diesel;150;50,4;1,6;vw
+ X2;33890;Automatic;1980;Petrol;145;34;2;BMW
+ 3 Series;36995;Manual;103;Diesel;145;54,3;2;BMW
+ 2 Series;29995;Semi-Auto;1501;Petrol;145;47,9;2;BMW
+ RS3;42490;Automatic;320;Petrol;145;29,7;2,5;audi
+ Q8;62900;Semi-Auto;768;Diesel;145;32,8;3;audi
+ Kuga;20450;Manual;1196;Diesel;150;38,2;2;Ford
+ Passat;29290;Semi-Auto;10;Petrol;145;41,5;1,5;vw
+ Z4;39991;Semi-Auto;202;Petrol;145;37,2;2;BMW
+ Scala;15999;Manual;1589;Petrol;145;49,6;1;skoda
+ Scala;17650;Semi-Auto;4112;Petrol;145;45,6;1,5;skoda
+ Golf;19500;Manual;3960;Diesel;145;57,7;1,6;vw
+ X4;44495;Automatic;5000;Diesel;145;40,9;3;BMW
+ 3 Series;28980;Semi-Auto;892;Petrol;145;42,2;2;BMW
+ Kodiaq;29890;Automatic;2500;Diesel;145;39,2;2;skoda
+ Superb;35990;Semi-Auto;5000;Hybrid;135;176,6;1,4;skoda
+ X4;48993;Semi-Auto;500;Petrol;145;26,9;3;BMW
+ Polo;15750;Manual;1000;Petrol;145;52,3;1;vw
+ X6;55500;Semi-Auto;9612;Diesel;145;34,9;3;BMW
+ 3 Series;37995;Semi-Auto;1000;Diesel;145;47,9;3;BMW
+ Z4;29490;Semi-Auto;13;Petrol;145;38,7;2;BMW
+ Puma;21495;Manual;1543;Petrol;145;50,4;1;Ford
+ 4 Series;27669;Manual;151;Diesel;150;62,8;2;BMW
+ Golf;21498;Semi-Auto;50;Diesel;150;53,3;2;vw
+ 3 Series;30940;Semi-Auto;1586;Diesel;150;50,4;2;BMW
+ Fiesta;17000;Manual;627;Petrol;145;54,3;1;Ford
+ 3 Series;24990;Semi-Auto;22;Diesel;150;54,3;2;BMW
+ Fiesta;19995;Manual;1732;Petrol;145;55,4;1;Ford
+ A7;51995;Semi-Auto;500;Diesel;145;38,7;3;audi
+ A5;30444;Automatic;3000;Petrol;145;40,4;2;audi
+ Mustang;41000;Manual;100;Petrol;145;22,8;5;Ford
+ 3 Series;32990;Semi-Auto;1125;Diesel;145;50,4;2;BMW
+ C-HR;26980;Automatic;2448;Hybrid;140;57,7;1,8;toyota
+ Tiguan;32495;Semi-Auto;4500;Petrol;150;31;2;vw
+ Q3;33444;Semi-Auto;4846;Petrol;145;31,4;2;audi
+ 3 Series;35495;Semi-Auto;1501;Diesel;145;47,1;3;BMW
+ EcoSport;17999;Manual;755;Petrol;145;53,3;1;Ford
+ Aygo;12500;Manual;616;Petrol;145;57,7;1;toyota
+ Tiguan;21998;Manual;15;Petrol;150;40,9;1,5;vw
+ Kamiq;20991;Manual;1000;Petrol;145;46,3;1,5;skoda
+ Golf;33792;Automatic;156;Petrol;145;32,8;2;vw
+ Golf;18950;Manual;2560;Petrol;145;47,1;1,5;vw
+ Karoq;27186;Automatic;2412;Diesel;145;62,8;1,6;skoda
+ T-Roc;32995;Semi-Auto;2000;Petrol;150;32,5;2;vw
+ Kodiaq;27295;Automatic;3295;Petrol;150;31,7;2;skoda
+ Caddy Maxi Life;20990;Semi-Auto;1000;Diesel;145;46,3;2;vw
+ Mondeo;21000;Manual;7;Diesel;145;65,7;2;Ford
+ 5 Series;34795;Semi-Auto;102;Diesel;145;55,4;2;BMW
+ Up;11690;Manual;2500;Petrol;145;51,4;1;vw
+ Q7;78000;Automatic;1000;Diesel;145;30,1;4;audi
+ 3 Series;43990;Semi-Auto;2894;Petrol;150;33,6;3;BMW
+ 2 Series;24980;Manual;25;Petrol;145;52,3;1,5;BMW
+ Amarok;30995;Automatic;4500;Diesel;260;36,2;3;vw
+ Up;13317;Manual;5000;Petrol;145;50,4;1;vw
+ I30;27995;Manual;1622;Petrol;150;34;2;Hyundai
+ Q5;49865;Semi-Auto;3272;Diesel;145;34,5;3;audi
+ Kona;23000;Automatic;1000;Hybrid;135;52,3;1,6;Hyundai
+ Golf;19000;Manual;4444;Diesel;145;55,4;1,6;vw
+ Passat;21998;Semi-Auto;30;Diesel;145;49,6;1,6;vw
+ Polo;14990;Manual;50;Petrol;145;48,7;1;vw
+ T-Cross;22750;Manual;3000;Diesel;145;52,3;1,6;vw
+ Q3;28900;Automatic;3854;Diesel;145;48,7;2;audi
+ 1 Series;27495;Semi-Auto;6000;Diesel;145;48,7;2;BMW
+ Q2;26995;Manual;2000;Petrol;145;43,5;1,5;audi
+ T-Cross;25395;Automatic;298;Petrol;145;45,6;1;vw
+ A1;20990;Semi-Auto;2000;Petrol;145;45,6;1;audi
+ 5 Series;33980;Semi-Auto;1175;Diesel;145;62,8;2;BMW
+ TT;33888;Manual;905;Petrol;145;34,9;2;audi
+ Kamiq;21750;Semi-Auto;2500;Petrol;145;43,5;1,5;skoda
+ Up;11990;Manual;50;Petrol;145;51,4;1;vw
+ Polo;18900;Manual;5;Petrol;145;47,9;1;vw
+ Ioniq;25495;Automatic;2000;Hybrid;135;62,8;1,6;Hyundai
+ I10;12990;Manual;2000;Petrol;145;53,3;1;Hyundai
+ 3 Series;33875;Semi-Auto;2000;Petrol;145;40,4;2;BMW
+ I10;13500;Manual;1000;Petrol;150;53,3;1;Hyundai
+ 7 Series;52999;Semi-Auto;5000;Diesel;145;42,2;3;BMW
+ X2;26850;Semi-Auto;105;Diesel;145;50,4;2;BMW
+ X2;32540;Semi-Auto;99;Petrol;150;39,2;2;BMW
+ A4;31680;Automatic;6524;Petrol;145;38,2;2;audi
+ Golf;39950;Automatic;1000;Petrol;145;32,8;2;vw
+ Touareg;47965;Semi-Auto;7000;Diesel;145;33,6;3;vw
+ Corolla;24995;Automatic;2136;Hybrid;135;56,5;1,8;toyota
+ Kona;14490;Manual;1458;Petrol;150;44,8;1;Hyundai
+ Polo;14980;Manual;1000;Petrol;150;48,7;1;vw
+ X7;69990;Semi-Auto;5087;Diesel;145;33,6;3;BMW
+ Golf;21995;Manual;1000;Petrol;150;49,6;1,5;vw
+ Polo;16290;Manual;100;Petrol;145;52,3;1;vw
+ Q3;26700;Manual;1700;Petrol;150;40,9;1,5;audi
+ Mondeo;20000;Manual;10;Diesel;145;65,7;2;Ford
+ A4;29000;Semi-Auto;20;Diesel;145;54,3;2;audi
+ X2;28279;Semi-Auto;101;Diesel;145;50,4;2;BMW
+ 2 Series;29999;Semi-Auto;5000;Diesel;145;48,7;2;BMW
+ A4;26995;Manual;4000;Petrol;145;42,2;2;audi
+ Kamiq;19885;Semi-Auto;1575;Petrol;145;43,5;1,5;skoda
+ Tiguan;27500;Manual;2589;Diesel;145;47,9;2;vw
+ Polo;13999;Manual;5000;Petrol;145;47,9;1;vw
+ Aygo;9680;Manual;5000;Petrol;145;57,7;1;toyota
+ Golf SV;23290;Semi-Auto;10;Petrol;145;42,8;1,5;vw
+ 2 Series;23789;Semi-Auto;1500;Petrol;150;50,4;1,5;BMW
+ Golf;33990;Automatic;100;Petrol;150;32,8;2;vw
+ 3 Series;35999;Semi-Auto;5000;Diesel;145;47,9;3;BMW
+ Q2;26990;Semi-Auto;5000;Petrol;145;42,2;1,5;audi
+ S-MAX;32999;Automatic;49;Diesel;145;43,5;2;Ford
+ TT;54995;Semi-Auto;2000;Petrol;145;30,1;2,5;audi
+ X5;57990;Semi-Auto;1500;Diesel;145;37,7;3;BMW
+ A3;28000;Automatic;8000;Petrol;145;41,5;1,5;audi
+ 5 Series;32495;Semi-Auto;931;Hybrid;145;49,6;2;BMW
+ Karoq;26995;Manual;50;Diesel;145;42,8;2;skoda
+ 4 Series;30403;Semi-Auto;2882;Petrol;145;41,5;3;BMW
+ Tiguan;33990;Manual;2489;Diesel;145;42,8;2;vw
+ T-Roc;24990;Semi-Auto;3000;Petrol;145;39,8;1,5;vw
+ Q7;84990;Semi-Auto;6000;Diesel;150;29,4;4;audi
+ 5 Series;32850;Semi-Auto;12;Hybrid;145;62,8;2;BMW
+ Hilux;23495;Manual;100;Diesel;260;2,8;2,4;toyota
+ 3 Series;28990;Semi-Auto;14;Diesel;150;50,4;2;BMW
+ X3;42990;Semi-Auto;6235;Diesel;150;36,7;3;BMW
+ A3;32495;Semi-Auto;7500;Hybrid;135;141,3;1,4;audi
+ Land Cruiser;50995;Automatic;3500;Diesel;145;30,1;2,8;toyota
+ Q3;30990;Semi-Auto;1000;Petrol;150;40,4;1,5;audi
+ 4 Series;36000;Semi-Auto;11;Diesel;145;50,4;3;BMW
+ Polo;14999;Manual;2000;Petrol;145;52,3;1;vw
+ Golf;33841;Semi-Auto;3879;Petrol;150;32,8;2;vw
+ Focus;25500;Automatic;4325;Petrol;145;39,8;1,5;Ford
+ Puma;22998;Manual;1000;Petrol;150;49,6;1;Ford
+ Scala;16995;Manual;1000;Petrol;150;49,6;1;skoda
+ Polo;13999;Manual;5000;Petrol;145;52,3;1;vw
+ Ka+;11999;Manual;2000;Petrol;145;43,5;0;Ford
+ 3 Series;24490;Manual;5;Diesel;145;56,5;2;BMW
+ T-Cross;21495;Manual;1500;Diesel;145;53,3;1,6;vw
+ Arteon;31500;Semi-Auto;3000;Diesel;145;44,1;2;vw
+ X3;36000;Semi-Auto;3116;Diesel;145;54,3;2;BMW
+ Polo;19260;Manual;5000;Petrol;145;49,6;1;vw
+ Golf;22990;Semi-Auto;1437;Hybrid;145;44,8;1,5;vw
+ Polo;18495;Manual;1000;Petrol;150;49,6;1;vw
+ Q3;29980;Manual;6840;Petrol;145;39,8;1,5;audi
+ Tiguan;35000;Manual;10;Diesel;145;47,9;2;vw
+ 2 Series;23380;Semi-Auto;666;Diesel;145;51,4;2;BMW
+ 1 Series;24980;Semi-Auto;5000;Petrol;145;42,8;1,5;BMW
+ Polo;14440;Manual;1248;Petrol;145;48,7;1;vw
+ Golf;31498;Semi-Auto;50;Petrol;150;32,8;2;vw
+ Octavia;19690;Semi-Auto;2689;Petrol;145;45,6;1,5;skoda
+ T-Cross;20299;Manual;1910;Petrol;145;48,7;1;vw
+ M4;51402;Semi-Auto;101;Petrol;145;34;3;BMW
+ 3 Series;32980;Semi-Auto;1000;Diesel;145;50,4;2;BMW
+ X2;29993;Semi-Auto;500;Petrol;145;38,7;2;BMW
+ A3;27881;Semi-Auto;5432;Petrol;145;44,1;1,5;audi
+ Q3;32788;Manual;1500;Petrol;145;40,4;1,5;audi
+ T-Cross;21999;Automatic;565;Petrol;145;45,6;1;vw
+ Q7;59750;Automatic;6500;Diesel;145;33,2;3;audi
+ A1;21390;Manual;1500;Petrol;145;47,9;1;audi
+ Up;10990;Manual;25;Petrol;150;54,3;1;vw
+ T-Roc;25490;Automatic;3107;Diesel;145;49,6;2;vw
+ T-Roc;26000;Manual;2000;Petrol;145;42,2;1,5;vw
+ Up;15485;Manual;622;Petrol;145;53,3;1;vw
+ 2 Series;24475;Manual;117;Diesel;145;51,4;2;BMW
+ Aygo;10740;Manual;500;Petrol;145;57,7;1;toyota
+ A4;42900;Semi-Auto;2000;Diesel;145;39,8;3;audi
+ Golf;19000;Manual;1000;Petrol;145;50,4;1,5;vw
+ 5 Series;30995;Semi-Auto;999;Hybrid;145;49,6;2;BMW
+ Golf;20995;Manual;250;Petrol;145;47,1;1,5;vw
+ Q7;62990;Semi-Auto;6000;Diesel;145;33,2;3;audi
+ Prius;27990;Automatic;1500;Hybrid;135;235;1,8;toyota
+ Polo;17590;Manual;1259;Petrol;145;49,6;1;vw
+ T-Roc;25750;Manual;576;Petrol;145;42,2;1,5;vw
+ X6;56000;Automatic;7486;Diesel;145;34,9;3;BMW
+ Polo;14690;Manual;1112;Petrol;145;48,7;1;vw
+ Tiguan;28500;Automatic;1000;Diesel;145;46,3;2;vw
+ Golf;20999;Manual;517;Petrol;145;49,6;1,5;vw
+ Up;11520;Manual;10;Petrol;145;51,4;1;vw
+ Q2;26888;Manual;4000;Petrol;145;43,5;1,5;audi
+ Kamiq;19790;Automatic;5000;Petrol;145;44,1;1,5;skoda
+ Passat;21998;Semi-Auto;20;Diesel;150;49,6;1,6;vw
+ Tiguan Allspace;33990;Manual;5000;Diesel;145;45,6;2;vw
+ A1;21450;Semi-Auto;2500;Petrol;150;44,1;1;audi
+ 8 Series;61485;Semi-Auto;6374;Diesel;145;26,7;3;BMW
+ A4;25990;Semi-Auto;1500;Petrol;145;42,8;2;audi
+ Q3;39888;Semi-Auto;1765;Petrol;145;31;2;audi
+ A1;25444;Semi-Auto;1500;Petrol;145;44,8;1,5;audi
+ Polo;16480;Manual;10;Petrol;145;52,3;1;vw
+ Kodiaq;32950;Automatic;4134;Diesel;145;39,2;2;skoda
+ 2 Series;22950;Manual;14;Petrol;145;52,3;1,5;BMW
+ Fiesta;15491;Manual;251;Petrol;145;51,4;1;Ford
+ Q5;51495;Semi-Auto;5000;Diesel;145;34,5;3;audi
+ Q5;36888;Automatic;3000;Diesel;145;38,2;2;audi
+ Puma;22500;Manual;484;Petrol;145;50,4;1;Ford
+ Q5;51000;Semi-Auto;5000;Diesel;145;34,5;3;audi
+ X2;26890;Manual;9;Diesel;145;53,3;2;BMW
+ Kamiq;18991;Manual;986;Petrol;145;47,1;1,5;skoda
+ X5;52990;Semi-Auto;5899;Diesel;145;37,7;3;BMW
+ Up;10980;Manual;100;Petrol;145;54,3;1;vw
+ X2;23450;Manual;15;Diesel;145;55,4;2;BMW
+ 8 Series;79991;Semi-Auto;151;Diesel;145;26,7;3;BMW
